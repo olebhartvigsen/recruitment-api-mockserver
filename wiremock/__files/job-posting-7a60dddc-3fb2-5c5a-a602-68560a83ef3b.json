@@ -3,21 +3,21 @@
     "recruitmentId": 37640,
     "jobPosting": {
       "jobPostingId": "7a60dddc-3fb2-5c5a-a602-68560a83ef3b",
-      "titleDa": "Research Assistant in Physical Computing and Wearables at the Department of Computer Science, Aarhus University",
-      "titleEn": null,
-      "shortTextDa": "Ledig stilling ved Institut for Datalogi, Aarhus Universitet",
-      "shortTextEn": null,
-      "descriptionDa": {
+      "titleDa": null,
+      "titleEn": "Research Assistant in Physical Computing and Wearables at the Department of Computer Science, Aarhus University",
+      "shortTextDa": null,
+      "shortTextEn": "Ledig stilling ved Institut for Datalogi, Aarhus Universitet",
+      "descriptionDa": null,
+      "descriptionEn": {
         "technicalText": "We invite applications of Electrical Engineers (Ba/Ma) for participating in a research projects for 2 months starting May, 1st, 2026 in the HCC section at the Department of Computer Science.\nOur research is at the cutting edge of Human-Computer Interaction (HCI), personal fabrication, and physical user interfaces. As a research assistant, you will support our research team on implementing a novel oral interface technology. We pioneered the first fabrication platform for embedding custom sensors, actuators, microcontrollers, and batteries in a small enough form factor to embed them in 3D printed retainers (MouthIO). These smart retainers are invisible enabling subtle interaction. Your task will be to support the team in miniaturizing and programming the internal electronics of these wearable devices.\nQualifications and specific competences:\nYou should hold a Bachelor’s or a Master’s degree in electrical engineering. You should show strong competencies in PCB Design (KiCad or similar), programming microcontrollers (ESP32, ATMega,…), and building fully functional prototypes (3D printing, laser cutting, product design). Prior experience in Human-Computer Interaction is recommended but not mandatory.\nContact Information: For formal inquiries, contact Assistant Professor Michael Wessely (\n[email protected]\n).\nApplication procedure\nShort-listing is used. This means that after the deadline for applications – and with the assistance from the assessment committee chairman, and the assessment committee if necessary, – the head of department selects the candidates to be evaluated. The selection is made on the basis of an assessment of who of the candidates are most relevant considering the requirements of the advertisement. All applicants will be notified within 6 weeks whether or not their applications have been sent to an expert assessment committee for evaluation. The selected applicants will be informed about the composition of the committee and will receive his/her assessment.\nLetter of reference\nIf you want a referee to upload a letter of reference on your behalf, please state the referee’s contact information when you submit your application. We strongly recommend that you make an agreement with the person in question before you enter the referee’s contact information, and that you ensure that the referee has enough time to write the letter of reference before the application deadline. Unfortunately, it is not possible to ensure that letters of reference received after the application deadline will be taken into consideration.\nIf you wish to add a referee\nafter\nyou have submitted your application, you must send this person’s details (name, job title, place of work, and email address) as well as the name of the position you have applied for to:\n[email protected]\nFormalities and salary range\nNatural Sciences refers to the\nMinisterial Order on the Appointment of Academic Staff at Danish Universities under the Danish Ministry of Science, Technology and Innovation.\nThe application must be in English and include a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities, teaching portfolio and verified information on previous teaching experience (if any). Guidelines for applicants can be found\nhere\n.\nAppointment shall be in accordance with the collective labour agreement between the Danish Ministry of Taxation and the Danish Confederation of Professional Associations. Further information on qualification requirements and job content\nmay\nbe found in the\nMemorandum on Job Structure for Academic Staff at Danish Universities\n.\nSalary depends on seniority as agreed between the Danish Ministry of Taxation and the Confederation of Professional Associations.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
         "hrText": null,
         "auText": null
       },
-      "descriptionEn": null,
       "publicationDate": "2026-03-20T00:00:00+01:00",
       "applicationDeadline": "2026-04-10T23:59:00+01:00",
       "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=5b78f98f-f0c1-4763-9587-d85395771317&languageKey=da-DK",
       "languages": [
-        "da"
+        "en"
       ],
       "lastUpdated": "2026-03-20T00:00:00+01:00"
     },

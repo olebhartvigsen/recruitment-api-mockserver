@@ -3,21 +3,21 @@
     "recruitmentId": 37600,
     "jobPosting": {
       "jobPostingId": "d0e21670-6d38-561e-ad3d-658df217ccde",
-      "titleDa": "Student Data Scientist at Center for Humanities Computing",
-      "titleEn": null,
-      "shortTextDa": "Ledig stilling ved Institut for Kultur og Samfund - Center for Humanities Computing, Aarhus Universitet",
-      "shortTextEn": null,
-      "descriptionDa": {
+      "titleDa": null,
+      "titleEn": "Student Data Scientist at Center for Humanities Computing",
+      "shortTextDa": null,
+      "shortTextEn": "Ledig stilling ved Institut for Kultur og Samfund - Center for Humanities Computing, Aarhus Universitet",
+      "descriptionDa": null,
+      "descriptionEn": {
         "technicalText": "Center for Humanities Computing (CHC) has openings for student data scientists to work on and support ongoing research projects. CHC is an interdisciplinary research and development unit at Aarhus University that collaborates with researchers from diverse fields, including arts and humanities.\nWe view equality and diversity as assets, and we welcome all applicants — you don't need to tick every box to apply. We value candidates who are eager to learn and grow, and we'll support you in doing so.\nWhat you'll do\nAs a student data scientist, you'll be part of a collaborative team working on research projects. Your work spans both the technical — writing clean code, building data pipelines, designing analyses — and the communicative: asking good questions and working closely with researchers to understand what they actually need.\nThe position is 8 hours per week, with flexibility around exam periods. You're also warmly invited to join CHC's social life: we have regular Friday bars, bi-weekly talks, and a collaborative team culture where curiosity is genuinely valued.\nThe employment will commence April 7, 2026, or as soon as possible thereafter, and ends after one year.\nWhat we're looking for\nWe value a mix of technical and collaborative skills. You might have some or all of the following:\nStrong communication skills — you can articulate ideas clearly and work with others to define problems\nA curious mindset and willingness to ask questions\nProgramming experience, e.g., in Python or bash\nComfortable with working in a terminal and Linux-based environments (e.g. UCloud)\nFamiliarity with version control, such as Git, and an interest in collaborative or open source development\nExperience with AI, machine learning, computational linguistics, or computer vision (e.g. PyTorch)\nRead more about the center here: Center for Humanities Computing:\nCenter for Humanities Computing | Aarhus University\nIf you have any questions, please contact Kenneth Christian Enevoldsen -\n[email protected]\nSalary and terms of employment\nIn accordance with the current collective agreement between the Ministry of Taxation\nand PROSA.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to\nfoster a culture in which each individual has opportunities to thrive, achieve and\ndevelop. We view equality and diversity as assets, and we welcome all applicants.\nFaculty of Arts\nThe Faculty of Arts is one of five main academic areas at Aarhus University.\nThe faculty contributes to Aarhus University's research, talent development, knowledge\nexchange and degree programmes.\nWith its 700 academic staff members, 200 PhD students, 9,000 BA and MA students,\nand 1,500 students following continuing/further education programmes, the faculty\nconstitutes a strong and diverse research and teaching environment.\nThe Faculty of Arts consists of the School of Communication and Culture, the School of\nCulture and Society and the Danish School of Education. Each of these units has\nstrong academic environments and forms the basis for interdisciplinary research and\neducation.\nThe faculty's academic environments and degree programmes engage in international\ncollaboration and share the common goal of contributing to the development of\nknowledge, welfare and culture in interaction with society.\nRead more at arts.\nau.dk/en\nThe application must be submitted via Aarhus University’s recruitment system.",
         "hrText": null,
         "auText": null
       },
-      "descriptionEn": null,
       "publicationDate": "2026-03-19T00:00:00+01:00",
       "applicationDeadline": "2026-04-02T23:59:00+01:00",
       "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=15171b81-944e-4629-91e3-179050ad09bb&languageKey=da-DK",
       "languages": [
-        "da"
+        "en"
       ],
       "lastUpdated": "2026-03-19T00:00:00+01:00"
     },
