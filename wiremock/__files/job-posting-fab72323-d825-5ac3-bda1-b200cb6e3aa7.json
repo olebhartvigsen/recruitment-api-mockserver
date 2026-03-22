@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37280,
+    "jobPosting": {
+      "jobPostingId": "fab72323-d825-5ac3-bda1-b200cb6e3aa7",
+      "titleDa": "Instruktorer til sprogcafé på Teologi",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Kultur og Samfund - Afdeling for Teologi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Afdelingen for Teologi ved Aarhus Universitet søger instruktorer til sprogcaféen i sprogfagene hebraisk, latin og græsk.\nVores sprogcafé er et tilbud til de studerende på Teologi, der har propædeutiske sprogfag i efteråret. Som instruktor i sprogcaféen bliver det din opgave at støtte og vejlede de studerende i caféen og stå til rådighed for diverse fagrelevante spørgsmål i et uformelt miljø. Sprogcaféen afholdes onsdage fra kl. 12-15 i Axis mundi.\nVi opfordrer ældre studerende på Teologi med høj faglighed inden for sprogfagene samt besiddelse af pædagogiske evner til at søge stillingen. Det skal fremgå af ansøgningen, hvilket sprog, du søger stillingen i. Ansøgningen skal desuden indeholde motivation for at søge stillingen, en kort beskrivelse af ansøgerens faglige baggrund og dokumentation for beståede eksamener og resultat i det pågældende sprog.\nAflønning sker efter gældende overenskomst for instruktorer og er for latin og hebraisk berammet til 3 timer ugentligt, svarende til 51 arbejdstimer i alt, mens stillingen i græsk er berammet til 4 timer ugentligt, svarende til 64 arbejdstimer i alt.\nAnsættelsesperiode er 1. september 2026–31. januar 2027.\nDet er en forudsætning for ansættelse, at man er aktiv studerende.\nAnsøgere skal være indstillet på et opstartsmøde inden semesterstart.\nVi gør opmærksom på, at du skal benytte\ndin AU-mail\ni forbindelse med ansøgning. Besked om ansættelse/afslag vil blive meddelt inden for fire uger efter ansøgningsfristens udløb.\nSpørgsmål kan stilles til afdelingskonsulent, Kathrine Juul Svejstrup\n[email protected]\nAnsættelsesgrundlag\nAnsættelse sker i henhold til Finansministeriet og SUL (studenterundervisere).\nAnsøgningen skal vedlægges, kopi af eksamensbevis og eventuel dokumentation for tidligere undervisningsvirksomhed.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nOm Arts\nFaculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik. Inden for denne faglige bredde huser fakultetet omkring 700 forskere, 200 ph.d.-studerende, 9.000 bachelor- og kandidatstuderende og 1.500 efter- og videreuddannelsesstuderende. Vi tror på, at de bedste idéer opstår i mødet mellem forskellige perspektiver – og at forskning, undervisning og innovation udvikles bedst i dialog med samfundet omkring os.\nDu kan finde mere information her\nFaculty of Arts | Aarhus Universitet\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-05T00:00:00+01:00",
+      "applicationDeadline": "2026-03-25T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=ef3ac859-9df1-4b4b-87cc-e9ad753bdca1&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-05T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 3,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1816,
+      "departmentNameDa": "Inst. f. Kultur og Samfund",
+      "departmentNameEn": "School of Culture and Society"
+    },
+    "position": {
+      "positionTypeCode": "342",
+      "positionTypeDa": "Undervisningsassistent",
+      "positionTypeEn": "Assistant Lecturer"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

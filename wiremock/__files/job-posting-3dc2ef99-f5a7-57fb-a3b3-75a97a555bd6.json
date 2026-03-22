@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37400,
+    "jobPosting": {
+      "jobPostingId": "3dc2ef99-f5a7-57fb-a3b3-75a97a555bd6",
+      "titleDa": "Studentermedhjælper til Ph.d.-administrationen",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Administrationscenter Health - Ph.d.-administration, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Ph.d.-administrationen, Aarhus Universitet, søger én studentermedhjælper med start 1. maj 2026. Stillingen er på 10 timer pr. uge. Timetallet kan dog variere i perioder, og vi er selvfølgelig også fleksible i forhold til dine eksamensperioder.\nOm Ph.d.-administrationen\nEnheden er en Shared Services-enhed og løser opgaver for flere fakulteter og centralt for Aarhus Universitet. Ph.d.-administrationen består af tre afdelinger, Health Ph.d.-administration, Natural Sciences og Technical Sciences Ph.d.-administration samt AU Ph.d.- og fondsbetjening. De to administrationer arbejder tæt sammen med fakulteterne og varetager administrative opgaver i forbindelse med bl.a. opslag, indskrivninger, stipendietildelinger, HR- og personaleadministration, ph.d.-forløb, bedømmelser, statistik og doktorafhandlinger. AU Ph.d.- og fondsbetjening løser tværgående initiativer på AU og yder rådgivning og ledelsesbetjening på tværs.\nVi har et professionelt, godt og uhøjtideligt arbejdsmiljø med engagerede og hjælpsomme kollegaer, som besidder både bred og dyb viden på området.\nEnheden består af ca. 40 medarbejdere, herunder en funktionschef og to afdelingsledere. Du vil blive tilknyttet afdelingen for NAT og TECH ph.d.-administration. Du kan læse mere om ph.d.-skolerne på\nphd.nat.au.dk\nog\nphd.tech.au.dk\nsamt enheden på\nph.d.-administrationen\n.\nDine arbejdsopgaver\nDu understøtter den daglige drift af de to ph.d.-skoler på NAT og TECH. Vi forventer, at du er systematisk, kan holde styr på regler og deadlines, har interesse og flair for IT-systemer, samt at du er selvkørende og fleksibel.\nVi forventer desuden, at du evner og ønsker at påtage dig en rolle i vores afdeling, hvor du bringer dine kompetencer i spil og bidrager aktivt til, at vi løbende udvikler og forbedrer vores arbejdsprocesser.\nDine opgaver består bl.a. i følgende:\nBesvarelse af generelle henvendelser i vores funktionspostkasser\nDiverse indtastnings- og kvalitetssikringsopgaver i vores it-systemer i forbindelse med de ph.d.-studerendes uddannelsesforløb og -afslutning\nJournalisering\nUdarbejdelse af diplomer\nLøbende assistance til ph.d.-partnerne\nI stillingen refererer du til afdelingsleder.\nDine kompetencer\nDu arbejder selvstændigt, struktureret og målrettet, og trives i en hverdag præget af forskelligartede driftsopgaver.\nDu har sans for detaljer og kvalitetssikring. Udadvendthed og evnen til sikkert og overbevisende at kommunikere i skrift og tale på både dansk og engelsk vil være vigtige personlige karakteristika.\nHar du mere end 1 år tilbage af din uddannelse, vil det være en fordel.\nSpørgsmål til stillingen\nHar du spørgsmål til stillingen, er du velkommen til at kontakte ph.d.-partner Mie Meulengracht Christensen, tlf: 9352 2609, e-mail:\n[email protected]\nArbejdsstedet er Ny Munkegade 120, bygning 1521, 8000 Aarhus C.\nVi forventer at afholde samtaler i uge 15.\nAnsættelsesgrundlag\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Skatteministeriet og HK/Stat.\nAnsøgning\nDin ansøgning skal indeholde følgende:\nAnsøgning\nCurriculum Vitae\nAngivelse af uddannelse (kopi af relevante eksamensbeviser)\nReferencer/anbefalinger kan uploades særskilt i e-rekrutteringssystemet\nVi henviser til fakultetets\nVejledning for ansøgere\n.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-12T00:00:00+01:00",
+      "applicationDeadline": "2026-04-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=7786fe46-0f49-4d25-8f6f-390d399a27a0&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-12T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 10,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1988,
+      "departmentNameDa": "Administrationscenter Health",
+      "departmentNameEn": "HE Administrative Centre"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

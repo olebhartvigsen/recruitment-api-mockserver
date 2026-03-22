@@ -9,32 +9,43 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "3 hold i Historiefagets videnskabsteori BA 3. semester, 2 undervisningstimer om ugen i 11 uger, forberedelse 33 timer. Arbejdstimer i alt 55. Der er mulighed for at søge hold inden for: Ethics, Memory and Cultural History; Køn i historien; Indiens historie siden 1700; Den Franske Revolution. Angiv i din ansøgning hvilken eller hvilke hold du søger.",
-        "hrText": "Ansøgeren skal redegøre for motivation, relevante pædagogiske forudsætninger samt dokumentere gode faglige kvalifikationer. Ved vurdering af ansøgere lægges der vægt på teoretisk indsigt i fagene, anbefalinger samt eventuel undervisningserfaring. Ansøgning skal vedlægges kopi af eksamensbevis.",
-        "auText": "Faculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik med omkring 700 forskere, 200 ph.d.-studerende og 9.000 bachelor- og kandidatstuderende."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-10T08:00:00+01:00",
       "applicationDeadline": "2026-04-20T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0002-4002-8002-200000000002",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-10T08:00:00+01:00"
     },
     "employment": {
-      "period": { "startDate": "2026-09-01", "endDate": "2026-12-31" },
+      "period": {
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-31"
+      },
       "hoursPerWeek": null,
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 8001,
-      "departmentNameDa": "Institut for Kultur og Samfund - Afdeling for Historie",
-      "departmentNameEn": "Department of Culture and Society - History"
+      "departmentCode": 1816,
+      "departmentNameDa": "Inst. f. Kultur og Samfund",
+      "departmentNameEn": "School of Culture and Society"
     },
     "position": {
-      "positionTypeCode": "560",
-      "positionTypeDa": "Studenterunderviser",
-      "positionTypeEn": "Student Instructor"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
-    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
-    "address": { "postalCode": "8000", "city": "Aarhus C" }
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
   }
 }

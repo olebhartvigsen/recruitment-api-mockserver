@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37380,
+    "jobPosting": {
+      "jobPostingId": "a4a8c140-6b72-51b6-ac4b-6382a7137378",
+      "titleDa": "Student mentors for incoming international master's students at the Department of Biological and Chemical Engineering",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Bio- og Kemiteknologi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Would you like to help our new international Master’s students get a strong start to their studies and support them both socially and academically? Then this is your opportunity.\nThe Department of Biological and Chemical Engineering (BCE) is looking for two dedicated mentors to help incoming international students settle into our programmes.\nExpected start date\nThe position starts on 15 May 2026. It is an hourly paid position, and working hours will vary throughout the year.\nMost working hours will be concentrated at the beginning of, and throughout, the autumn semester 2026, particularly from late August onwards (approximately 5–10 hours per month).\nFrom the start date until the beginning of the semester, there will be only a limited number of tasks, including the visit for incoming EU Master’s applicants. You should therefore expect fewer hours during this period (approximately 1–5 hours per month). However, you are expected to be available should any needs arise.\nJob description\nFrom the moment international students arrive, and until they have completed their first exams, you will support their student journey. You will play an important role in creating a safe, smooth, and positive start to their studies. You will be their natural point of contact, helping them settle in—both socially and academically.\nAs a mentor, you will form a mentor pair, sharing responsibility for the international students. Together with your co-mentor, you will have the opportunity to shape and develop the mentor programme so it aligns with your strengths and the needs of your group. Your work will be supported by the BCE Secretariat, ensuring the best possible structure and content.\nThe focus is on building a strong collaboration between mentors and mentees, and the themes for your meetings will largely depend on what you and your mentees find meaningful and relevant.\nYour tasks as a mentor include:\nActing as a contact and support person for incoming international Master’s students during their first semester, both academically and socially, including being available for practical assistance upon their arrival.\nOrganising and leading mentor meetings every second or third week, focusing on strengthening their social community and study life.\nPlanning and facilitating the Master’s Introduction Day (Friday, 21 August) in collaboration with the Secretariat and the student counsellors.\nConducting the visit for incoming international EU students during daytime on 21–22 May.\nParticipating in information sessions for international students about our Master’s programmes (1–3 per semester).\nYour profile\nAre a master’s student in Biotechnology and Chemical Engineering and have good knowledge of the study environment and opportunities at Aarhus University\nAre responsible, trustworthy, and welcoming\nCan work independently as well as in teams, since involving relevant resources at Aarhus University may be necessary\nHave experience working with people from diverse cultures and backgrounds (an advantage)\nHave experience with leadership or facilitating meetings (an advantage)\nAre motivated to contribute with your ideas\nWho we are\nAt the Department of Biological and Chemical Engineering, focus is on living systems, the biology of organisms, efficient production, and transformation of chemicals, materials, and energy. We translate knowledge within biotechnology, food technology, environmental technology, chemical engineering, industrial biotechnology, medical biotechnology, and electrochemical engineering, and more into new technologies and value-creating solutions that can also be used in the business community.\nFor more information:\nhttps://bce.au.dk/en/research\nAs a mentor, you will have the opportunity to\nShare your knowledge and experience as a student\nStrengthen your skills in meeting facilitation and leadership\nContribute to improving our mentor programme, introduction day, and Master’s programme\nPotentially participate in a mentor training course (currently being explored)\nPlace of Work\nDepartment of Biological and Chemical Engineering, Gustav Wieds Vej 10D, 8000 Aarhus C.\nContact information\nIf you have any questions about the position, please contact:\nAndreas Røge Jepsen, email:\n[email protected]\n, phone: +45 93 50 88 40.\nDeadline\nAll applications must be received no later than 12 April 2026. Applications may be written in either Danish or English.\nFormalities and salary range\nSalary and terms as agreed between the Danish Ministry of Taxation and the The National Union of Student-workers and the Union of Danish Medical students.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-10T00:00:00+01:00",
+      "applicationDeadline": "2026-04-12T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=ef375788-eb5e-4f63-8435-fd2ae624e49f&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-10T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 1,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2147,
+      "departmentNameDa": "Kemiteknologi",
+      "departmentNameEn": "Chemical Engineering"
+    },
+    "position": {
+      "positionTypeCode": "533",
+      "positionTypeDa": "Tutor",
+      "positionTypeEn": "Student Advisor"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37616,
+    "jobPosting": {
+      "jobPostingId": "4c99f945-82d7-576f-8e83-1d8eef0fdaf9",
+      "titleDa": "Ingeniør til Institut for Bio- og Kemiteknologi på AU Viborg",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Bio- og Kemiteknologi - Lab.tech. BCE - Blichers Allé 20, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vi søger en Ingeniør til en fuldtidsstilling til Institut for Bio- og Kemiteknologi, Aarhus Universitet. Stillingen er til besættelse 1. juni 2026. Arbejdssted vil fortrinsvist være på AU Viborg Blichers Alle 20, 8830 Tjele, i sektionen for Bioprocess Engineering.\nTil denne stilling søger vi en Ingeniør, gerne nyuddannet, der primært skal supportere på vores storskala fermenteringsanlæg ”CO2 to Protein” samt i tilhørende laboratorie faciliteter.\nForventet startdato og varighed\nDer er tale om en fast stilling med start 1. juni 2026\nAnsvarsområder:\nArbejdsopgaverne vil være relateret til den daglige drift af fermentoren samt analyser i laboratoriet. Derudover vil der være opgaver relateret til sikkerhed, administration samt organisering og opretholdelse af en funktionsdygtig proceshal samt laboratorie. Hertil hører opgaver som vedligehold af udstyr, metodevalidering, protokol skrivning etc.\nFølgende ansvarsområder er inkluderet i denne stilling:\nOverblik, implementering samt opretholdelse af struktur, procedurer samt orden i proceshal samt laboratorie\nAssistance til forskere i projekter\nPlanlægning, instruktion og oplæring af nye medarbejdere\nAnsvar for laboratorier og udstyr, herunder indkøring af nyt udstyr\nAffaldshåndtering, mærkning og registrering af kemikalier\nOpvask og autoklavering\nBestilling og tilbudsindhentning\nIndkøring, kalibrering samt vedligehold af udstyr\nKvalifikationer:\nDen ideelle kandidat kunne have følgende kvalifikationer:\nUddannelsesmæssig baggrund som diplom- eller civilingeniør eller tilsvarende\nErfaring med arbejde i laboratorie\nKendskab til mikrobiologiske processer samt fermentering\nKendskab til upstream og downstream processer, men ikke et krav\nErfaring med større procesudstyr, men ikke et krav\nGerne erfaring med GMO, men ikke et krav\nProaktiv, struktureret, engageret i nye arbejdsopgaver og løsningsorienteret\nAktiv og imødekommende teamplayer\nStærke samarbejdsevner i et dynamisk arbejdsmiljø og interagere med mange forskellige kulturer og nationaliteter\nEngelsk i tale og på skrift\nSom person er du:\nSelvstændig og engageret\nGod til at prioritere og strukturer arbejdsopgaver\nRobust og omstillingsparat\nUdadvendt og imødekommende\nServiceminded og problemløsende\nFor yderligere information om stillingen kontakt Lab Koordinator for Bioteknologi Gitte Hastrup (\n[email protected]\nmobil 25301364).\nDeadline\nAlle ansøgninger skal være modtaget senest den 7. april 2026.\nFormalia\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Skatteministeriet og akademikere i staten eller anden relevant overenskomst.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-20T00:00:00+01:00",
+      "applicationDeadline": "2026-04-07T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=4f62e189-ddf0-4dda-a9ad-d81bb8d28aa3&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-20T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2147,
+      "departmentNameDa": "Kemiteknologi",
+      "departmentNameEn": "Chemical Engineering"
+    },
+    "position": {
+      "positionTypeCode": "461",
+      "positionTypeDa": "Tekniker",
+      "positionTypeEn": "Technician"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8830,
+      "city": "Tjele"
+    }
+  }
+}

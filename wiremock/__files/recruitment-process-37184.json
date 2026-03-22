@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37184,
+    "jobPosting": {
+      "jobPostingId": "18d18af3-7e66-5e60-bbae-0dee808fa92e",
+      "titleDa": "Maskiningeniør – marint forskningsudstyr",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Biologi - Akvatisk biologi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Din profil\nVi søger en maskiningeniør til vores projekter med udvikling af forskningsudstyr til arktisk forskning. Udviklingsteamet har en lille størrelse, hvorfor det er essentielt at du er en ingeniørfaglig blæksprutte med solide færdigheder inden for fagområderne mekanik, elektronik og software, da vores projekter ofte indeholder elementer fra alle tre områder. Arbejdet omhandler hele processen fra idé frem til fremstilling, test og brug af udstyret. Derfor søger vi en kollega der kan følge et projekt helt fra udarbejdelse af kravspecifikationer til samling  og ibrugtagning af det endelige produkt.\nDu har erfaring med følgende emner:\nUdvikling, fremstilling og håndtering af autonome droner og oceanografisk\nundervandsudstyr\nOverblik over materialer, funktion og tekniske fordele ved forskellige produkter\nDatahåndtering\nProjektstyring af større udviklingsprojekter inden for mekanik, elektronik og software\nBeregninger inden for mekanisk og elektronisk design (bl.a. strukturelt, aktuatorer, strømforbrug)\n3D-print på højt niveau til prototyper og færdige produkter (FDM, SLA)\nIterativ produktudvikling\nBrug og konfiguration af dronestyresystemet ArduPilot\nSolidWorks på ekspertniveau, herunder FEM og CFD moduler\nSamarbejde i store grupper på tværs af forskellige fagligheder, samt i mindre teams\nPDM-systemer\nGodt kendskab til engelsk såvel mundtlig som skriftlig\nAero- og hydrodynamik\nFeltarbejde i Arktis\nHvem vi er\nCIFAR er et Grundforskningscenter ved Aarhus Universitet. CIFAR er et forskningsprogram, der har til formål at afdække, hvordan det komplekse samspil mellem issmeltning og isdannelse på tværs af geografiske skalaer og tid påvirker havets egenskaber og økosystemets funktion. Vi har også brug for bedre viden om, hvordan fysiske og biogeokemiske faktorer styrer den biologiske produktivitet. Disse udfordringer er kernen i CIFAR. Vores opdagelser vil også omfatte ny viden om, hvordan marine økosystemer vil ændre sig, hvilket er nødvendigt for kystsamfundene i de cirkumpolare lande for at kunne reagere mere effektivt på hurtige miljøændringer og sikre socioøkonomiske fordele og velfærd. Stillingens opgaver og ansættelse er knyttet til vores Novo Nordisk og Carlsberg projekter som udføres over en 2-årig periode i samarbejde med GEUS, samt projekter med udvikling af udstyr fra AVJF.\nHvad vi tilbyder\nCentret tilbyder:\net spændende tværfagligt miljø med mange nationale, internationale og industrielle samarbejdspartnere\net arbejdsklima, der indbyder til livlig, åben og kritisk diskussion\net arbejdsmiljø med tætte arbejdsrelationer og netværksaktiviteter\nen arbejdsplads præget af professionalisme\nfeltarbejde i Grønland\nArbejdssted og ansættelsesområde\nArbejdsstedet er Ole Worms Allé 1, og ansættelsesområdet er Aarhus Universitet med tilhørende institutioner.\nStillingstype\nDer er tale om en midlertidig stilling på 24 måneder.\nKontakt information\nYderligere oplysninger kan fås ved henvendelse til: professor, Søren Rysgaard, +45 24643206,\n[email protected]\n.\nDeadline\nAlle ansøgninger skal være modtaget senest den 1. maj 2026.\nFormalia\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Skatteministeriet og akademikere i staten.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-02T00:00:00+01:00",
+      "applicationDeadline": "2026-05-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=fbf594c1-4e51-415b-baaf-77f1b179da85&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-02T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2847,
+      "departmentNameDa": "Biologi, Institut for",
+      "departmentNameEn": "Biology, Department of"
+    },
+    "position": {
+      "positionTypeCode": "461",
+      "positionTypeDa": "Tekniker",
+      "positionTypeEn": "Technician"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

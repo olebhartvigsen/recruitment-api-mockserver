@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37156,
+    "jobPosting": {
+      "jobPostingId": "106dac84-d603-5b9b-b42b-81c83d05970d",
+      "titleDa": "Institut for Statskundskab søger studenterinstruktor i Sundhedssociologi",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Statskundskab, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Ved Institut for Statskundskab opslås 1 stilling som studenterinstruktor i Sundhedssociologi i efterårssemestret 2026 på Bacheloruddannelsen i Folkesundhedsvidenskab, 3. semester. Såvel studerende fra statskundskab/samfundsfag samt folkesundhedsvidenskab opfordres til at søge.\nAnsættelsesperioden vil være 1. august 2026 – 31. januar 2027. Det må påregnes, at der er et obligatorisk kursus for studenterinstruktorer og møder. Studerende, der ansættes ved semestrets start, vil blive ansat som timelønnet studenterinstruktor. Der vil ikke kunne ske ansættelse af færdiguddannede kandidater. Et bredt kendskab til sociologi og interesse for sundhedsproblematikker vil være en fordel.\nStillingen opslås med følgende timetal:\n2 hold: 170 timer\nVed bedømmelsen af de indkomne ansøgninger lægges bl.a. vægt på karaktergennemsnittet for beståede eksaminer, studieforløb og resultater på uddannelsen set i relation til det fag, der skal undervises i, tidligere erfaringer som hjælpelærer på et grundkursus samt eventuelle andre undervisningserfaringer.\nAnsøgeren opfordres til at redegøre for sin motivation for at søge stillingen samt at gøre sig nogle overvejelser vedrørende instruktorfunktionen og forholdet til de studerende.\nDet er en del af ansættelsen og aflønningen, at man skal deltage i det obligatoriske kursus for instruktorer, koordinerende møder vedrørende undervisningens tilrettelæggelse og planlægning, forelæsningerne samt opgaveretning efter den enkelte undervisers skøn.\nDer gøres opmærksom på, at der ikke kan tages hensyn til evt. instruktoransættelse ved tildeling af seminarer, ligesom der heller ikke kan tages hensyn til seminardeltagelse ved fastlæggelse af instruktorens undervisningstidspunkt. Det påhviler således den enkelte instruktor i samarbejde med koordinator og studieadministration at forsøge at planlægge arbejdstiden hensigtsmæssigt i forhold til eget studieforløb.\nEventuelle forespørgsler bedes rettet til: Seniorforsker Tine Ravn, telefon: 87165892 email:\n[email protected]\nAnsøgningen skal vedlægges CV, eksamensbeviser og oplysninger om studieforløb, samt eventuel dokumentation for undervisningserfaring.\nDe ansøgere, der indstilles til ansættelse, kan forvente svar senest primo maj. Afslag udsendes senest i løbet af juni.\nHvis du oplever problemer med at uploade ansøgningen, eller har tekniske spørgsmål til ansøgningsskemaet, kan du kontakte HR-koordinator Mette Fisker Præstegaard på e-mail:\n[email protected]\nAnsættelsessted er Institut for Statskundskab, Bartholins Allé 7, 8000 Aarhus\nKvalifikationskrav\nAnsættelsen som studenterinstruktor er betinget af, at ansøgeren senest i begyndelsen af ansættelsesperioden gennemfører fakultetets kursus om holdundervisning for instruktorer/studenterundervisere, ved\nCenter for Undervisning og Læring\n.\nFormalia\nAnsættelse sker i henhold til\noverenskomst mellem\nFinansministeriet og SUL\n(studenterundervisere).\nAnsøgningen skal vedlægges studieindskrivningsbekræftelse samt karakterudskrift.\nAnsøgning samt bilag sendes online via nedenstående link.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en styrke og opfordrer derfor alle interesserede til at ansøge\n.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-02-27T00:00:00+01:00",
+      "applicationDeadline": "2026-04-07T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=c33987bc-c8ea-47cb-bd56-9241561828b9&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-02-27T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": null,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2624,
+      "departmentNameDa": "Studienævnet for Statskundskab",
+      "departmentNameEn": "Board of Studies for Political Science"
+    },
+    "position": {
+      "positionTypeCode": "347",
+      "positionTypeDa": "Studenterunderviser",
+      "positionTypeEn": "Student Teacher"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

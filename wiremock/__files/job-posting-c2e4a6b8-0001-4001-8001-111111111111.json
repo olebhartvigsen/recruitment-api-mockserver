@@ -10,13 +10,15 @@
       "descriptionDa": null,
       "descriptionEn": {
         "technicalText": "The position is part of the ESS Lighthouse CaIFF, a recently established research center focusing on colloidal out-of-equilibrium multicomponent systems, their investigation by neutron-based methodologies, and their application in food and pharma. The successful applicant will have the opportunity to establish an independent research profile and for cross-disciplinary research. The candidate is expected to build an independent research group and conduct an active research program, which is internationally recognized and can attract external funding.",
-        "hrText": "Applicants for an Assistant Professor position must be able to demonstrate potential for excellent research and teaching. International experience and extensive postdoctoral training are expected. Teaching can be in Danish and English depending on the course.",
-        "auText": "The Department of Chemistry at Aarhus University is a leading European chemistry department with a broad research portfolio. It has a permanent staff of 43 full, associate and assistant professors, a support staff of ~40 technical and administrative staff, ~150 PhD-students and ~100 postdocs."
+        "hrText": null,
+        "auText": null
       },
       "publicationDate": "2026-03-01T08:00:00+01:00",
       "applicationDeadline": "2026-04-30T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0001-4001-8001-111111111111",
-      "languages": ["en"],
+      "languages": [
+        "en"
+      ],
       "lastUpdated": "2026-03-01T08:00:00+01:00"
     },
     "employment": {
@@ -28,21 +30,21 @@
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 1001,
-      "departmentNameDa": "Institut for Kemi",
-      "departmentNameEn": "Department of Chemistry"
+      "departmentCode": 1039,
+      "departmentNameDa": "Institut for Fødevarer",
+      "departmentNameEn": "Food Science, Dept. of"
     },
     "position": {
-      "positionTypeCode": "110",
-      "positionTypeDa": "Adjunkt",
-      "positionTypeEn": "Assistant Professor"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
     "contacts": {
-      "technicalContactAuid": null,
-      "hrContactAuid": null
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
     },
     "address": {
-      "postalCode": "8000",
+      "postalCode": 8000,
       "city": "Aarhus C"
     }
   }

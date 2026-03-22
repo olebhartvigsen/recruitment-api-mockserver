@@ -10,13 +10,15 @@
       "descriptionDa": null,
       "descriptionEn": {
         "technicalText": "This tenure track position will strengthen and complement ongoing research in sensory and consumer science, in the area of human perception of food and beverages. The position is aligned to the Science Team Food Quality Perception and Society (FQS) at the Department of Food Science. The Science Team has access to state of the art sensory and analytical facilities including Olfactometry, Gustometry, Virtual Reality, Biometrics, GC-MS, LC-MS and NMR.",
-        "hrText": "The successful candidate must have a strong research profile in sensory and consumer science, specifically in human multisensory perception and acceptance of healthy and sustainable food. A relevant PhD and a minimum of 2-3 years postdoc experience is required. A tenure track appointment requires demonstration of independent and novel research initiatives and international experience as a post-doc.",
-        "auText": "The Department of Food Science is part of the Faculty of Technology, Aarhus University and includes research across the food value chain. The Department currently employs approx. 60 full time research staff and 80 PhD students and Postdocs, with an additional approx. 60 Master and Bachelor thesis-based students."
+        "hrText": null,
+        "auText": null
       },
       "publicationDate": "2026-03-05T08:00:00+01:00",
       "applicationDeadline": "2026-05-01T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0008-4008-8008-888888888888",
-      "languages": ["en"],
+      "languages": [
+        "en"
+      ],
       "lastUpdated": "2026-03-05T08:00:00+01:00"
     },
     "employment": {
@@ -28,21 +30,21 @@
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 6001,
+      "departmentCode": 1039,
       "departmentNameDa": "Institut for Fødevarer",
-      "departmentNameEn": "Department of Food Science"
+      "departmentNameEn": "Food Science, Dept. of"
     },
     "position": {
       "positionTypeCode": "132",
-      "positionTypeDa": "Tenure Track",
+      "positionTypeDa": "Tenure Track Adjunkt",
       "positionTypeEn": "Tenure Track"
     },
     "contacts": {
-      "technicalContactAuid": null,
-      "hrContactAuid": null
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
     },
     "address": {
-      "postalCode": "8000",
+      "postalCode": 8000,
       "city": "Aarhus C"
     }
   }

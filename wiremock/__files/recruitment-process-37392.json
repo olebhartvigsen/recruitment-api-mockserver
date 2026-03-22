@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37392,
+    "jobPosting": {
+      "jobPostingId": "3544dad4-53a8-5145-857f-a211934f63d5",
+      "titleDa": "Studentermedhjælper til sprogfagene på Institut for Kommunikation og Kultur",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Kommunikation og Kultur - Afdeling for Tysk og Romanske Sprog, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Afdeling for Engelsk og Afdeling for Tysk og Romanske Sprog søger fra 1. maj 2026 to studentermedhjælpere til praktiske og administrative opgaver. Arbejdsomfanget er varierende og timetallet er 1 time om ugen, dog kan der efter behov være op til 7 timer ugentligt.\nDu er:\nFortrolig med MS Office programmerne\nGlad for alsidige arbejdsopgaver, såvel praktiske som tekniske\nFlydende på dansk og engelsk\nGod til at håndtere IT-udstyr og software\nDine opgaver kan være:\nAd hoc assistance til sekretærgruppen for de to afdelinger\nForberedelse og oprydning i forbindelse med arrangementer\nTeknisk assistance ved arrangementer / gæsteforelæsninger\nPraktisk og teknisk hjælp i afdelingernes tolkelaboratorium\nVi tilbyder:\nEt inkluderende, internationalt arbejdsmiljø med kollegaer inden for forskning/undervisning\nLøn i henhold til overenskomst mellem Finansministeriet og HK/Stat\nLæs her om Instituttet\nhttps://cc.au.dk/\nog om de ni afdelinger\nhttps://cc.au.dk/om-instituttet/afdelinger\n, herunder Afdeling for Engelsk og Afdeling for Tysk og Romanske Sprog, som holder til i Nobelparkens bygning 1481 og Trøjborgvejs bygning 1912.\nYderligere oplysninger om stillingen kan fås hos Marianne Rasmussen på\n[email protected]\n.\nAnsøgningsfrist 27. marts 2026.\nStillingen søges online.\nHvis du har behov for hjælp til at uploade din ansøgning eller har spørgsmål vedr. rekrutteringsprocessen, bedes du kontakte HR-supporter Helle Sindal på\n[email protected]\nLøn og ansættelsesvilkår\nI henhold til gældende overenskomst mellem Finansministeriet og HK STAT/OAO-fællesoverenskomsten.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nOm Arts\nFaculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik. Inden for denne faglige bredde huser fakultetet omkring 700 forskere, 200 ph.d.-studerende, 9.000 bachelor- og kandidatstuderende og 1.500 efter- og videreuddannelsesstuderende. Vi tror på, at de bedste idéer opstår i mødet mellem forskellige perspektiver – og at forskning, undervisning og innovation udvikles bedst i dialog med samfundet omkring os.\nDu kan finde mere information her\nFaculty of Arts | Aarhus Universitet\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-12T00:00:00+01:00",
+      "applicationDeadline": "2026-03-27T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=f79f3b12-41b7-4f67-ada8-e890685c91aa&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-12T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 1,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1817,
+      "departmentNameDa": "Inst. f. Kommunikation og Kultur",
+      "departmentNameEn": "School of Communication and Culture"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

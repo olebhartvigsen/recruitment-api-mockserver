@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 36960,
+    "jobPosting": {
+      "jobPostingId": "e5cc90ad-592e-53b2-b4f3-ea484035118d",
+      "titleDa": "Undervisningsassistenter til Strafferet og straffeproces",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Juridisk Institut, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Ved Juridisk Institut er et antal stillinger som undervisningsassistenter på bacheloruddannelsen i faget Strafferet og straffeproces ledige til besættelse pr. 1. september 2026.\nFagområde\nStrafferet og straffeproces på bacheloruddannelsen.\nStillingens indhold\nArbejdet vil bestå i at varetage holdundervisningen på et hold på bacheloruddannelsen, herunder rettelse af opgaver.\nUndervisningens tidsmæssige placering fastlægges endeligt af Studienævnet, og det er ikke muligt at tage individuelle hensyn. Det endelige undervisningstidspunkt fremgår af undervisningsplanen.\nNærmere oplysninger kan fås ved henvendelse til Lasse Lund Madsen på\n[email protected]\neller Nicolaj Holst på\n[email protected]\n.\nHvis du har behov for hjælp til at uploade din ansøgning eller har spørgsmål vedr. rekrutteringsprocessen, bedes du kontakte HR-supporter Sara Lyng Hansson, , e-mail:\n[email protected]\nArbejdssted\nBartholins Alle 16, 8000 Aarhus C\nHvem er vi\nJuridisk Institut er en del af\nAarhus BSS\n, Aarhus Universitet - et top 100 universitet. Aarhus BSS har opnået de prestigefyldte AASCB, AMBA og EQUIS-akkrediteringer.\nVi har et dynamisk, ambitiøst og akademisk mangfoldigt forsknings- og\nundervisningsmiljø med knap 65 akademiske medarbejdere, et kompetent sekretariat med godt 10 teknisk-administrative medarbejdere og ca. 25 ph.d.- studerende.\nPå Juridisk Institut tilbyder vi undervisning og forskning af høj kvalitet inden for dansk,\neuropæisk og international retsvidenskab. Vi vægter den praktiske anvendelighed af vores forskning for det danske retsliv højt. Vi ønsker at udvide og udvikle vores centrale forskningsområder og lægger stor vægt på, at vores forskning tager aktuelle juridiske problemer og udfordringer i samfund og erhvervsliv op til undersøgelse. I vores undervisning ønsker vi at bygge bro mellem teori og praksis, bl.a. ved at trække på eksterne lektorers praktiske erfaring.\nDu kan læse mere om Juridisk Institut på:\nhttp://law.au.dk/\n.\nKvalifikationskrav\nAnsættelse forudsætter en juridisk kandidatgrad. Ansøgere med praktisk relevant hovedbeskæftigelse vil blive foretrukket.\nHvis man er involveret i andre undervisningsaktiviteter, bedes det oplyst i ansøgningen.\nFormalia\nAnsættelse sker i henhold til\nCirkulære om timelønnet undervisning (undervisningsassistenter)\n.\nAnsøgningen skal vedlægges, kopi af eksamensbevis og eventuel dokumentation for tidligere undervisningsvirksomhed.\nAnsøgning samt bilag sendes online via nedenstående link.\nMateriale der ikke kan uploades sammen med ansøgningen kan indsendes i 3 eksemplarer til Aarhus BSS HR & Ph.d., Aarhus School of Business and Social Sciences, Bartholins Allé 16, 8000 Aarhus C, og må være Aarhus BSS HR & Ph.d. i hænde senest ved ansøgningsfristens udløb. Det indsendte materiale mærkes med det ID nummer, som er anført i den mail, du modtager som kvittering for online fremsendelse af ansøgningen.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge\n.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-02-19T00:00:00+01:00",
+      "applicationDeadline": "2026-03-25T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=65e1089e-f0f8-430b-a068-c707faaedc96&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-02-19T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": null,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 3200,
+      "departmentNameDa": "Juridisk Institut",
+      "departmentNameEn": "Law, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "342",
+      "positionTypeDa": "Undervisningsassistent",
+      "positionTypeEn": "Assistant Lecturer"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

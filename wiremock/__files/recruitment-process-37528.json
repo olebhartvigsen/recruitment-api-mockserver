@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37528,
+    "jobPosting": {
+      "jobPostingId": "ce764494-48fe-56ba-9e07-3cd9ee8b39a8",
+      "titleDa": "Rundviser og formidler i Besøgsservice, Institut for Fysik og Astronomi",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Fysik og Astronomi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Institut for Fysik og Astronomi, Aarhus Universitet, inviterer kandidater til at søge en stilling som rundviser og/eller formidler i Besøgsservice.\nVi søger 4-5 rundvisere og/eller formidlere med start den 1. maj 2026, eller snarest muligt herefter.\nAntallet af arbejdstimer pr. uge vil variere og er afhængig af, hvor mange opgaver, du tilmelder dig, og om du herefter bliver udvalgt til at formidle. Der kan derfor forekomme måneder med 0 timer.\nJobbeskrivelse\nJobbet giver mulighed for at varetage arbejdsopgaverne som rundviser og/eller som formidler, hvilket planlægges ud fra dine ønsker.\nArbejdsopgaverne som rundviser består i at give en introduktion til instituttet og studiet ved hjælp af en PowerPoint præsentation samt efterfølgende at vise klassen rundt på instituttet og i laboratorier. Varigheden pr. rundvisning er ca. 1½ time pr. klasse.\nSom formidler vil du skulle instruere holdet i en eller flere af de øvelser, som fremgår af hjemmesiden. Varigheden pr. øvelse er ca. 4 timer pr. klasse\nOmfanget af opgaver kan variere fra uge til uge og besættes i fællesskab, hvor der tages hensyn til dit skema osv. Perioden med størst belastning vil ligge i efteråret.\nJobsamtalerne vil foregå efter nærmere aftale. Vi vil sørge for at du bliver oplært.\nDin profil\nKandidater foretrækkes at studere bachelor/kandidat i fysik, astronomi eller nanoscience på Aarhus Universitet. Alle opfordres til at ansøge uanset hvor langt man er på studiet.\nPersonlige kvalifikationer\n:\nErfaring er ikke nødvendig\nDu skal være åben, imødekommende og have lyst til at formidle bredt\nAnsvarsbevidst\nArbejdssted\nArbejdsstedet er Ny Munkegade 120, 8000 Aarhus C, og ansættelsesområdet er Aarhus Universitet med tilhørende institutioner.\nOm os\nI Besøgsservice på Institut Fysik og Astronomi tilbyder vi rundvisninger, foredrag og øvelser, som primært er henvendt til gymnasieelever. Vi vil gerne give alle besøgende en god oplevelse. Dette gælder både potentielle nye studerende, men også elever, som aldrig ville vælge fysik. Vi stræber derfor efter at undervise bredt og engageret.\nSe hjemmesiden for Besøgsservice her:\nhttps://phys.au.dk/vidensudveksling/besoegsservice\nKontakt information\nDu er velkommen til at kontakte Thomas Tram (\n[email protected]\n), hvis du har spørgsmål til jobbet.\nAnsøgningsfrist\nAlle ansøgninger skal være modtaget senest den 9. april 2026. Vi forventer at afholde samtaler i uge 16.\nFormalia\nAnsættelse sker i henhold til overenskomsten for studenterundervisere ved universiteter m.v. indgået mellem Skatteministeriet og Studenteransattes Landsforbund samt Foreningen af Danske Lægestuderende.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-16T00:00:00+01:00",
+      "applicationDeadline": "2026-04-09T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=a232bff4-b0e2-42ab-9f51-b4428fc81f11&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-16T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 1,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5200,
+      "departmentNameDa": "Fysik og Astronomi, Inst. f.",
+      "departmentNameEn": "Physics and Astronomy, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

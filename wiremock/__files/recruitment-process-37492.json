@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37492,
+    "jobPosting": {
+      "jobPostingId": "20c10e8e-5c32-5382-b61a-b6c5e4ee394b",
+      "titleDa": "Studiejob som studenterformidler ved Institut for Geoscience",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Geoscience, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Brænder du for at formidle geovidenskab? Har du lyst til at inspirere andre unge og give dem et indblik i, hvad det vil sige at studere Geoscience? Er du god til at organisere dine egne opgaver, ansvarsbevidst og handlekraftig? Så er jobbet som studenterformidler ved Institut for Geoscience noget for dig!\nHvorfor blive studenterformidler?\nSom studenterformidler får du mulighed for at:\nGive andre unge et indblik i livet som studerende på Institut for Geoscience.\nDeltage i events for kommende studerende, bl.a. studiepraktik, Kvote 2-dagen og u-days, samt spændende offentlige arrangementer som Naturmødet og Klimafolkemødet.\nFormidle Geoscience på en engagerende, lærerig og forståelig måde til et bredt publikum.\nPlanlægge og gennemføre rundvisninger samt – efter oplæring – geologiske og geofysiske forsøg med gymnasieklasser som en del af instituttets Besøgsservice.\nSamarbejde tæt med andre Geoscience-studerende på tværs af årgange.\nVi forventer, at du:\nEr aktiv Geoscience-studerende med mindst første semester veloverstået.\nBrænder for at formidle om geovidenskab og livet som studerende ved Institut for Geoscience.\nKan samarbejde godt med andre, men også planlægge og gennemføre formidlingsopgaver på egen hånd efter oplæring.\nEr ansvarsbevidst, engageret og klar til at gøre formidling sjov og inspirerende for unge og andre interesserede.\nVi ønsker et team af cirka 10 engagerede studerende, der samarbejder om at gøre vores formidling sjov, lærerig og inspirerende. Vi søger derfor ca. 7 studenterformidlere, der kan starte 1. maj 2026 eller snarest muligt herefter. Ansættelsen vil gælde resten af studietiden.\nArbejdstiden aftales løbende og afhænger af efterspørgslen på formidlingsopgaver. Der vil derfor være perioder med flere opgaver og perioder, hvor der ikke er timer.\nFormidlingsaktiviteterne foregår primært i gymnasieskolens undervisningsperioder, hvorfor der normalt ikke er opgaver i juli.\nInteresseret i at søge jobbet som studenterformidler?\nSend en kort ansøgning, hvor du fortæller om hvorfor du gerne vil være studenterformidler, din erfaring med formidling og hvornår du forventer at afslutte din kandidat. Vedlæg CV og evt. karakterudskrift for afsluttede kurser.\nAnsøgning og CV skal uploades online senest 6. april 2026.\nHvis du har spørgsmål om jobbet kan du skrive til Clara Lyngholm Mortensen på\n[email protected]\neller kigge forbi kontoret 1672-136 i sekretariatet.\nAnsættelsessted\nDit ansættelsessted er Institut for Geoscience, Høegh-Guldbergs Gade 2, 8000 Aarhus C.\nFormalia\nAnsættelse sker i henhold til overenskomsten for studenterundervisere ved universiteter m.v. indgået mellem Skatteministeriet og Studenteransattes Landsforbund samt Foreningen af Danske Lægestuderende.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-13T00:00:00+01:00",
+      "applicationDeadline": "2026-04-06T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=06e7cf65-4b84-475b-b6af-15730b5891ca&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-13T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 1,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5600,
+      "departmentNameDa": "Geoscience, Institut for",
+      "departmentNameEn": "Department of Geoscience"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

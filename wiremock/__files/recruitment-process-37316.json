@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37316,
+    "jobPosting": {
+      "jobPostingId": "db2a044e-a6fa-54b0-9cb7-e2695df2f6c1",
+      "titleDa": "En medhjælper i zebrafiskefaciliteten på MBG",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Molekylærbiologi og Genetik - Cellulær sundhed, intervention og ernæring, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "En medhjælper søges til arbejde i zebrafiskefaciliteten på Institut for Molekylærbiologi og Genetik (MBG) på Aarhus Universitet.\nArbejdet er primært i weekender og på helligdage og gennemsnitlig arbejdstid er 2,5 timer pr. uge. Stillingen er med tiltrædelse den 1. juni 2026 eller snarest derefter.\nOpgaver inkluderer oprydning, rengøring, opfyldning og andre forefaldende opgaver i zebrafiskefaciliteten.\nVi stiller høje krav til udførelsen af opgaverne og forventer dedikation og stor ansvarsbevidsthed i udførelsen af disse.\nBasal erfaring med arbejde i forskningslaboratorium på niveau med en bachelorgrad i molekylærbiologi eller molekylær medicin er et krav.\nHvem vi er\nInstitut for Molekylærbiologi og Genetik var det første institut, der som led i Aarhus Universitets samlede campusudvikling flyttede til Universitetsbyen i januar 2022. De nyrenoverede bygninger husede tidligere Kommunehospitalet.\nInstitut for Molekylærbiologi og Genetik er en del af fakultetet Natural Sciences ved Aarhus Universitet og forsker i emner som Plantemolekylærbiologi, Neurobiologi, RNA-biologi og –innovation, Proteinvidenskab og Cellulær sundhed, intervention og ernæring.\nInstituttet rummer ca. 150 videnskabelige medarbejdere, 80 tekniske og administrative medarbejdere, 80 ph.d.-studerende samt 500 kandidat- og bachelorstuderende (i molekylærbiologi og molekylær medicin).\nArbejdssted og ansættelsesområde\nArbejdsstedet er Universitetsbyen 81, 8000 Aarhus C og ansættelsesområdet er Aarhus Universitet med tilhørende institutioner.\nKontakt information\nYderligere oplysninger kan fås ved henvendelse til: Kasper Kjær-Sørensen,\n[email protected]\nDeadline\nAlle ansøgninger skal være modtaget senest den 9. april 2026.\nFormalia\nLøn- og ansættelsesvilkår sker i henhold til Fællesoverenskomst mellem Skatteministeriet og Offentligt Ansattes Organisationer - Det Statslige Område (OAO-S-fællesoverenskomsten) og organisationsaftale mellem Skatteministeriet og HK/Stat for kontorfunktionærer, laboranter og it-medarbejdere.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-09T00:00:00+01:00",
+      "applicationDeadline": "2026-04-09T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=be6bdb07-6772-4353-955f-0d875c82d634&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-09T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 2.5,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5400,
+      "departmentNameDa": "Molekylærbiologi og Genetik, Inst.",
+      "departmentNameEn": "Molecular Biology and Genetics, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

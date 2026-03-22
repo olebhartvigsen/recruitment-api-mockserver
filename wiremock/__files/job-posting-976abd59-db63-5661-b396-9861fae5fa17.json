@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37516,
+    "jobPosting": {
+      "jobPostingId": "976abd59-db63-5661-b396-9861fae5fa17",
+      "titleDa": "Studerende søges til assistance ved international konference",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Fysik og Astronomi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Institut for Fysik og Astronomi søger\n3–4 engagerede studerende\ntil at hjælpe med praktiske opgaver i forbindelse med afviklingen af konferencen\nTASC10/KASC17\n, som afholdes på Aarhus Universitet\nfra 5. til 10. juli 2026.\nAnsættelse og arbejdstid\nAnsættelsen er med start 1. juni 2026, eller snarest muligt derefter. Ansættelsesperioden er på ca.\n1,5 måned\nmed et samlet timetal på\nca. 65 timer\npr. studerende. Timetallet vil variere, og størstedelen af arbejdstiden ligger umiddelbart før og under konferencen.\nOpgaver\nSom studentermedhjælper bliver du en vigtig del af konferencens afvikling og får mulighed for at arbejde tæt sammen med planlægningsgruppen og de øvrige studentermedhjælpere.\nDe\n21 arbejdstimer\nforventes lagt før konferencens start. Her vil opgaverne primært bestå af:\nForberedelse af konferencemateriale (navneskilte, posters, skiltning m.m.)\nPraktiske forberedelser i Byauditoriet: Klargøring af konferencestedet og praktiske opgaver i forbindelse hermed, særligt den 3. juli (herunder opstilling af posterboards, cafeborde og konferencemateriale)\nAt sætte dig godt ind i konferencens program og drejebog\nArbejdsopgaver under konferencen\nSøndag 5. juli (kl. 16–20)\nHjælp ved opsætning og afrydning i forbindelse med velkomstreceptionen\nMandag 6.- fredag den 10. juli (kl. ca. 7.45–16 hver dag)\nRegistrering af deltagere\nOpsætning og afrydning ved formiddags- og eftermiddagskaffepauser\nVejvisning til og fra venues\nDiverse ad hoc-opgaver\nFredag afsluttes med oprydning efter konferencen.\nEnkelte dage vil man skulle møde ind tidligere eller skulle kunne hjælpe til senere end kl. 16.00. Dette afhænger af dagens program\nFaglige og personlige kvalifikationer\nVi lægger vægt på, at du:\ner imødekommende, serviceminded og samarbejdsorienteret\ntrives med praktiske opgaver og kan bevare overblikket\ner proaktiv, og selvstændigt finder løsninger i uforudsete situationer\ngerne (men ikke nødvendigvis) har erfaring fra events eller arrangementer\ngerne har kørekort, men ikke et krav\nArbejdssted\nArbejdsstedet er\nInstitut for Fysik og Astronomi\n, Ny Munkegade 120, 8000 Aarhus C.\nSelve konferencen afholdes i\nByauditoriet\npå det nye campusområde.\nOm os\nPå Informationskontoret på Institut Fysik og Astronomi kommer der mange henvendelser fra ansatte og besøgende som har brug for hjælp af forskellig art. Derudover varetages der også en stor række forskellige faste opgaver.\nKontakt information\nFor yderligere information bedes du kontakte os på mail:\n[email protected]\n.\nAnsøgningsfrist\nAlle ansøgninger skal være modtaget senest den 9. april 2026. Efter fristens udløb indkaldes der til korte samtaler online. Samtalerne forventes afholdt i\nuge 16.\nFormalia\nLøn- og ansættelsesvilkår sker i henhold til organisationsaftalens § 35 indgået mellem Skatteministeriet og HK/Stat for kontorfunktionærer, laboranter og it-medarbejdere og fællesoverenskomsten mellem Skatteministeriet og Offentligt Ansattes Organisationer – Det Statslige Område (OAO-S-fællesoverenskomsten).\nDu skal være aktiv studerende og dokumentere at være indskrevet ved en højere læreanstalt.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-16T00:00:00+01:00",
+      "applicationDeadline": "2026-04-09T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=82813b14-7837-4bfe-aafc-9aab5a70772a&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-16T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 8,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5200,
+      "departmentNameDa": "Fysik og Astronomi, Inst. f.",
+      "departmentNameEn": "Physics and Astronomy, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

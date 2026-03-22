@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37468,
+    "jobPosting": {
+      "jobPostingId": "178b257f-60d5-5195-9be7-a2dbeadd42c2",
+      "titleDa": "GENOPSLAG: Personaleleder til Medicinsk-/SDCA-forskningslaboratorium",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Klinisk Medicin - SDCA-Steno Diabetes Center Aarhus, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Institut for Klinisk Medicin på Aarhus Universitets sundhedsvidenskabelige fakultet, Health, søger en personaleleder til Medicinsk/SDCA Forskningslaboratorium pr. 15. april 2026 eller snarest muligt derefter. Stillingen er en tidsbegrænset stilling for 5 år med 7,4 timer per uge.\nSom personalelder på Institut for Klinisk Medicin bliver du en del af det formentlig største sundhedsvidenskabelige forskningsinstitut i Danmark. Den kliniske forskning dækker alle de lægefaglige specialer og foregår i samspil med universitetshospitalet og regionshospitalerne i Region Midtjylland. Vi råder over ca. 30.000 kvm moderne forskningsfaciliteter til eksperimentel kirurgi og medicin, dyrefaciliteter samt avancerede scannere. Instituttet har det overordnede ansvar for kandidatuddannelserne i medicin og i molekylær medicin. På instituttet er vi ca. 670 videnskabelige medarbejdere, 500 ph.d.-studerende og 160 teknisk/administrative medarbejdere, der samarbejder på tværs af fagområder. Som personaleleder vil du komme til at arbejde på Aarhus Universitetshospital. Du kan læse mere om instituttet\nher\nog om fakultetet\nher\n.\nOpgaver\nSom personaleleder er dine primære opgaver personaleledelse og opgavekoordination. Du skal fungere som bindeled mellem forskningsledelsen ved SDCA og indgå i den daglige ledelse af Medicinsk/SDCA Forskningslaboratorium og biomedicinsk forskning ved SDCA. I dit daglige arbejde har du et tæt samspil med dygtige kolleger ansat i både region og universitet.\nEksempler på opgaver:\nVaretage MUS med bioanalytikere og sygeplejersker som alle har specialfunktioner\nKortlægning og sikring af kompetencer og specialfunktioner\nUdvikle tværorganisatoriske samarbejdsrelationer både inden for Aarhus Universitetshospital, med Aarhus Universitet og overfor eksterne samarbejdspartnere herunder lægemiddelindustri\nHjælpe med prioritering/fordeling af opgaver herunder supervisere udarbejdelse af budgetter og regnskab for drift i forskningsenheder.\nDu refererer til professor og forskningschef Niels Jessen.\nDine kompetencer\nDu har en sundhedsprofessionel baggrund og har solid erfaring med ledelse i forskning. Erfaring med klinisk forskningssamarbejde med eksterne parter herunder lægemiddelindustri.\nSom person har du gode samarbejdsevner, er imødekommende og evner at bidrage til et godt arbejdsmiljø.\nVi forventer, at du taler og skriver flydende engelsk.\nSpørgsmål til stillingen\nHar du spørgsmål til stillingen, er du velkommen til at kontakte forskningschef/professor Niels Jessen, tlf.: +45 2859 6352.\nArbejdsstedet er Steno Diabetes Center Aarhus, Aarhus Universitetshospital, Palle Juul-Jensens Boulevard 11, 8200 Aarhus N, Danmark.\nTidligere indsendte ansøgninger vil blive taget i betragtning, medmindre de tilbagekaldes.\nAnsættelsesgrundlag\nLøn- og ansættelsesvilkår i henhold til relevant overenskomst.\nAnsøgning\nDin ansøgning skal indeholde følgende:\nAnsøgning\nCurriculum Vitae\nAngivelse af uddannelse (kopi af relevante eksamensbeviser)\nReferencer/anbefalinger kan uploades særskilt i e-rekrutteringssystemet\nVi henviser til fakultetets\nVejledning for ansøgere\n.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-13T00:00:00+01:00",
+      "applicationDeadline": "2026-03-27T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=bd9ac298-57b6-4a0f-ac1e-fd93352944d3&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-13T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 7.4,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2489,
+      "departmentNameDa": "Institut for Klinisk Medicin-Med.f",
+      "departmentNameEn": "Medical Research Laboratory"
+    },
+    "position": {
+      "positionTypeCode": "416",
+      "positionTypeDa": "Funktions-/sekretariatsleder",
+      "positionTypeEn": "Division Manager/Head of Secretariat"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8200,
+      "city": "Aarhus N"
+    }
+  }
+}

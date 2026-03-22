@@ -9,14 +9,16 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Som specialkonsulent er dine primære opgaver at varetage selvstændige, højt specialiserede og komplekse opgaver med ansvar for rådgivning, koordinering og udvikling på tværs af organisatoriske niveauer. Du yder kvalificeret ledelsesunderstøttelse og fungerer som faglig ressource for forskningsledelsen. Dine opgaver vil primært bestå af tæt ledelses- og stabsunderstøttelse, koordinering af forsknings- og undervisningsaktiviteter og bidrag til OECI-akkrediteringsprocesser i regi af Aarhus Comprehensive Cancer Center (CCC).",
-        "hrText": "Du har en akademisk uddannelse på kandidatniveau og flere års relevant erfaring fra Aarhus Universitet og Aarhus Universitetshospital. Du har indgående kendskab til AU's og AUH's organisation, IT-systemer og administrative procedurer. Indhentelse af en børneattest er en forudsætning for ansættelse.",
-        "auText": "Som specialkonsulent på Institut for Klinisk Medicin bliver du en del af det formentlig største sundhedsvidenskabelige forskningsinstitut i Danmark. Den kliniske forskning dækker alle de lægefaglige specialer og foregår i samspil med universitetshospitalet og regionshospitalerne i Region Midtjylland."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-10T08:00:00+01:00",
       "applicationDeadline": "2026-04-07T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0004-4004-8004-444444444444",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-10T08:00:00+01:00"
     },
     "employment": {
@@ -28,21 +30,21 @@
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 4001,
-      "departmentNameDa": "Institut for Klinisk Medicin",
-      "departmentNameEn": "Department of Clinical Medicine"
+      "departmentCode": 2489,
+      "departmentNameDa": "Institut for Klinisk Medicin-Med.f",
+      "departmentNameEn": "Medical Research Laboratory"
     },
     "position": {
-      "positionTypeCode": "330",
-      "positionTypeDa": "Specialkonsulent",
-      "positionTypeEn": "Special Consultant"
+      "positionTypeCode": "421",
+      "positionTypeDa": "Chef-/specialkonsulent",
+      "positionTypeEn": "Chief/Special Consultant"
     },
     "contacts": {
-      "technicalContactAuid": null,
-      "hrContactAuid": null
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
     },
     "address": {
-      "postalCode": "8200",
+      "postalCode": 8200,
       "city": "Aarhus N"
     }
   }

@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37356,
+    "jobPosting": {
+      "jobPostingId": "f210bcaf-edc5-58fb-a640-8142323e4ba3",
+      "titleDa": "Academic employee (AC-TAP) within Environmental Engineering at Department of Biological and Chemical Engineering",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Bio- og Kemiteknologi - Air Quality and Emission Engineering, Gustav Wieds Vej 10D, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "The Department of Biological and Chemical Engineering at Aarhus University is seeking an academic employee (AC-TAP) to support research activities related to sampling and analysis of microbial communities from agricultural sources.\nExpected start date and duration of employment\nThis is temporary full-time 1-year position starting June 1, 2026, or as soon as possible thereafter.\nJob description\nThe successful candidate is expected to have experience with both field and laboratory work, including maintenance and calibration of equipment and methods for analyzing microbial communities.\nYou should have a solid technical understanding, enabling you to develop experimental setups and operate relevant instruments and analytical methods independently.\nWe expect you to have strong collaboration skills, as you will work closely with project leaders, technical and administrative staff, and students. You should also be structured and meticulous in your work, which is essential when collecting and managing research data.\nQualifications\nYou are expected to hold a MSc or PhD degree in a relevant field.\nDocumented experience with online gas analyzers (e.g. Cavity Ring-Down Spectroscopy).\nDocumented experience with microbial analyses and metagenomics will be an advantage.\nDocumented experience with the collection and management of large datasets from instruments.\nExperience in general data handling and processing, including import, cleaning, filtering, and visualization of data in R.\nExperience with planning and execution of measurement campaigns.\nFluency in spoken and written English.\nValid driving license.\nPersonal competencies\nYou are positive, structured, and dedicated when working in a team.\nYou are open, approachable, and flexible.\nYou work well with people from different professional backgrounds.\nWho we are\nDepartment of Biological and Chemical Engineering was established on January 1, 2021, in connection with Aarhus University’s reorganization of the engineering area. The department employs around 175 people and is responsible for research and education within the department’s scientific areas. We educate both Bachelor and Master of Science in Engineering and around 825 students are enrolled in our study programs. Furthermore, we also offer an ambitious PhD program. Our PhD students have high academic ambitions and deliver high-quality results for both the private and the public sectors.\nAt the Department of Biological and Chemical Engineering, focus is on living systems, the biology of organisms, efficient production, and transformation of chemicals, materials and energy. We translate knowledge within biotechnology, food technology, environmental technology, chemical engineering, industrial biotechnology, medical biotechnology and electrochemical engineering, and more into new technologies and value-creating solutions that can also be used in the business community.\nMany of our research and development activities are based on companies' specific innovation needs or specialist application areas. Close collaboration with the public sector and private businesses ensures that the knowledge and technology generated in the department's research environments has a clear anchoring in reality and benefits the surrounding society. We also provide research-based public sector consultancy and advice on technology in agriculture and food.\nWhat we offer\nThe department offers:\na well-developed research infrastructure, laboratories and access to shared equipment\nan exciting interdisciplinary environment with many national, international and industrial collaborators\na work environment encouraging lively, open and critical discussion\na work environment with close working relationships, networking and social activities\na workplace characterised by professionalism, equality and a healthy work-life balance\nPlace of work and area of employment\nThe place of work is at Gustav Wieds Vej 10, 8000 Aarhus C, and the area of employment is Aarhus University with affiliated institutions.\nContact information\nFor further information, please contact: Senior Advisor, PhD, Lise Bonne Guldberg, +45 4189 3200,\n[email protected]\n.\nDeadline\nApplications must be received no later than April 1, 2026.\nFormalities and salary range\nSalary and terms as agreed between the Danish Ministry of Taxation and the Confederation of Professional Unions or the relevant organisation.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-09T00:00:00+01:00",
+      "applicationDeadline": "2026-04-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=ae47f770-d280-4aa8-b847-3c5021519c94&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-09T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2147,
+      "departmentNameDa": "Kemiteknologi",
+      "departmentNameEn": "Chemical Engineering"
+    },
+    "position": {
+      "positionTypeCode": "461",
+      "positionTypeDa": "Tekniker",
+      "positionTypeEn": "Technician"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

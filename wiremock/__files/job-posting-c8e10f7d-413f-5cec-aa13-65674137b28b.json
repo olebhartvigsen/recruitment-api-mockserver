@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37288,
+    "jobPosting": {
+      "jobPostingId": "c8e10f7d-413f-5cec-aa13-65674137b28b",
+      "titleDa": "Postdoc position in Crystallography and Electrocatalysis at Aarhus University",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Kemi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "We are seeking candidates for a post-doctoral position within the field of structure and electrocatalytic properties of nanocrystals. The position is for two years. In case further external funding is secured within the academic area the candidates are assessed obviously qualified for, an extension is possible for up to a total maximum of four years of employment as a postdoc.\nThe position has focus on\nin situ\nand\noperando\nX-ray scattering studies of the formation, growth and catalytic properties of complex nanocrystals. The project also involves frequent use of advanced electron microscopy techniques. The nanocrystals will typically be synthesized using scalable and green solvothermal methodology. The candidate must have a strong background in materials chemistry with experience in nanocrystal synthesis as well as structural characterization using both X-ray scattering (powder X-ray diffraction and pair distribution function) and electron microscopy (transmission and scanning). Furthermore, the candidate preferably has solid experience in electrocatalytic measurements and their interpretation.\nThe starting date is expected to be August 1st 2026, or as soon as possible thereafter.\nThe successful candidates will be involved in materials crystallography research in collaboration with other members of the Iversen group. The candidates must have a PhD in chemistry, crystallography, physics, materials science or similar. The Department of Chemistry at Aarhus University (www.chem.au.dk) is one of the leading European chemistry departments with a broad research program. It is undertaking a restructuring and will have a permanent staff of 43 full, associate and assistant professors, a support staff of ~40 technical and administrative staff, ~150 PhD-students and ~100 postdocs and around 350 students.\nFor further information, please contact Professor, dr. scient. et techn. Bo Brummerstedt Iversen (\n[email protected]\n). Applications including CV, full publication list, references and description of qualifications must be uploaded.\nApplication procedure\nShortlisting is used. This means that after the deadline for applications – and with the assistance from the assessment committee chairman, and the appointment committee if necessary, – the head of department selects the candidates to be evaluated. All applicants will be notified whether or not their applications have been sent to an expert assessment committee for evaluation. The selected applicants will be informed about the composition of the committee, and each applicant is given the opportunity to comment on the part of the assessment that concerns him/her self.\nLetter of reference\nIf you want a referee to upload a letter of reference on your behalf, please state the referee’s contact information when you submit your application. We strongly recommend that you make an agreement with the person in question before you enter the referee’s contact information, and that you ensure that the referee has enough time to write the letter of reference before the application deadline. Unfortunately, it is not possible to ensure that letters of reference received after the application deadline will be taken into consideration.\nIf you wish to add a referee\nafter\nyou have submitted your application, you must send this person’s details (name, job title, place of work, and email address) as well as the name of the position you have applied for to:\n[email protected]\nFormalities and salary range\nNatural Sciences refers to the\nMinisterial Order on the Appointment of Academic Staff at Danish Universities under the Danish Ministry of Science, Technology and Innovation\n.\nThe application must be in English and include a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities, teaching portfolio and verified information on previous teaching experience (if any). Guidelines for applicants can be found\nhere.\nAppointment shall be in accordance with the collective labour agreement between the Danish Ministry of Taxation and the Danish Confederation of Professional Associations. Further information on qualification requirements and job content may be found in the\nMemorandum on Job Structure for Academic Staff at Danish Universities\n.\nSalary depends on seniority as agreed between the Danish Ministry of Taxation and the Confederation of Professional Associations.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nResearch activities will be evaluated in relation to actual research time. Thus, we encourage applicants to specify periods of leave without research activities, in order to be able to subtract these periods from the span of the scientific career during the evaluation of scientific productivity.\nAarhus University offers a broad variety of services for international researchers and accompanying families, including relocation service and career counselling to expat partners. Read more\nhere\n. Please find more information about entering and working in Denmark\nhere\n.\nAarhus University also offers a Junior Researcher Development Programme targeted at career development for postdocs at AU. You can read more about it\nhere\n.\nAt the Faculty of Natural Science at Aarhus University, we strive to support our scientific staff in their career development. We focus on competency development and career clarification and want to make your opportunities transparent. On\nour website\n, you can find information on all types of scientific positions, as well as the entry criteria we use when assessing candidates. You can also read more about how we can assist you in your career planning and development.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-06T00:00:00+01:00",
+      "applicationDeadline": "2026-03-26T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=44880d55-1072-4224-af46-8256b98a9de1&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-06T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1039,
+      "departmentNameDa": "Institut for Fødevarer",
+      "departmentNameEn": "Food Science, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "137",
+      "positionTypeDa": "Post doc.",
+      "positionTypeEn": "Postdoc"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

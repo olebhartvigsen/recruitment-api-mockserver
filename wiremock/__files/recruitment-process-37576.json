@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37576,
+    "jobPosting": {
+      "jobPostingId": "3a614d2f-f480-5f30-9aae-4c702a98161b",
+      "titleDa": "Studentermedhjælpere til Helpdesk, Arts IT-support",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Administrationscenter Arts - IT Support, AR, Aarhus Tåsingegade, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Arts IT-support søger nu studentermedhjælpere til Helpdesken med tiltrædelse pr. 1 maj 2026 eller snarest derefter. Helpdesken består af omtrent 10 studentermedhjælpere, og vores opgaver spænder bredt inden for det IT- og AV-faglige. Herunder kan bl.a. nævnes: Opsætning af trådløst netværk, mail, AV-support for både studerende og ansatte. Vi forventer, at du:\nEr serviceminded, glad og smilende\nHar gå-på-mod og er initiativrig\nEr fleksibel hvad angår arbejdstider (som ligger i dagtimerne på hverdage)\nHar et basalt kendskab til Microsoft Windows og Office-pakken\nHar kendskab til Mac og iOS • Har PC kendskab på mere end brugerniveau\nHar kendskab til Brightspace LMS\nEr godt i gang med studiet - gerne i starten af en bachelor (det er et krav at du er i gang med en videregående uddannelse)\nKan arbejde ca. 8 timer om ugen\nDet er en fordel hvis du har kørekort\nDet er en forudsætning for ansættelsen, at du er aktiv studerende på en højere dansk uddannelsesinstitution.\nAnsættelsen starter med oplæring og introforløb på ca. 2-3 uger. Vi gennemfører ansættelsessamtaler medio april. Har du spørgsmål til stillingen, kan du skrive til Morten Sloth Enemærke,\n[email protected]\n- Alle interesserede opfordres til at søge uanset personlig baggrund\nLøn og ansættelsesvilkår\nI henhold til gældende overenskomst mellem Finansministeriet og PROSA.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nOm Arts\nFaculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik. Inden for denne faglige bredde huser fakultetet omkring 700 forskere, 200 ph.d.-studerende, 9.000 bachelor- og kandidatstuderende og 1.500 efter- og videreuddannelsesstuderende. Vi tror på, at de bedste idéer opstår i mødet mellem forskellige perspektiver – og at forskning, undervisning og innovation udvikles bedst i dialog med samfundet omkring os.\nDu kan finde mere information her\nFaculty of Arts | Aarhus Universitet\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-18T00:00:00+01:00",
+      "applicationDeadline": "2026-04-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=65adfc60-1190-4aec-bf9d-fd9ce190c529&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-18T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 8,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1986,
+      "departmentNameDa": "Administrationscenter Arts",
+      "departmentNameEn": "Arts Administrative Centre"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

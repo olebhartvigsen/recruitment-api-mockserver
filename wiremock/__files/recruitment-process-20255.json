@@ -9,32 +9,43 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Du vil arbejde med emissionsmålinger og udvikling af miljøteknologier inden for stalde, lagre og udbringning af husdyrgødning. En stor del af arbejdet foregår på AU Viborg og ude hos landmænd, hvor der gennemføres forsøg i pilot- og fuldskala. Du involveres i gennemførelse af forsøg, herunder udvikling af forsøgsopstillinger, opstilling af forsøgsudstyr, indsamling af data og koordinering af forsøgsaktiviteter. I højsæsonen (marts-oktober) kan længere arbejdsdage forventes.",
-        "hrText": "Vi søger en landbrugstekniker, landbrugsuddannet med teknisk indsigt eller lignende med kendskab til husdyrproduktion og/eller markdrift. Teknisk flair for mekanik er en fordel. Kørekort (minimum B, gerne til trailer) er påkrævet. Deadline: 1. april 2026.",
-        "auText": "På Institut for Bio- og Kemiteknologi skaber vi bæredygtige, teknologiske løsninger på erhvervslivets og samfundets største udfordringer. Vi stræber efter at bidrage til en bæredygtig udvikling og til at skabe grønne løsninger inden for klima, miljø, biologiske processer, materialer og medicin."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-05T08:00:00+01:00",
       "applicationDeadline": "2026-04-01T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0011-4011-8011-111100000011",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-05T08:00:00+01:00"
     },
     "employment": {
-      "period": { "startDate": "2026-05-01", "endDate": null },
+      "period": {
+        "startDate": "2026-05-01",
+        "endDate": null
+      },
       "hoursPerWeek": 37,
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 14001,
-      "departmentNameDa": "Institut for Bio- og Kemiteknologi",
-      "departmentNameEn": "Department of Biological and Chemical Engineering"
+      "departmentCode": 2147,
+      "departmentNameDa": "Kemiteknologi",
+      "departmentNameEn": "Chemical Engineering"
     },
     "position": {
-      "positionTypeCode": "610",
-      "positionTypeDa": "Teknisk medarbejder",
-      "positionTypeEn": "Technical Staff"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
-    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
-    "address": { "postalCode": "8830", "city": "Tjele" }
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8830,
+      "city": "Tjele"
+    }
   }
 }

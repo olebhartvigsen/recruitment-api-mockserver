@@ -9,14 +9,16 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Som projektmedarbejder arbejder du tæt sammen med lederen af forskningsprogrammet samt det øvrige team bestående af en ph.d.-studerende og en postdoc forsker. Du skal understøtte den daglige projektkoordinering og fremgang i programmet. Arbejdsopgaverne omfatter bl.a. interview med børn og unge samt forældre og sundhedsprofessionelle, oprettelse af spørgeskemaer i Redcap, dataanalyse, organisering af møder og seminarer samt ekstern kommunikation om projektet.",
-        "hrText": "Vi forestiller os at du har en relevant kandidatuddannelse inden for det sundhedsfaglige område, erfaring med dataindsamling og rekruttering, samt motivation for sundhedsvidenskabelig forskning. Indhentelse af en børneattest er en forudsætning for ansættelse.",
-        "auText": "Som videnskabelig assistent på Institut for Klinisk Medicin bliver du en del af det formentlig største sundhedsvidenskabelige forskningsinstitut i Danmark med ca. 670 videnskabelige medarbejdere, 500 ph.d.-studerende og 160 teknisk/administrative medarbejdere."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-07T08:00:00+01:00",
       "applicationDeadline": "2026-04-01T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0005-4005-8005-555555555555",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-07T08:00:00+01:00"
     },
     "employment": {
@@ -28,21 +30,21 @@
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 4001,
-      "departmentNameDa": "Institut for Klinisk Medicin",
-      "departmentNameEn": "Department of Clinical Medicine"
+      "departmentCode": 2489,
+      "departmentNameDa": "Institut for Klinisk Medicin-Med.f",
+      "departmentNameEn": "Medical Research Laboratory"
     },
     "position": {
-      "positionTypeCode": "440",
-      "positionTypeDa": "Videnskabelig assistent",
-      "positionTypeEn": "Research Assistant"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
     "contacts": {
-      "technicalContactAuid": null,
-      "hrContactAuid": null
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
     },
     "address": {
-      "postalCode": "8200",
+      "postalCode": 8200,
       "city": "Aarhus N"
     }
   }

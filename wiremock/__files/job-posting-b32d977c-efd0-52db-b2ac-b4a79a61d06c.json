@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37124,
+    "jobPosting": {
+      "jobPostingId": "b32d977c-efd0-52db-b2ac-b4a79a61d06c",
+      "titleDa": "Studentermedhjælper til grafisk arbejde og videoproduktion hos Arts Karriere og Vejlednings- og Studieinformation søges",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Administrationscenter Arts - Vejledning og studieinformation (VEST), Aarhus, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vil du være med til at skabe inspirerende grafik og videoer, der hjælper dine medstuderende med at finde vej og perspektiver i deres uddannelse? T\nænker du kreativt og er du god til at arbejde selvstændigt og struktureret?\nSå er stillingen som studentermedhjælper ved Arts Karriere og Studievejledningen på Arts, måske noget for dig.\nDine opgaver\nSom studentermedhjælper vil dine primære arbejdsområder være:\nOpsætning af plakater, flyers og kampagnemateriale til CompanyDating på Arts samt løse visuelle opgaver relateret til hjemmeside og SoMe.\nLave visuelle løsninger til brug i præsentationer og på studieportalen.\nIdéudvikle, filme og redigere små film/klip til brug på studieportalen i nyhedsbrevet fra studie- og karrierevejledningen samt på sociale medier.\nLøse øvrige kommunikationsopgaver.\nVi forventer, at du …\ner studerende.\ngerne har erfaring med Illustrator, Photoshop, iMovie eller lignende.\nhar målgruppeforståelse og lyst til at hjælpe studerende på Arts videre gennem studiet og på vejen til det arbejdsliv, de ønsker.\nmotiveres af at udvikle og tænke kreativt.\nhar forståelse for sociale medier og brugen af disse.\nkan arbejde selvstændigt og selv strukturere dine opgaver og tid.\nVi kan tilbyde dig:\nEt fleksibelt studiejob, hvor du selv er med til at tilrettelægge dine timer.\nMulighed for både faglig og personlig udvikling – du får erfaring med at planlægge og løse opgaver på egen hånd og i samarbejde med dine kollegaer.\nAt blive en del af en gruppe bestående af tre studentermedhjælpere, som du skal samarbejde med om opgaverne.\nGode kollegaer og en uformel omgangstone.\nSjove og hyggelige sociale arrangementer på arbejdspladsen.\nGrundig oplæring og løbende sparring.\nArbejdstid og sted\nDit primære arbejdssted vil være i Tåsingegade på Aarhus Universitet. Din ugentlige arbejdstid er gennemsnitligt 10 timer. Vi tager selvfølgelig forbehold for travle perioder på studiet, ligesom vi i Arts studier har perioder, hvor der er mange deadlines.\nDin ansøgning\nAnsøgningsfrist er den 22. marts 2026. Vi forventer at holde samtaler tirsdag den 24. marts 2026. Hvis du har spørgsmål til stillingen, er du velkommen til at skrive til karrierekonsulent Thomas Moeslund på\n[email protected]\neller vejledningskoordinator Inger Drivsholm Schytter på\n[email protected]\nLøn og ansættelsesvilkår\nI henhold til gældende overenskomst mellem Finansministeriet og HK STAT/OAO-fællesoverenskomsten.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nOm Arts\nFaculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik. Inden for denne faglige bredde huser fakultetet omkring 700 forskere, 200 ph.d.-studerende, 9.000 bachelor- og kandidatstuderende og 1.500 efter- og videreuddannelsesstuderende. Vi tror på, at de bedste idéer opstår i mødet mellem forskellige perspektiver – og at forskning, undervisning og innovation udvikles bedst i dialog med samfundet omkring os.\nDu kan finde mere information her\nFaculty of Arts | Aarhus Universitet\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-02-26T00:00:00+01:00",
+      "applicationDeadline": "2026-03-22T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=b05380be-e1e0-4b31-80d9-f140d9776ae6&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-02-26T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 10,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1986,
+      "departmentNameDa": "Administrationscenter Arts",
+      "departmentNameEn": "Arts Administrative Centre"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

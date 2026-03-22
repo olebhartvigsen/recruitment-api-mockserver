@@ -9,32 +9,43 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Der søges koordinator til at varetage introdagen for nye kandidatstuderende. Arbejdsopgaver vil primært bestå af: planlægning af studiestartsprogrammet (1 hel eller to halve dages) i semesterets første uge, koordinering og afvikling af studiestartsarrangementet, samt rekruttering og kontakt til medhjælpere til arrangementet.",
-        "hrText": "Arbejdsmængden er berammet til maks. 60 timer, og der aflønnes efter gældende overenskomst. Stillingen kan også deles mellem to personer, som så aflønnes med 30 timer pr. person. Ansøgningsfrist: 24. februar 2026.",
-        "auText": "Aarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-02-01T08:00:00+01:00",
       "applicationDeadline": "2026-02-24T23:59:00+01:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0012-4012-8012-121200000012",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-02-01T08:00:00+01:00"
     },
     "employment": {
-      "period": { "startDate": "2026-04-15", "endDate": "2026-09-30" },
+      "period": {
+        "startDate": "2026-04-15",
+        "endDate": "2026-09-30"
+      },
       "hoursPerWeek": null,
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 15001,
+      "departmentCode": 3500,
       "departmentNameDa": "Psykologisk Institut",
-      "departmentNameEn": "Department of Psychology"
+      "departmentNameEn": "Psychology and Behavioural Sciences, Dept. of"
     },
     "position": {
-      "positionTypeCode": "620",
-      "positionTypeDa": "Koordinator",
-      "positionTypeEn": "Coordinator"
+      "positionTypeCode": "421",
+      "positionTypeDa": "Chef-/specialkonsulent",
+      "positionTypeEn": "Chief/Special Consultant"
     },
-    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
-    "address": { "postalCode": "8000", "city": "Aarhus C" }
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
   }
 }

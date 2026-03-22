@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37524,
+    "jobPosting": {
+      "jobPostingId": "5a544d0f-b18e-5bd5-a8bc-9a54817d678d",
+      "titleDa": "Studentermedhjælper til administrationen ved Psykologisk Institut, Aarhus Universitet.",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Psykologisk Institut, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Har du lyst til at arbejde med administrative opgaver så er du måske vores nye studentermedhjælper.\nPsykologisk Institut søger snarest muligt en studentermedhjælper, der kan assistere med administrative og praktiske opgaver.\nDine opgaver:\nAt gå til hånde med administration og udsendelse af indkaldelser til onlinemøder i Teams\nArbejde i Excel\nAndre administrative opgaver\nOpgaver i forbindelse med eksamensplanlægning på instituttet\nDer vil i sommermånederne forventes spidsbelastninger\nVi forventer, at du:\nEr grundig og kan arbejde selvstændigt og disciplineret\nKan kommunikere både skriftligt og mundtligt på engelsk og dansk\nKan arbejde i Excel\nGrundet arbejdsopgaver omkring eksamensplanlægning foretrækkes en studerende med en studieretning, der ikke er tilknyttet den pågældende eksamensplanlægning\nTil gengæld tilbyder vi:\nEt spændende studiejob, der udvikler dig både fagligt og personligt.\nEt netværk til kollegaer med forskellige nationale og akademiske baggrunde.\nOm instituttet\nPsykologisk Institut er del af Aarhus BSS, ét af fem fakulteter på Aarhus Universitet.\nPå instituttet forskes og undervises der inden for alle psykologiens væsentligste fagområder og instituttet bidrager med forskning og videns udveksling til det omgivende samfund. Forskere fra Psykologisk Institut indgår i tætte nationale og internationale samarbejder og har en stærk tradition for samarbejde med forskere fra mange forskellige faglige felter.\nKontaktinfo\nYderligere oplysninger om stillingen kan indhentes hos sekretariatsleder Carsten Dalsager på e-mail:\n[email protected]\n.\nPraktisk info\nTiltrædelse snarest muligt og senest 1. maj 2026\nDen ugentlige arbejdstid er i gennemsnit ca. 7 timer.\nAnsættelsesperioden er op til 3 år dog kun så længe du er aktiv studerende\nArbejdsstedet er Psykologisk Institut, Aarhus Universitet, Bartholins Alle 11, 8000 Aarhus C.\nAnsøgning:\nSend en kort motiveret ansøgning og et kort CV, samt dokumentation på at du er studerende ved en dansk videregående uddannelsesinstitution og hvor der står hvilken linje og hvilket semester du er tilknyttet.\nAnsøgningsfrist:\n7. april 2026.\nKrav og vilkår\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Finansministeriet og HK/Stat.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge\n.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-16T00:00:00+01:00",
+      "applicationDeadline": "2026-04-07T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=2eac12e2-1d54-4f35-9d0f-e0603f2c473b&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-16T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 7,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 3500,
+      "departmentNameDa": "Psykologisk Institut",
+      "departmentNameEn": "Psychology and Behavioural Sciences, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

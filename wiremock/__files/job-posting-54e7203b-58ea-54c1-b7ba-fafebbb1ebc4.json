@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37388,
+    "jobPosting": {
+      "jobPostingId": "54e7203b-58ea-54c1-b7ba-fafebbb1ebc4",
+      "titleDa": "Erfaren Testmanager (genopslag)",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved AU IT - Projekt og Test, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vi mangler en dygtig kollega til at sikre kvaliteten af vores prioriterede projekter. Som Testmanager på et prioriteret projekt vil du lede testprocessen i tæt samarbejde med projektlederen, Scrum Master, udviklere, Product Owner og andre interessenter for at planlægge, koordinere, designe, udvikle, og gennemføre testaktiviteter på tværs af IT og forretning.\nNøgleordene for vores hverdag er fokus på testfagligheden, dygtige kollegaer, gode muligheder for kompetenceudvikling og en fornuftig work/life balance.\nSådan arbejder du som Testmanager\nPå det første projekt vil fokus være på arbejdet som Testmanager og governanceopgaver omkring vores testmodel. Testgennemførelse vil fylde mindre. Projektet er et stort program med en Programtestmanager og programledelse, der sætter rammerne for arbejdet. Din opgave vil blive at lede testarbejdet omkring integrationsudviklingen, hvor vores 2 tekniske testere sikrer testgennemførelse og automatisering. De tekniske testere er organiseret sammen med udviklerne og er en del af scrum-teamet.\nPå sigt vil du skulle indgå i andre projekter, hvor du kommer til at dække hele testprocessen. Du vil både være ansvarlig for at lede og koordinere alt fra udarbejdelse af teststrategi til testafslutning og samtidig påtage dig opgaver som tester. Nogle projekter gennemføres i samarbejde med en Testmanager på forretningssiden. I andre projekter vil du få ansvaret på tværs af IT og forretning.\nVi forventer, at du kan:\nUdarbejde og implementere teststrategier og testplaner.\nLede og koordinere et testforløb med mange interessenter.\nDokumentere og rapportere fremdrift på test, så det kan formidles til en styregruppe.\nSamarbejde med udviklingsteams for at identificere og løse fejl.\nPlanlægge og prioritere testmetoder og teknikker, så de passer til testopgaverne i projektet.\nTænke automatiseret test og regressionstest ind i dine planer.\nFacilitere workshops om f.eks. en produktrisikoanalyse.\nHolde hovedet koldt, når deadlines møder agile udviklingsmetoder.\nForklare testmodellen på en forståelig måde til ikke-testfaglige kollegaer.\nVi lægger vægt på, at du:\nHar erfaring med og interesse for testledelse såvel som gennemførelse.\nTænker praktik før teori.\nVed hvad det indebærer at arbejde ud fra et grundprincip om risikobaseret test.\nFormår at arbejde med både overblik og detaljer.\nEvner at arbejde struktureret og selvstændigt.\nGennem gode kommunikations- og samarbejdsevner kan sikre at test bliver integreret i projekterne.\nHar lyst til at drive løbende udvikling og forbedring af testmodellen til glæde for resten af organisationen.\nDu skal have praktisk erfaring med softwaretest og være certificeret inden for testmanagement f.eks. ISTQB eller TMAP.\nOm teamet AU IT - Projekt og Test\nTeamet er placeret i AU IT, der er en IT-afdeling med ca. 135 medarbejdere, som leverer ydelser og services til hele universitetet. Hertil kommer IT-supporten, som er forankret på fakulteterne.\nI AU IT - Projekt og Test kommer du til at indgå i et team af højt kvalificerede IT-Testmanagers, og IT-Projektledere, der alle synes, at test er vigtigt. Det giver gode muligheder for vidensdeling og sparring i hverdagen.\nI vores team på 8 medarbejdere interesserer vi os for hinanden, og vi husker at grine sammen. Selvom travlheden i projekterne varierer, keder vi os aldrig, og der er altid plads til familien og privatlivet.\nLøn og ansættelsesvilkår er i henhold til overenskomst mellem Finansministeriet og relevant faglig organisation (Akademikere i Staten eller Prosa) afhængig af din uddannelsesmæssige baggrund.\nArbejdsstedet er Universitetsbyen 81, 8000 Aarhus C.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-10T00:00:00+01:00",
+      "applicationDeadline": "2026-04-06T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=ad2d297b-f6e1-4465-a03e-3f1d2de637c7&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-10T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1398,
+      "departmentNameDa": "AU IT",
+      "departmentNameEn": "AU IT"
+    },
+    "position": {
+      "positionTypeCode": "421",
+      "positionTypeDa": "Chef-/specialkonsulent",
+      "positionTypeEn": "Chief/Special Consultant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

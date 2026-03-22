@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37624,
+    "jobPosting": {
+      "jobPostingId": "214addd3-bc03-53f1-a138-e3ce21bef5d3",
+      "titleDa": "Academic Employee in seed science and technology",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Agroøkologi - Afgrødegenetik og Bioteknologi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Aarhus University, Science and Technology, invites applications for a position as Academic Employee at the Department of Agroecology, starting 1st June 2026, or as soon as possible thereafter. The position is available for 3 years.\nWe are seeking a highly skilled and motivated Technical Specialist in Seed Science and Technology to join our team. The ideal candidate will have experience in planning and conducting various types of experiments on seeds of diverse crops. Experience of image analysis, and analysis of seed longevity and germination data will be an advantage.\nYou should have good organizational skills, with the ability to coordinate multiple tasks and priorities efficiently. You will be expected to support visiting scientists and students, including monitoring of experiments and collection of data. You will be expected to communicate results clearly to project collaborators. This position offers an opportunity to work at the intersection of fundamental and applied seed research.\nQualifications\n• MSc or PhD degree within seed science.\n• Technical skills in setting up different types of seed experiments.\n• Experience in advanced technologies applied to seeds.\n• Relevant working experience in an international academic environment.\n• Interest and skills in training of visiting scientists and students from different countries.\nWho we are\nAt the Department of Agroecology, our main goal is to contribute to sustainable solutions to some of the world’s biggest problems within the areas of soil, plants, animals, humans, and the environment. We want to make a difference by contributing to both fundamental knowledge generation and the attainment of sustainable production systems via innovative research, contracted policy advice, and education. We offer professional laboratories, greenhouses, semi-field, and field-scale research facilities, advanced computing capacities as well as an extensive national and international researcher network.  The department consists of nine research sections with around 350 highly skilled employees, of which approximately 50% are scientific staff. More information can be found\nhere\n.\nWe believe in encouraging inclusion, acceptance, and understanding by employing staff who bring unique perspectives to our department.\nWhat we offer\nA collaborative, international research environment that combines high academic standards with an informal and supportive atmosphere. We value accountability, curiosity, flexibility, and teamwork in everything we do.\nAn inclusive and respectful workplace culture, where mutual trust, kindness, and professional dialogue are part of daily life. We encourage open communication and develop a cohesive sense of community across teams and disciplines.\nA flexible working environment that supports work-life balance and individual needs.\nAn active institutional commitment to diversity, equity, and inclusion – in recruitment, career development, and everyday interactions.\nAn innovative and meaningful workplace where your work contributes to solving real-world challenges. No two days are alike, and we welcome creative thinking and new ideas.\nSupport for international researchers and their families, including\nRelocation Service\nand an\nExpat Partner Programme\nLiving and working in Denmark\nSubsidised childcare and free education from primary school through university.\nUniversal healthcare for you and your family as residents.\nFive weeks of paid holiday per year.\nGenerous parental leave – up to 52 weeks shared between parents, with full or partial salary.\nPlace of Work\nThe place of employment is Aarhus University, and the place of work is Department of Agroecology, Faculty of Technical Sciences, Forsøgsvej 1, DK-4200 Slagelse, Denmark.\nFormalities and salary range\nSalary and terms as agreed between the Danish Ministry of Taxation and the Confederation of Professional Unions.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-20T00:00:00+01:00",
+      "applicationDeadline": "2026-04-17T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=f820e922-03a5-49e6-a0e6-a9b9d5520bac&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-20T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1140,
+      "departmentNameDa": "Afgrødegenetik og Bioteknologi",
+      "departmentNameEn": "Crop Genetics and Biotechnology"
+    },
+    "position": {
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 4200,
+      "city": "Slagelse"
+    }
+  }
+}

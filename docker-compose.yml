@@ -5,7 +5,7 @@ services:
       - "8080:8080"
     volumes:
       - ./wiremock:/home/wiremock
-    command: --verbose --enable-stub-cors
+    command: --verbose
 
   swagger-ui:
     image: swaggerapi/swagger-ui

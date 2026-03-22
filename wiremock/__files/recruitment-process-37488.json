@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37488,
+    "jobPosting": {
+      "jobPostingId": "d53f9a51-a1e0-541e-902b-d40e831659c7",
+      "titleDa": "Studiejob som formidler i Besøgsservice ved Interdisciplinært Nanoscience Center (iNANO)",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Interdisciplinary Nanoscience Center, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Har du lyst til at udbrede interessen for nanoscience samt give elever fra grund- og gymnasieskolen indblik i hverdagen som nanoscience-studerende ved Aarhus Universitet?\nInterdisciplinært Nanoscience Center (iNANO) søger nye studenterformidlere til Besøgsservice, hvor arbejdstiden er varierende og på gennemsnitligt ca. 4 timer om måneden.\nStillingerne er med tiltrædelse den 1. juni 2026, hvorefter der vil blive afholdt intromøde i slutningen af juni. Oplæring og opgaver starter først efter sommerferien 2026.\nOm os\nFormålet med iNANOs Besøgsservice er, på en sjov, interessant og faglig måde, at lære primært grundskole- og gymnasieelever om nanovidenskab og nanoteknologi. Dette indbefatter at give dem forståelse for principper, begreber og fænomener inden for nanoscience. Derudover er vores mission også at fortælle om studiet og studielivet samt at vise faciliteterne på iNANO.\nVi vil gerne give alle besøgende en god oplevelse. Dette gælder både potentielle nye studerende, men også elever, som aldrig ville vælge nanoscience. Vi stræber derfor efter at undervise bredt og engageret.\nMere information\nkan findes på hjemmesiden:\nwww.nanoshow.dk.\nArbejdsopgaverne består i\nat afholde NanoShow, som er et fagligt oplæg med illustrationer, rekvisitter og demonstrationsforsøg udført sammen af to studenterformidlere,\nat afvikle specifikke øvelser samt give rundvisninger i iNANO-huset.\nVi tilbyder\net job, hvor du bliver medlem af et hold af 10-11 nanoscience-studerende, som samarbejder om formidlingen af nanoscience og studielivet på uddannelsen til udefrakommende interesserede,\nmuligheden for at opnå erfaring med formidling og inspirere andre til at studere nanoscience på Aarhus Universitet,\net studierelevant job, som du kan skrive på dit CV\nDin profil\nDa du skal fungere som ambassadør for nanoscience-uddannelsen, er det at foretrække at du er nanoscience-studerende, og alle opfordres til at søge uanset hvor langt man er i studiet.\nPersonlige kvalifikationer:\nErfaring er ikke nødvendig – vi skal nok lære dig op.\nVi forventer, at du er åben, imødekommende og interesseret i at formidle og holde faglige oplæg.\nVi forventer ligeledes at du er ansvarsfuld, god til at planlægge din tid og til at arbejde selvstændigt.\nArbejdstid\nDu melder løbende dig selv til opgaver, men det vil i forbindelse med faste arrangementer (U-days, studiepraktik, m.m.) være forventet, at du tager del i opgaverne.\nArbejdstiden pr. måned vil være varierende, og der kan forekomme enkelte måneder med 0 timer, dvs. alt fra 0 til 10 timer om måneden kan forekomme. I skolernes ferier vil der desuden typisk aldrig være opgaver.\nArbejdssted\nArbejdsstedet er Interdisciplinært Nanoscience Center (iNANO), Gustav Wieds Vej 14, 8000 Aarhus C, og ansættelsesområdet er Aarhus Universitet med tilhørende institutioner.\nPr. 1. august 2026 overføres iNANOs uddannelses- og forskningsaktiviteter til fakultetets institutter. Ansættelsen i stillingen vil derfor fra samme dato blive forankret ved et institut.\nKontakt information\nDu er velkommen til at kontakte Line Mørkholt Lund (\n[email protected]\n), hvis du har spørgsmål til jobbet.\nAnsøgningsfrist\nAlle ansøgninger skal være modtaget senest den 6. april 2026.\nFormalia\nAnsættelse sker i henhold til overenskomsten for studenterundervisere ved universiteter m.v. indgået mellem Skatteministeriet og Studenteransattes Landsforbund samt Foreningen af Danske Lægestuderende.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-13T00:00:00+01:00",
+      "applicationDeadline": "2026-04-06T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=8ef0aa4f-d9cf-40a2-87d3-5f01dbeef8bd&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-13T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 1,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5213,
+      "departmentNameDa": "Interdisciplinær Nanotek., Cent.f.",
+      "departmentNameEn": "Interdisciplinary Nanoscience Cent."
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

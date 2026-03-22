@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37236,
+    "jobPosting": {
+      "jobPostingId": "5e3316fe-555e-5a16-9cd0-7a07290d846e",
+      "titleDa": "Academic Employee within Trapped Ion Quantum Technology",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Fysik og Astronomi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "The Department of Physics and Astronomy (IFA), Aarhus University, Denmark (\nwww.phys.au.dk\n) invites applications for a 2-year academic employee position with focus on establishing and maintaining trapped ion quantum technology setups. The work will partly be carried out in the newly established\nQuantum Technology Lab (QTL)\nand within the\nIon Trap Group.\nThe position is open from  the 1st of July 2026, or as soon as possible thereafter.\nYour profile\nThe candidates are expected to have experience in cold trapped ion research, and hence both have experience in ion trap and laser technology. We are seeking enthusiastic candidates with a keen interest in setting up a new teaching ion trap setup in QTL as well as participate in maintaining and running ion trap experiments within the Ion Trap Group. More specifically, the candidate should have a solid background in construction and operating rf ion traps, CW laser systems including control of output powers, polarization states, linewidths and frequencies, as well as an understanding of analog and digital electronics for experimental control. Relevant methodology includes UHV vacuum handling, rf circuity electronics, laser frequency stabilization using optical frequency combs, rubidium atomic clocks, and GPS synchronization.\nA PhD degree in Physics or Engineering is an advantage, and applicants must be able to document relevant experience, as outlined above.\nWho we are\n/\nThe department\nThe Department of Physics and Astronomy is a department at the Faculty of Natural Sciences, Aarhus University, Denmark. The main objectives of the Department are to carry out research at the highest international level, to offer research based teaching at Bachelor of Science, Master of Science and PhD levels, and to exchange knowledge with other areas of society, e.g. by offering our expertise to industrial partners and the business world.\nThe Department is an attractive workplace for researchers, teachers, technicians, laboratory technicians and administrators and has a good study environment with many talented and active students at all levels. The research at the Department of Physics and Astronomy is of high quality, attracts significant international attention – in several fields the Department is within the world elite – and is characterized by many international collaborations with other high-ranking universities and research institutions around the world.\nThe successful candidate is offered:\na working climate inviting lively, open and constructive discussion within and across different fields of research\na working environment with teamwork, close working relations, and social activities\na workplace characterized by professionalism, equality and a healthy work-life balance\na job where the overall environment in Denmark is family-friendly, safe and relaxed – contributing to Denmark consistently being voted amongst the happiest nations in the world.\nJob description\nThe place of work is Ny Munkegade 120, 8000 Aarhus C and the area of employment is Aarhus University with related departments.\nYour tasks include:\nEstablishing and running a novel linear rf ion trap setup for teaching purposes\nHandling existing CW laser systems including commercial external cavity diode laser systems, TiSa-lasers, fiber-lasers for trapped ion experiments.\nHandling (electro-)optical setups for controlling the frequency and shaping the power level of CW laser\nHelp developing experimental control systems based on the platform ARTIQ (\nARTIQ\n)\nApplication deadline\nThe application deadline is the 1st of May 2026\nContact information\nFurther information can be obtained from Michael Drewsen (\n[email protected]\n)\nFormalities and salary range\nSalary and terms as agreed between the Danish Ministry of Taxation and the Confederation of Professional Unions.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-04T00:00:00+01:00",
+      "applicationDeadline": "2026-05-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=7649458b-5fd7-47a7-b01e-f16f06bb1ded&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-04T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5200,
+      "departmentNameDa": "Fysik og Astronomi, Inst. f.",
+      "departmentNameEn": "Physics and Astronomy, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

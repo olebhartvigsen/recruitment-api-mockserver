@@ -9,32 +9,43 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Antropologiens faghistorie og grundbegreber, 1. sem., BA: 3 undervisningstimer om ugen i 12 uger, forberedelse 54 timer, arbejdstimer i alt 90. Dertil kommer 14 arbejdstimer til retning af opgaver. Ansættelsesperiode 1. september – 31. december 2026.",
-        "hrText": "Ansøgeren skal redegøre for motivation, relevante pædagogiske forudsætninger samt dokumentere gode faglige kvalifikationer. Det er en forudsætning for ansættelse at man er aktiv studerende. Ansøgning skal vedlægges kopi af eksamensbevis.",
-        "auText": "Faculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik med omkring 700 forskere, 200 ph.d.-studerende og 9.000 bachelor- og kandidatstuderende."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-10T08:00:00+01:00",
       "applicationDeadline": "2026-04-20T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0004-4004-8004-400000000004",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-10T08:00:00+01:00"
     },
     "employment": {
-      "period": { "startDate": "2026-09-01", "endDate": "2026-12-31" },
+      "period": {
+        "startDate": "2026-09-01",
+        "endDate": "2026-12-31"
+      },
       "hoursPerWeek": null,
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 8002,
-      "departmentNameDa": "Institut for Kultur og Samfund - Afdeling for Antropologi",
-      "departmentNameEn": "Department of Culture and Society - Anthropology"
+      "departmentCode": 1816,
+      "departmentNameDa": "Inst. f. Kultur og Samfund",
+      "departmentNameEn": "School of Culture and Society"
     },
     "position": {
-      "positionTypeCode": "560",
-      "positionTypeDa": "Studenterunderviser",
-      "positionTypeEn": "Student Instructor"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
-    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
-    "address": { "postalCode": "8000", "city": "Aarhus C" }
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
   }
 }

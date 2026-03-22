@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37304,
+    "jobPosting": {
+      "jobPostingId": "6a193e9f-f406-5f5c-94ae-e85d3617bb31",
+      "titleDa": "Studentermedhjælper til Akvatisk biologi",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Biologi - Akvatisk biologi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Er du på udkig efter et alsidigt og udviklende studiejob, hvor du vil komme til at yde støtte til afdelingens forskere og teknisk personale? Så er dette måske noget for dig.\nOm stillingen\nAkvatisk biologi søger en dygtig og engageret studentermedhjælper med start den 15. maj 2026 med varighed indtil endt studie. Du vil indgå i afdelingens daglige drift i samarbejde med afdelingens laboranter og andet teknisk personale.\nDine opgaver vil bl.a. omfatte:\nOpvask af laboratorieudstyr\nOprydning og renholdelse af laboratorie og lignende faciliteter\nIndtastning af data\nUnderstøtte den daglige laboratoriedrift\nAssistere afdelingens tekniske personale med ad hocopgaver\nVi forventer at du\nTaler og skriver både dansk og engelsk\nBehersker Office pakken (Excel)\nArbejder systematisk, struktureret, selvstændigt og er fleksibel i forhold til arbejdstid\nHar kørekort til bil\nVi tilbyder\nMulighed for kompetenceudvikling\nFleksible arbejdstider i forhold til dit studie\nStillingen er på 6 timer om ugen i gennemsnit, men vil kunne variere ugentligt efter behov. Arbejdsstedet er Ole Worms Allé 1, 8000 Aarhus C.\nKontaktinformation\nFor yderligere information om stillingen, kan du kontakte Emil Jespersen, tlf. 22888092,\ne-mail\n[email protected]\n.\nAnsøgningsfrist\nAlle ansøgninger skal være modtaget senest den 1. april 2026.\nFormalia\nLøn- og ansættelsesvilkår sker i henhold til organisationsaftalens § 35 indgået mellem Skatteministeriet og HK/Stat for kontorfunktionærer, laboranter og it-medarbejdere og fællesoverenskomsten mellem Skatteministeriet og Offentligt Ansattes Organisationer – Det Statslige Område (OAO-S-fællesoverenskomsten).\nDu skal være aktiv studerende og dokumentere at være indskrevet ved en højere læreanstalt.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-06T00:00:00+01:00",
+      "applicationDeadline": "2026-04-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=c4aada3e-14f1-4268-be0f-4de05edf59c6&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-06T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 6,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2847,
+      "departmentNameDa": "Biologi, Institut for",
+      "departmentNameEn": "Biology, Department of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

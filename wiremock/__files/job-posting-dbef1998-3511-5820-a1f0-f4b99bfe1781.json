@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37384,
+    "jobPosting": {
+      "jobPostingId": "dbef1998-3511-5820-a1f0-f4b99bfe1781",
+      "titleDa": "Studentermedhjælper til AU Housing på Internationalt Center",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved AU Uddannelse - AU Summer University og Bolig, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vi søger en studentermedhjælper, som vil hjælpe os med at klargøre boliger til vores internationale studerende.\nOpgaverne består af at syne og klargøre boliger, reparere ting, der er gået i stykker, besvare mails og meget andet. Du skal kunne hænge en lampe op, fixe et rullegardin, der er gået i stykker, flytte en seng og samle en IKEA reol. Herudover skal du hente nøgler hos varmemestre rundt omkring i Aarhus og hjælpe de studerende med diverse praktiske problemer, som opstår i løbet af semestret.\nDu skal kunne arbejde en dag om ugen i dagtimerne eller alternativt to halve dage. Du vil kunne passe timerne ind i forhold til dit studie. I juni, juli, august, december og januar skal du kunne arbejde 2-3 dage om ugen (med mulighed for at tilpasse din arbejdstid til dine eksamener). Ferier kan selvfølgelig afholdes efter aftale. Arbejdstiden er ca. 8 timer/ugen i løbet af semestrene og op til 20-25 timer/ugen i de travle perioder.\nDu vil komme til at arbejde i et team med andre studentermedhjælpere, og Internationalt Center er en hyggelig og ind i mellem travl arbejdsplads, hvor du kommer i kontakt med en masse internationale studerende.\nKrav\nKørekort til alm. bil (du kommer til at køre i en mindre varevogn)\nDu er aktiv studerende og indskrevet ved en videregående uddannelsesinstitution\nDu skal trives med at have mange forskellige opgaver, kunne tage selvstændige beslutninger og selv kunne tilrettelægge din tid\nDu skal være praktisk anlagt, kunne samle IKEA møbler og lave småreparationer\nDu kan tale og skrive dansk og engelsk\nDu er en erfaren bruger af Outlook\nDu har minimum to år tilbage af din uddannelse\nVi tilbyder\nEn fleksibel stilling, hvor du både kan arbejde selvstændigt og som en del af et team\nEn meget afvekslende arbejdsdag, hvor to dage aldrig er ens\nGrundig oplæring, hvor du arbejder tæt sammen med en erfaren studentermedhjælper\nMulighed for at få styrket dine interkulturelle kompetencer og kommunikative evner\nAnsættelsessamtaler vil blive afholdt i uge 16.\nStillingen aflønnes som studentermedhjælper i henhold til overenskomst mellem Finansministeriet og HK/STAT.\nNærmere oplysning om arbejdsopgaver og forhold i øvrigt kan fås ved henvendelse til\n[email protected]\n.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-10T00:00:00+01:00",
+      "applicationDeadline": "2026-04-08T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=82050fc5-fc6d-4116-b62a-e4066127ed83&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-10T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 8,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 6200,
+      "departmentNameDa": "AU Uddannelse",
+      "departmentNameEn": "AU Student Adm. and Services"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

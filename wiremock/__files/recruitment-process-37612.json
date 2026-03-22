@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37612,
+    "jobPosting": {
+      "jobPostingId": "c94193d9-8275-55fd-8fd8-4f6a42194cde",
+      "titleDa": "Administrativ medarbejder til Erasmus-stipendieadministration",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved AU Uddannelse - Mobilitet og Uddannelsessamarbejde, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Har du interesse for administrative opgaver med høj kompleksitet, flair for tal og IT samt stærke kommunikative evner på både dansk og engelsk? Så er det måske dig, vi søger som ny kollega til International Uddannelse på Aarhus Universitet.\nOm stillingen\nStillingen er placeret i Afsnit for Mobilitet og Uddannelsessamarbejde, som består af 10 medarbejdere og en afsnitsleder. Afsnittet hører til under International Uddannelse, der i alt har 31 medarbejdere.\nDu bliver en del af et team med to medarbejdere, der sammen varetager administrationen af det europæiske udvekslingsprogram, Erasmus+, herunder tildeling af stipendier til AU-studerende på studie- eller praktikophold i udlandet.\nDine opgaver vil bl.a. være:\nBeregning og tildeling af Erasmus-stipendier til AU-studerende\nUdbetaling af stipendier og kontrol af dokumentation\nAnsøgning om og afrapportering af bevillinger\nOpsætning af ansøgningsformularer, automatiseringer og databehandling\nAfholdelse af informationsmøder og webinarer for studerende\nInformation om Erasmus-programmet på relevante platforme\nVejledning af studerende\nErasmus+ er omfattet af et detaljeret regelsæt, hvor stipendierne varierer afhængigt af fx destination, rejsemåde og særlige behov. Du skal kunne overskue en stor bevilling på ca. 3 mio. euro årligt, omsætte Erasmus-reglerne til praksis og formidle dem klart til studerende.\nVi anvender både EU’s Beneficiary Module og AU’s eget system, MoveON\n,\ntil den daglige administration. Der er brug for en kollega, som både trives med rutineopgaver og kan håndtere mere teknisk systemarbejde, fx opsætning af ansøgningsformularer og automatiseringer samt overførsel af data mellem de forskellige systemer.\nVi søger en kollega, der\nhar en relevant uddannelse.\narbejder struktureret, er detaljeorienteret og selvstændig.\ntrives med tal og IT-systemer.\nkommunikerer professionelt og let forståeligt på dansk og engelsk.\ner imødekommende og sætter pris på kontakten med studerende.\nhar mod på at holde oplæg og webinarer, primært på engelsk.\nLøn og ansættelsesvilkår\nAnsættelse sker efter overenskomst mellem Finansministeriet og relevant faglig organisation afhængig af din uddannelsesmæssige baggrund.\nHvis du har spørgsmål til stillingen, er du velkommen til at kontakte afsnitsleder Mette Brandenborg på mail:\n[email protected]\n.\nSamtaler forventes afholdt i uge 17 eller 18.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-20T00:00:00+01:00",
+      "applicationDeadline": "2026-04-12T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=9a28d6cb-d71e-48e0-9717-ad0030b6ef48&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-20T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 6200,
+      "departmentNameDa": "AU Uddannelse",
+      "departmentNameEn": "AU Student Adm. and Services"
+    },
+    "position": {
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

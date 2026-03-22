@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37104,
+    "jobPosting": {
+      "jobPostingId": "da791299-af08-51ed-b9a9-c02835f91364",
+      "titleDa": "Postdoc Position:  Efficient foundation model inference across the computing continuum",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Elektro- og Computerteknologi - Communication, Control and Automation, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "We are seeking highly motivated and talented applicants for a 1-year postdoctoral position (with the possibility of 1-2 year extension) in the area of efficient foundation model inference.\nJoin us at the Department of Electrical and Computer Engineering, Aarhus University, where we are advancing communication-efficient and distributed foundation model inference across the computing continuum — from Cloud to Edge.  Our research aims to enable scalable, low-latency, and resource-aware deployment of large foundation models.\nExpected start date and duration of employment\nThis is a full-time, fixed-term position for one year, starting on September 1, 2026, or as soon as possible thereafter.\nThe initial appointment will run until August 31, 2027, or for 12 months from the actual start date. An extension of 1–2 additional years may be offered, subject to satisfactory performance.\nJob description\nThe successful candidate will contribute to cutting-edge research on topics including:\nToken compression and adaptive token pruning;\nDistributed and collaborative inference strategies;\nMixture-of-Experts (MoE) architectures for scalable inference;\nResource-aware and latency-constrained inference optimization;\nEdge intelligence and on-device foundation model deployment.\nYou will work in a dynamic and collaborative research environment, with opportunities to publish in top-tier venues and collaborate with leading academic and industry partners within the Horizion Europe Project.\nYour profile\nWe are looking for a highly motivated and talented candidate with a background in deep learning. The required qualifications include:\nPh.D. in Computer Science, Computer Engineering, Electrical Engineering or a related field;\nStrong background in Deep Learning (e.g., Transformers, foundation models);\nStrong programming skills in Python and experience with deep learning frameworks (e.g., PyTorch);\nExperience with distributed systems and edge AI;\nStrong publication record in reputable conferences or journals relative to career stage;\nExcellent written and spoken English communication skills.\nThe following qualifications will be considered as an advantage:\nExperience in working with stream data;\nExperience in working with Goal-oriented Communications;\nExperience with collaborative, cross-cultural research environments.\nWho we are\nYou will be based at the Department of Electrical and Computer Engineering (ECE) at Aarhus University, a dynamic and growing department committed to excellence in research, education, and innovation. Our research spans Internet of things, machine learning, signal processing, to digital twins, all with a strong emphasis on high impact research and societal relevance.\nThis position will be supervised by Professor Qi Zhang, whose research focuses on Edge Intelligence, Goal-oriented Semantic Communications, Internet of Things and Analytics on compressed data.\nWhat we offer\nWe offer a vibrant and inclusive research environment with a clear commitment to real-world impact. Denmark is consistently ranked among the best countries in the world for work-life balance and quality of life. Family-friendly policies include generous parental leave, subsidised childcare, and access to excellent public healthcare and education. As a postdoc at Aarhus University, you will benefit from a supportive and flexible workplace culture that values diversity and offers excellent conditions for researchers and their families.\nSpecifically, we offer:\nAccess to state-of-the-art facilities and computing infrastructure;\nStrong support for research career development, including mentoring and international networking opportunities;\nA commitment to diversity, equity, and inclusion in all aspects of our work;\nA workplace characterised by professionalism, equality and a healthy work-life balance.\nPlace of work and area of employment\nThe place of work is Helsingforsgade 10, 8200 Aarhus N, and the area of employment is Aarhus University with related departments.\nContact information\nFor further information, please contact: Professor Qi Zhang, +4541893253,\n[email protected]\n.\nDeadline\nApplications must be submitted by April 30th, 2026.\nApplication procedure\nShortlisting is used. This means that after the deadline for applications – and with the assistance from the assessment committee chairman, and the appointment committee if necessary, – the head of department selects the candidates to be evaluated. All applicants will be notified whether or not their applications have been sent to an expert assessment committee for evaluation. The selected applicants will be informed about the composition of the committee, and each applicant is given the opportunity to comment on the part of the assessment that concerns him/her self. Once the recruitment process is completed a final letter of rejection is sent to the deselected applicants.\nLetter of reference\nIf you want a referee to upload a letter of reference on your behalf, please state the referee’s contact information when you submit your application. We strongly recommend that you make an agreement with the person in question before you enter the referee’s contact information, and that you ensure that the referee has enough time to write the letter of reference before the application deadline.\nUnfortunately, it is not possible to ensure that letters of reference received after the application deadline will be taken into consideration.\nIf you wish to add a referee\nafter\nyou have submitted your application, you must send this person’s details (name, job title, place of work, and email address) as well as the name of the position you have applied for to:\n[email protected]\nFormalities and salary range\nTechnical Sciences refers to the\nMinisterial Order on the Appointment of Academic Staff at Danish Universities under the Danish Ministry of Science, Technology and Innovation\n.\nThe application must be in English and include a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities, teaching portfolio and verified information on previous teaching experience (if any). Guidelines for applicants can be found\nhere.\nAppointment shall be in accordance with the collective labour agreement between the Danish Ministry of Taxation and the Danish Confederation of Professional Associations. Further information on qualification requirements and job content may be found in the\nMemorandum on Job Structure for Academic Staff at Danish Universities\n.\nSalary depends on seniority as agreed between the Danish Ministry of Taxation and the Confederation of Professional Associations.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nResearch activities will be evaluated in relation to actual research time. Thus, we encourage applicants to specify periods of leave without research activities, in order to be able to subtract these periods from the span of the scientific career during the evaluation of scientific productivity.\nAarhus University offers a broad variety of services for international researchers and accompanying families, including relocation service and career counselling to expat partners. Read more\nhere\n. Please find more information about entering and working in Denmark\nhere\n.\nAarhus University also offers a Junior Researcher Development Programme targeted at career development for postdocs at AU. You can read more about it\nhere\n.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-02-25T00:00:00+01:00",
+      "applicationDeadline": "2026-04-30T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=5625ba6c-a132-4daa-9802-bdceef374d88&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-02-25T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2133,
+      "departmentNameDa": "Elektronik og computerteknologi",
+      "departmentNameEn": "Electrical and Computer"
+    },
+    "position": {
+      "positionTypeCode": "137",
+      "positionTypeDa": "Post doc.",
+      "positionTypeEn": "Postdoc"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8200,
+      "city": "Aarhus N"
+    }
+  }
+}

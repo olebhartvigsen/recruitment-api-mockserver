@@ -10,13 +10,15 @@
       "descriptionDa": null,
       "descriptionEn": {
         "technicalText": "Postdoc positions are available in areas including Beyond Unitary Representations of Locally Compact Groups and Triangulated Categories and Representation Theory. The list may be updated with new areas up until the application deadline. As a successful candidate you are expected to shine in individual and collaborative research, either assist groups of bachelor's students in doing homework or co-teach advanced courses relevant for your research area.",
-        "hrText": "The application must be in English and include a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities, teaching portfolio and verified information on previous teaching experience. Applicants may upload up to ten key publications with the application.",
-        "auText": "The Department of Mathematics at Aarhus University offers a positive and international work environment with a flat hierarchy, a competitive salary starting at DKK 37,000–41,300 per month plus pension, and universal health insurance as a resident of Denmark."
+        "hrText": null,
+        "auText": null
       },
       "publicationDate": "2026-03-01T08:00:00+01:00",
       "applicationDeadline": "2026-05-01T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0001-4001-8001-100000000001",
-      "languages": ["en"],
+      "languages": [
+        "en"
+      ],
       "lastUpdated": "2026-03-01T08:00:00+01:00"
     },
     "employment": {
@@ -28,16 +30,22 @@
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 7001,
-      "departmentNameDa": "Institut for Matematik",
-      "departmentNameEn": "Department of Mathematics"
+      "departmentCode": 5101,
+      "departmentNameDa": "Matematik",
+      "departmentNameEn": "Mathematics"
     },
     "position": {
-      "positionTypeCode": "220",
-      "positionTypeDa": "Postdoc",
-      "positionTypeEn": "Postdoc"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
-    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
-    "address": { "postalCode": "8000", "city": "Aarhus C" }
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
   }
 }

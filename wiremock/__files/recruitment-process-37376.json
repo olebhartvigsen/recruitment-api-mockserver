@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37376,
+    "jobPosting": {
+      "jobPostingId": "92836dd0-18d8-5c0a-a4ac-6ec524145ed0",
+      "titleDa": "GENOPSLAG: Russekretærer til rusmodtagelsen 2026",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Juridisk Institut, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Juridisk Institut søger to jurastuderende til at stå for den praktiske tilrettelæggelse og afvikling af rusintroduktionen 2026.\nRussekretærernes arbejdsopgaver er, i samarbejde med sekretariatet og studielederen, følgende:\nAnsvar for redigering og opdatering af Ruspjecen\nAnsvar for tilrettelæggelse og afvikling af rusintroduktionen\nAnsvar for aftaler med eventuelle gæsteforelæsere til rusintroduktionen\nAnsvar for evaluering og afrapportering af forløbet\nAnsvar for genbestilling af hytter til næste rusintroduktion\nKontaktled mellem tutorer og instituttet.\nBemærk at russekretærerne ikke ansætter tutorerne.\nDer vil blive afholdt møder med sekretariatet med henblik på koordinering af den forestående rusintroduktion. Russekretærerne må påregne også at skulle arbejde i juni måned med forberedelserne.\nOpgaven afregnes med 300 timer i alt (150 timer pr. person) i perioden marts til oktober/november 2026. Russekretærerne vil blive aflønnet med en timeløn, som aktuelt er 155,80 kr. pr. time inkl. feriepenge.\nAnsøgningen skal indeholde en oversigt over studiemæssig anciennitet og andre relevante oplysninger, der kan have interesse ved udvælgelsen. Parvise ansøgninger vil blive foretrukket. Indsend blot én fælles ansøgning pr. par, og lad studienumre og kontaktoplysninger for begge ansøgere fremgå af denne.\nKontakt\nNærmere oplysninger kan fås ved henvendelse til institutsekretær Line Bang Petersen\n[email protected]\n.\nHvis du har behov for hjælp til at uploade din ansøgning eller har spørgsmål vedr. rekrutteringsprocessen, bedes du kontakte HR-supporter Sara Hansson, e-mail:\n[email protected]\nKrav og vilkår\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Finansministeriet og HK\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge\n.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-10T00:00:00+01:00",
+      "applicationDeadline": "2026-03-25T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=f9912261-c76c-49c8-ac7c-5fc1c747fe93&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-10T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": null,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 3200,
+      "departmentNameDa": "Juridisk Institut",
+      "departmentNameEn": "Law, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

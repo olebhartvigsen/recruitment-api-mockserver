@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37508,
+    "jobPosting": {
+      "jobPostingId": "4c9c0e2e-fe95-5384-a82a-be1f45e2254c",
+      "titleDa": "Studentermedhjælper til platformsteamet Mit Studie",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved AU Uddannelse - Studiesystemforvaltningen, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vi søger pr. 1. maj 2026 eller snarest derefter en studentermedhjælper til vores platformsteam for Mitstudie.au.dk.\nDu vil blive ansat i afdelingen Studiesystemer, som er placeret i AU Uddannelse på Aarhus Universitet. Studiesystemer forvalter en række studierelaterede IT-systemer, herunder udvikling, drift og support af systemerne.\nVi søger en selvkørende og initiativrig studentermedhjælper, der kan tage ansvar, skabe struktur og bidrage til at udvikle og vedligeholde vores indhold og supportmateriale. Stillingen passer godt til dig, der interesserer dig for web, CMS, digitale platforme og systematisk indholdsarbejde.\nPlatformsteamet består af en Product Manager, to udviklere og to UX’ere. Du vil arbejde tæt sammen med teamet og få indblik i arbejdet med udvikling, drift og videreudvikling af en central digital platform for universitetets studerende.\nOpgaver\nDine opgaver vil bestå af en blanding af web-, indholds- og analyseopgaver. Opgaverne kan bl.a. være:\nAnalyse og kortlægning af indhold på\nstuderende.au.dk\nfor at identificere områder, hvor eksisterende indhold og processer kan skabe udfordringer i forbindelse med overgangen til det nye studieadministrative system.\nOpbygning, opdatering og vedligeholdelse af Sharepoint-site og tilhørende indhold.\nUdtræk og analyse af data fra Siteimprove.\nÅrshjulsopgaver i forbindelse med platformen, fx systemdataklassifikation og beredskabsplan.\nUdvikling og opdatering af brugervejledninger og supporthåndbog\nHåndtering af supportsager selvstændigt eller i samarbejde med kolleger.\nAd hoc opgaver\nDu vil få mulighed for både at arbejde selvstændigt og i tæt samarbejde med teamets udviklere, UX’ere og product manager.\nKvalifikationer\nVi forventer, at du:\narbejder selvstændigt, struktureret og proaktivt\ntager ansvar og udviser fleksibilitet\nhar gode samarbejdsevner\ner serviceminded og udadvendt\ner god til at kommunikere – både skriftligt og mundtligt\ner initiativrig og løsningsorientere og tør tage ejerskab for opgaver.\nFølgende kvalifikationer vil være en fordel, men ikke et krav:\nkendskab til CMS, gerne Typo3, webindholds- og skrivearbejde\nkendskab til studieadministrative arbejdsprocesser og systemer\nerfaring med at strukturere information og arbejdsgange\nkendskab til Sharepoint eller lignende indholdsplatforme\nVi tilbyder\nmulighed for at få praktisk erfaring med studieadministrative IT-systemer, support, kommunikation, web m.m.\nindsigt i arbejdet med udvikling og drift at en digital platform.\net job i et velfungerende team præget af en uformel omgangstone og et højt tempo\nArbejdstiden vil i gennemsnit være otte timer om ugen fordelt på flere dage efter nærmere aftale og af hensyn til undervisningsskema. Arbejdstiden vil ligge på hverdage i tidsrummet kl. 9.00 – 15.00.\nLøn og ansættelsesvilkår er i henhold til overenskomst mellem Finansministeriet og HK/STAT.\nNærmere oplysninger om stillingen kan fås ved at kontakte Louise Langhoff Sørensen på 93508914 eller ved at skrive til\n[email protected]\n.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-16T00:00:00+01:00",
+      "applicationDeadline": "2026-04-06T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=b54bd506-df86-4778-bafc-df77f99038fb&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-16T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 8,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 6200,
+      "departmentNameDa": "AU Uddannelse",
+      "departmentNameEn": "AU Student Adm. and Services"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

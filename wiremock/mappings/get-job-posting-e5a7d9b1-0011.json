@@ -7,10 +7,7 @@
   "response": {
     "status": 200,
     "headers": {
-      "Content-Type": "application/json",
-      "Access-Control-Allow-Origin": "*",
-      "Access-Control-Allow-Methods": "GET, OPTIONS",
-      "Access-Control-Allow-Headers": "Authorization, Content-Type"
+      "Content-Type": "application/json"
     },
     "bodyFileName": "job-posting-e5a7d9b1-0011-4011-8011-111100000011.json"
   }

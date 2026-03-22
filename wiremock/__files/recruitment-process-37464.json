@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37464,
+    "jobPosting": {
+      "jobPostingId": "d9811207-43c1-5870-8c81-f27183520b5c",
+      "titleDa": "Studentermedhjælper til færdighedslaboratoriet på Institut for Odontologi og Oral Sundhed",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Odontologi og Oral Sundhed - Klinikassistentgruppe B, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Institut for Odontologi og Oral Sundhed på Aarhus Universitets sundhedsvidenskabelige fakultet, Health, søger 1 timelønnet studentermedhjælper pr. 1. juni 2026 eller efter aftale. Stillingen er på 3,5 timer pr uge.\nDine arbejdsopgaver\nSom studentermedhjælper ansættes du til at hjælpe med diverse praktiske opgaver på færdighedslaboratoriet. Opgaverne er:\nAt fylde gips op\nLettere vedligehold og rengøring af udstyr på færdighedslaboratoriet\nStå for nulstilling og farvekalibrering af TRIOS scannerne\nDer vil i løbet af året være væsentlige udsving i hvor meget tid, der skal bruges på opgaven, da det afhænger af aktiviteten på færdighedslaboratoriet. Du skal derfor forvente at skulle tilse beholdningen af gips og udstyr flere gange i løbet af en uge.\nDu vil blive grundigt introduceret til arbejdsopgaverne.\nDu referer til de kliniske teamledere.\nDine kompetencer\nDet er en fordel, hvis du er studerende på Institut for Odontologi og Oral Sundhed og dermed har din daglige gang i huset, samt har en forståelse for arbejdet på et dentallaboratorium.\nVi forventer, at du arbejder selvstændigt, er ansvarsbevidst og omhyggelig.\nSom person har du gode samarbejdsevner, er imødekommende og evner at bidrage til et godt arbejdsmiljø.\nInstitut for Odontologi og Oral Sundhed\nDu vil som studentermedhjælper blive ansat på et internationalt anerkendt institut, hvor vi forsker i sundhed og sygdom i tænder, mund og kæber og uddanner studerende til at forebygge og helbrede sygdom og fremme sundhed i befolkningen. Vi har et inspirerende internationalt forskningsmiljø med fokus på orofacial sundhed som en integreret del af almen sundhed. Vi dækker alle uddannelser inden for det orofaciale område fordelt på tre overordnede professioner: tandlæge, tandplejer og klinisk tandtekniker med unik mulighed for at skabe synergi mellem uddannelserne og uddanne det samlede behandlerteam til sundhedsvæsenet. På instituttet er vi cirka 300 medarbejdere og 650 studerende, og vores samarbejde bygger på respekt, tillid, anerkendelse og professionalisme. Du kan læse mere om instituttet\nher\nog om fakultetet\nher\n.\nYderligere information:\nAnsøgningsfrist er mandag d. 06.04.2026.\nAnsættelsessamtaler forventes afholdt i uge 16.\nVil du vide mere om stillingen, er du meget velkommen til at kontakte Line Dam Østergaard / Klinisk teamleder +45 30 18 31 34 eller Andreas Schlott / Klinisk teamleder tlf. +45 20 76 75 31.\nAnsættelsesgrundlag\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Skatteministeriet og den relevante faglige organisation.\nAnsøgning\nDin ansøgning skal indeholde følgende:\nAnsøgning\nCurriculum Vitae\nAngivelse af uddannelse (kopi af relevante eksamensbeviser)\nReferencer/anbefalinger kan uploades særskilt i e-rekrutteringssystemet\nVi henviser til fakultetets\nVejledning for ansøgere\n.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-13T00:00:00+01:00",
+      "applicationDeadline": "2026-04-06T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=69312068-965b-4513-93de-7880123d88ba&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-13T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 3.5,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2800,
+      "departmentNameDa": "Odontologi",
+      "departmentNameEn": "Dentistry"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

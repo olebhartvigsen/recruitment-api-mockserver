@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37476,
+    "jobPosting": {
+      "jobPostingId": "f659b42c-0814-5671-92e5-9a10864b65e6",
+      "titleDa": "Datamanager & HPC-administrator ved Institut for Fysik og Astronomi (3-årig stilling)",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Fysik og Astronomi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Er du motiveret af at styrke rammerne for informationssikkerhed og håndtering af forskningsdata i et komplekst forskningsmiljø? Brænder du for at udvikle solide processer, der gør det lettere for forskere at arbejde sikkert, effektivt og i overensstemmelse med gældende standarder? Og har du erfaring med Linux og HPC-systemadministration?\nPå Fysik og Astronomi (IFA) søger vi en datamanager og HPC-systemadministrator til en 3-årig fuldtidsstilling, der kan være med til at professionalisere og videreudvikle instituttets arbejde med data, sikkerhed og HPC – og som har lyst til at omsætte faglighed til praksis.\nStillingen er central for instituttets arbejde med forskningsdata, informationssikkerhed og compliance, og du vil få en nøglerolle i at understøtte forskere og ledelse i en kompleks og dynamisk forskningsorganisation gennem hele forskningsdataens livscyklus. Stillingen har således fokus på at skabe rammer, der gør struktureret og ansvarlig datahåndtering tilgængelig, meningsfuld og værdiskabende for den enkelte forsker.\nSom datamanager bliver du en central medspiller i et internationalt forskningsmiljø, hvor store datamængder, avancerede eksperimenter og høje krav til datasikkerhed er en naturlig del af hverdagen. Vi leder efter dig, der kombinerer analytisk skarphed med et godt samarbejdsgen – og som finder energi i at hjælpe forskere og studerende med at lykkes gennem stærke data workflows, kvalitetssikring og gennemtænkte processer.\nSom HPC-systemadministrator vil du indgå i et team, der varetager alle opgaver i forbindelse med driften og vedligeholdelsen af organisationens Linux HPC-cluster og den omkringliggende software. Der vil også være mulighed for lokal sparring med den nyetablerede enhed ”AI Lab”, som er beliggende på samme sted.\nHvis du motiveres af at arbejde tæt på forskningsfronten, trives med ansvar og ønsker at sætte et tydeligt aftryk på instituttets datainfrastruktur og praksis, så er det måske dig, vi søger.\nForventet startdato og varighed\nDer er tale om en 3–årig stilling med start den1. juni 2026 eller hurtigst muligt derefter.\nDer er tale om en tidsbegrænset stilling med slutdato den 31.maj 2029.\nArbejdsopgaver\nOpgaverne er meget omskiftelige, og du vil i høj grad være med til at præge dine arbejdsopgaver.\nVi forestiller os dog, at du som datamanager blandt andet vil få ansvar for:\nAt understøtte, at håndtering af forskningsdata lever op til gældende lovgivning og interne retningslinjer for databeskyttelse\nAt rådgive og være faglig sparringspartner for forskere om datahåndtering, herunder data management plans, datalagring, metadata, adgangskontrol og deling af data - i overensstemmelse med god videnskabelig praksis samt krav fra bl.a. Horizon Europe og ERC\nAt understøtte implementeringen af FAIR‑principperne (Findability, Accessibility, Interoperability, and Reuse) i forskningsprojekter og datainfrastruktur\nAt medvirke til udvikling og vedligeholdelse af instituttets interne processer for informationssikkerhed og forskningsdata\nAt fungere som Lokal Informationssikkerhedskoordinator (LISK) for instituttet og være bindeled mellem forskere, administration og AU’s centrale sikkerhedsorganisation. Herunder at deltage i Aarhus Universitets informationssikkerhedsudvalg (FISU) og bidrage til udvikling og implementering af politikker, procedurer og best practices på tværs af universitetet\nBidrage til at vedligeholde den nødvendige infrastruktur for godt datamanagement\nAt koordinere risikovurderinger og dokumentation i samarbejde med relevante interne og eksterne parter.\nSom HPC-systemadministrator tilknyttet Centre for Scientific Computing Aarhus, se\nhttp://www.cscaa.dk\n, vil du deltage i arbejdet med\nDaglig drift af et eller flere heterogene Linux-clustre, f.eks. håndtering af hardware, vedligeholdelse af systemprogrammel, netværksadministration, storagemanagement, sikkerhed, mm.\nVedligeholdelse af et omfattende bruger-software repositorium\nDokumentation af HPC-systemet\nBrugeradministration og -support\nDesign, indkøb og implementering af nyt udstyr.\nKvalifikationer\nVi søger en kandidat, der:\nHar en relevant akademisk uddannelse, fx inden for naturvidenskab, informationsvidenskab, datavidenskab eller lignende\nHar dokumenteret erfaring med databeskyttelse og informationssikkerhed i en forskningskontekst, herunder datamanagementplans\nHar erfaring med forskningsdatahåndtering, herunder FAIR‑principperne\nHar erfaring med Linux systemadministration og netværksadministration\nHar kendskab til og erfaring med flere af disse programmerings- og scriptsprog:  C, C++, Fortran, Python, Perl, Lua, bash\nKan arbejde selvstændigt, struktureret og proaktivt i en organisation med mange interessenter\nIndgående forståelse for forskningspraksis og forskningskultur i universitetssektoren\nHar en proaktiv og initiativrig tilgang til identificering af behov samt argumentation for hensigtsmæssige og bæredygtige løsninger\nHar gode kommunikationsevner og kan formidle komplekse problemstillinger til både forskere og administrative medarbejdere\nTrives i et miljø præget af høj faglighed, samarbejde og udvikling.\nOm Institut for Fysik og Astronomi\nIFA er et dejligt sted med nogle fantastisk dygtige medarbejdere i alle funktioner, lige fra lektorer og professorer til sekretærer, finmekanikere og laboranter.\nVi hjælper hinanden som et hold med det fælles primære mål at være en forsknings- og uddannelsesinstitution i topklasse på såvel nationalt som internationalt plan.\nVed instituttet er der omkring 100 videnskabelige medarbejdere, heraf 32 lektorer og professorer samt ca. 30 postdocs, ca. 40 tekniske og administrative medarbejdere, omkring 60 ph.d.-studerende og ca. 140 kandidat- og 260 bachelorstuderende. Du kan læse mere om instituttet på www.phys.au.dk.\nVi tilbyder\nEn spændende og meningsfuld stilling i et internationalt forskningsmiljø\nMulighed for at blive en del af et dynamisk og fagligt stærkt datafællesskab på instituttet, hvor kolleger blandt andet arbejder med understøttelse og udvikling af AI-løsninger i regi af fakultetets ”AI LAB”, samt med high‑performance computing under Centre for Scientific Computing Aarhus (CSCAA)\nTæt samarbejde med forskere, teknisk personale og administrative enheder på tværs af AU\nMulighed for faglig udvikling inden for forskningsdata, informationssikkerhed, compliance og HPC\nEn arbejdsplads med fleksibilitet, gode kolleger og fokus på trivsel\nArbejdssted\nArbejdsstedet er Ny Munkegade 120, 8000 Aarhus C, og ansættelsesområdet er Aarhus Universitet med tilhørende institutioner.\nKontakt information\nYderligere oplysninger kan fås ved henvendelse til: Lars Bojer Madsen, +45 2338 2392, email\n[email protected]\nDeadline\nAlle ansøgninger skal være modtaget senest den 5. april 2026.\n1. samtale bliver afholdt d. 14. april, og en eventuel 2. samtale afholdes d. 21.  april.\nFormalia\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Skatteministeriet og akademikere i staten eller anden relevant overenskomst.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-13T00:00:00+01:00",
+      "applicationDeadline": "2026-04-05T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=25f7cc20-6b32-44d8-9050-5027aade10a2&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-13T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5200,
+      "departmentNameDa": "Fysik og Astronomi, Inst. f.",
+      "departmentNameEn": "Physics and Astronomy, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "421",
+      "positionTypeDa": "Chef-/specialkonsulent",
+      "positionTypeEn": "Chief/Special Consultant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

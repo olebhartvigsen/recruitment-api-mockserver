@@ -9,14 +9,16 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Arbejdet vil bestå i at varetage holdundervisningen på et hold på bacheloruddannelsen, herunder rettelse af opgaver. Undervisningens tidsmæssige placering fastlægges endeligt af Studienævnet.",
-        "hrText": "Ansættelse som studenterunderviser forudsætter, at man har gennemført faget strafferet og straffeproces på bacheloruddannelsen. Ansøgere, der har gennemført den juridiske bacheloruddannelse vil blive foretrukket. Ansøgningen skal vedlægges studieindskrivningsbekræftelse samt karakterudskrift.",
-        "auText": "Juridisk Institut er en del af Aarhus BSS, Aarhus Universitet. Vi har et dynamisk, ambitiøst og akademisk mangfoldigt forsknings- og undervisningsmiljø med knap 65 akademiske medarbejdere og ca. 25 ph.d.-studerende."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-08T08:00:00+01:00",
       "applicationDeadline": "2026-04-14T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0007-4007-8007-777777777777",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-08T08:00:00+01:00"
     },
     "employment": {
@@ -28,21 +30,21 @@
       "fixedSalary": null
     },
     "organization": {
-      "departmentCode": 5001,
+      "departmentCode": 3200,
       "departmentNameDa": "Juridisk Institut",
-      "departmentNameEn": "Department of Law"
+      "departmentNameEn": "Law, Dept. of"
     },
     "position": {
-      "positionTypeCode": "560",
-      "positionTypeDa": "Studenterunderviser",
-      "positionTypeEn": "Student Instructor"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
     "contacts": {
-      "technicalContactAuid": null,
-      "hrContactAuid": null
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
     },
     "address": {
-      "postalCode": "8000",
+      "postalCode": 8000,
       "city": "Aarhus C"
     }
   }

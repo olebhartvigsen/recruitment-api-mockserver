@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "url": "/v1/job-postings/54e7203b-58ea-54c1-b7ba-fafebbb1ebc4"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "bodyFileName": "job-posting-54e7203b-58ea-54c1-b7ba-fafebbb1ebc4.json"
+  }
+}

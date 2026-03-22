@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37292,
+    "jobPosting": {
+      "jobPostingId": "5c608d04-9213-59fd-bb4e-7cf8c4d15ff3",
+      "titleDa": "Studentermedhjælper til insektregistreringer – Vil du med ud og møde markens mindste superstjerner?",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Agroøkologi - Agerlandets biodiversitet, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vil du bidrage til forskningen ved Institut for Agroøkologi på Aarhus Universitet?\nEr du interesseret i dyreliv og udeaktiviteter — måske fuglekigger, lystfisker, friluftsentusiast eller bare nysgerrig på insekter? Så er det her studiejob en oplagt mulighed for dig.\nInstitut for Agroøkologi ved Aarhus Universitet søger en studenterhjælper til at understøtte arbejdet i to forskningsprojekter: One Crop Health: Next generation crop protection og AgriVolt. Projekterne undersøger, hvordan landbrugspraksis og teknologiske løsninger kan styrke biodiversitet, jordens sundhed og bæredygtig energiproduktion.\nDu vil få en grundig oplæring i både feltarbejde og håndtering af insektprøver, så du behøver ikke være erfaren entomolog – blot have lyst til at lære og arbejde systematisk med biologiske data.\nDine arbejdsopgaver vil bl.a. omfatte\nIndsamling og monitering af insekter i marken\nHåndtering og registrering af indsamlede insektprøver\nGrovsortering af indsamlede prøver samt sortering på forskellige taksonomiske niveauer\nStillingen er tidsbegrænset til 6 måneder med en gennemsnitlig ugentlig arbejdstid på 10 timer. Der er god fleksibilitet i forbindelse med eksamens- og ferieperioder.\nArbejdsstedet er Aarhus Universitet, Flakkebjerg, Forsøgsvej 1, 4200 Slagelse.\nDu skal være indskrevet på en videregående uddannelse og kunne fremvise dokumentation fra universitet, professionshøjskole eller tilsvarende institution.\nVi forestiller os, at du\nEr systematisk og detaljeorienteret\nHar interesse for bæredygtigt landbrug og klimaforandringer\nMåske tidligere har samlet insektprøver – men det er ikke et krav\nBonuskvalifikation:\nInteresse for agroøkologi, biodiversitet eller bæredygtighed.\n​​​​​​​Kontakt information\nHar du spørgsmål til stillingen, er du velkommen til at kontakte Lektor Claus Rasmussen på\n[email protected]\n.\nAnsøgningsfrist\nAlle ansøgninger skal være modtaget senest den 27. marts 2026, med forventet opstart 1. juni 2026 eller hurtigst muligt derefter.\nLyder dette som en spændende mulighed? Send os din ansøgning (maks. 1 side) samt CV.\nFormalia\nLøn- og ansættelsesvilkår sker i henhold til organisationsaftalens § 35 indgået mellem Skatteministeriet og HK/Stat for kontorfunktionærer, laboranter og it-medarbejdere og fællesoverenskomsten mellem Skatteministeriet og Offentligt Ansattes Organisationer – Det Statslige Område (OAO-S-fællesoverenskomsten).\nDu skal være aktiv studerende og dokumentere at være indskrevet ved en højere læreanstalt.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-06T00:00:00+01:00",
+      "applicationDeadline": "2026-03-27T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=7fe598cd-26eb-4ae8-b4cd-e5d511f2c6ef&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-06T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 10,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1063,
+      "departmentNameDa": "Biodiversitet",
+      "departmentNameEn": "Biodiversity and Conservation"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 4200,
+      "city": "Slagelse"
+    }
+  }
+}

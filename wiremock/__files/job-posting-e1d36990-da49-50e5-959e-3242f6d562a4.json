@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 36964,
+    "jobPosting": {
+      "jobPostingId": "e1d36990-da49-50e5-959e-3242f6d562a4",
+      "titleDa": "Studenterundervisere til Strafferet og straffeproces",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Juridisk Institut, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Ved Juridisk Institut er et antal stillinger som studenterundervisere på bacheloruddannelsen i faget Strafferet og straffeproces ledige til besættelse pr. 1. september 2026.\nFagområde\nStrafferet og straffeproces på bacheloruddannelsen.\nStillingens indhold\nArbejdet vil bestå i at varetage holdundervisningen på et hold på bacheloruddannelsen, herunder rettelse af opgaver.\nUndervisningens tidsmæssige placering fastlægges endeligt af Studienævnet, og det er ikke muligt at tage individuelle hensyn. Det endelige undervisningstidspunkt fremgår af undervisningsplanen.\nNærmere oplysninger kan fås ved henvendelse til Lasse Lund Madsen på\n[email protected]\neller Nicolaj Holst på\n[email protected]\n.\nHvis du har behov for hjælp til at uploade din ansøgning eller har spørgsmål vedr. rekrutteringsprocessen, bedes du kontakte HR-supporter Sara Lyng Hansson på\n[email protected]\nKvalifikationskrav\nAnsættelsen som studenterinstruktor er betinget af, at ansøgeren senest i begyndelsen af ansættelsesperioden gennemfører fakultetets kursus om holdundervisning for instruktorer/studenterundervisere, ved\nCenter for Undervisning og Læring\n.\nAnsættelse som studenterunderviser forudsætter, at man har gennemført faget strafferet og straffeproces på bacheloruddannelsen. Ansøgere, der har gennemført den juridiske bacheloruddannelse vil blive foretrukket.\nHvis man er involveret i andre undervisningsaktiviteter, bedes det oplyst i ansøgningen.\nHvem er vi\nJuridisk Institut er en del af\nAarhus BSS\n, Aarhus Universitet - et top 100 universitet. Aarhus BSS har opnået de prestigefyldte AASCB, AMBA og EQUIS-akkrediteringer.\nVi har et dynamisk, ambitiøst og akademisk mangfoldigt forsknings- og\nundervisningsmiljø med knap 65 akademiske medarbejdere, et kompetent sekretariat med godt 10 teknisk-administrative medarbejdere og ca. 25 ph.d.- studerende.\nPå Juridisk Institut tilbyder vi undervisning og forskning af høj kvalitet inden for dansk,\neuropæisk og international retsvidenskab. Vi vægter den praktiske anvendelighed af vores forskning for det danske retsliv højt. Vi ønsker at udvide og udvikle vores centrale forskningsområder og lægger stor vægt på, at vores forskning tager aktuelle juridiske problemer og udfordringer i samfund og erhvervsliv op til undersøgelse. I vores undervisning ønsker vi at bygge bro mellem teori og praksis, bl.a. ved at trække på eksterne lektorers praktiske erfaring.\nDu kan læse mere om Juridisk Institut på:\nhttp://law.au.dk/\n.\nArbejdssted\nBartholins Allé 16, 8000 Aarhus C.\nFormalia\nAnsættelse sker i henhold til\noverenskomst mellem Finanansministeriet og SUL\n(studenterundervisere).\nAnsøgningen skal vedlægges studieindskrivningsbekræftelse samt karakterudskrift.\nAnsøgning samt bilag sendes online via nedenstående link.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en styrke og opfordrer derfor alle interesserede til at ansøge\n.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-02-19T00:00:00+01:00",
+      "applicationDeadline": "2026-03-25T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=831aee52-0015-4463-8711-f80b0feb7767&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-02-19T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": null,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 3200,
+      "departmentNameDa": "Juridisk Institut",
+      "departmentNameEn": "Law, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "347",
+      "positionTypeDa": "Studenterunderviser",
+      "positionTypeEn": "Student Teacher"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

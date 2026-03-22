@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37320,
+    "jobPosting": {
+      "jobPostingId": "d5710899-babf-5e27-831e-fc35a08a6115",
+      "titleDa": "Instruktorer til videnskabsteori ved Afdeling for Historie",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Kultur og Samfund - Afdeling for Historie og Klassiske Studier, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "På Afdeling for Historie, Institut for Kultur og Samfund søges studerende til instruktorstillinger ledige til besættelse pr. 1. september 2026 i følgende discipliner:\n3 hold i følgende fag:\nEfterår 2026:\nHistoriefagets videnskabsteori BA 3. semester, 2 undervisningstimer om ugen i 11 uger, forberedelse 33 timer. Arbejdstimer i alt 55.\nDer er mulighed for at søge følgende hold:\nEthics, Memory and Cultural History\nKøn i historien\nIndiens historie siden 1700\nDen Franske Revolution\nAngiv i din ansøgning hvilken eller hvilke hold du søger.\nAnsættelsesperiode: Efterårssemester 1. september – 31. december 2026.\nDet forudsættes, at ansøgeren er villig til at deltage i koordinerende møder vedr. undervisningens tilrettelæggelse og planlægning samt eventuel deltagelse i opgaveretning efter den enkelte undervisers skøn.\nAnsøgeren skal redegøre for motivation, relevante pædagogiske forudsætninger samt dokumentere gode faglige kvalifikationer. Som instruktor vil du være tilknyttet forelæsningsrækken i begyndelsen af semestret samt opgaveskrivning sidst på semestret.\nVi gør opmærksom på, at du skal benytte din AU mail i forbindelse med ansøgning.\nVed vurdering af ansøgere lægges der vægt på teoretisk indsigt i fagene, anbefalinger samt eventuel undervisningserfaring.\nBesked om ansættelse / afslag vil blive meddelt indenfor 2 uger efter ansøgningsfristens udløb.\nAnsættelsen er under forudsætning af fornøden bevilling.\nSpørgsmål kan stilles til afdelingskonsulent, Kathrine Juul Svejstrup\n[email protected]\nHvis man ønsker ansættelse til 2 eller flere hold med samme indhold, tildeles der fuld forberedelsestid (dvs. 1,5 timer pr. k-time) til den første undervisningssession (1. hold) og halv forberedelsestid til de efterfølgende hold.\nAnsættelsesgrundlag\nAnsættelse sker i henhold til Finansministeriet og SUL (studenterundervisere).\nAnsøgningen skal vedlægges, kopi af eksamensbevis og eventuel dokumentation for tidligere undervisningsvirksomhed.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nOm Arts\nFaculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik. Inden for denne faglige bredde huser fakultetet omkring 700 forskere, 200 ph.d.-studerende, 9.000 bachelor- og kandidatstuderende og 1.500 efter- og videreuddannelsesstuderende. Vi tror på, at de bedste idéer opstår i mødet mellem forskellige perspektiver – og at forskning, undervisning og innovation udvikles bedst i dialog med samfundet omkring os.\nDu kan finde mere information her\nFaculty of Arts | Aarhus Universitet\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-09T00:00:00+01:00",
+      "applicationDeadline": "2026-03-30T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=8c273417-1dbe-478e-b4ed-fe80dfa076e8&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-09T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 2,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1816,
+      "departmentNameDa": "Inst. f. Kultur og Samfund",
+      "departmentNameEn": "School of Culture and Society"
+    },
+    "position": {
+      "positionTypeCode": "342",
+      "positionTypeDa": "Undervisningsassistent",
+      "positionTypeEn": "Assistant Lecturer"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37228,
+    "jobPosting": {
+      "jobPostingId": "86762b8d-4844-5158-81bd-eaf31cb68512",
+      "titleDa": "Har du lyst til at prøve kræfter med PA-rollen? - Studentermedhjælper på Institut for Biologi",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Biologi, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Vil du hjælpe til i Center for Sustainable Landscapes under Global Change –\nwww.sustainscapes.org\nved Aarhus Universitet?\nSustainScapes er et forskningscenter ledet af professor Signe Normand (Institut for Biologi, Aarhus universitet) og professor. Tommy Dalgaard (Institut for Agroøkologi, Aarhus universitet). Omdrejningspunktet er hvordan danske landskaber kan gentænkes så de bedst muligt understøtter biodiversitet, klima, og landbrugsproduktion.\nVi søger en selvstændig og struktureret studerende, som er interesseret i at være tæt på ledelsen i SustainScapes og har lyst til at hjælpe centerleder Signe Normand med at skabe overblik og flow i en meget travl og omskiftelig hverdag.\nEn central del af stillingen bliver at holde styr på Signes kalender og sikre en struktureret planlægning af hendes aktiviteter. Du vil håndtere og prioritere henvendelser fra eksterne interesser samt koordinere møder på tværs sektionen. Derudover vil du have ansvaret for at sikre en effektiv håndtering af kalenderkonflikter og ombookinger. Du vil blive inddraget i den praktiske forberedelse af møder og seminarer, og du kommer også efter behov til at hjælpe med rejsekoordinering for Signe. Forvent også, at du skal bistå i løsningen af administrative ad hoc-opgaver.\nI det daglige kommer du til at arbejde tæt sammen med centerleder Signe Normand og Centerkoordinater Malene Siri Berg Jacobsen og den øvrige ledelse i centeret.\nVi forventer at du mestrer skriftlig formidling på både dansk og engelsk, og at du er god til at se løsninger, når der er behov for at ændre planer her og nu. Du er god til at sparre med andre, indgå i et team og bidrage til at der træffes holdbare beslutninger. Det er en fordel, hvis du erfaring med at færdes i et forskningsmiljø og har kendskab til både forskningsfaglige og administrative arbejdsgange.\nDen gennemsnitlige ugentlige arbejdstid er ca. 8 timer, med mulighed for at arbejde fleksibelt og selvstændigt, og vi ser gerne, at du kan være til stede 2 gange om ugen. Vi hører gerne fra dig uanset hvor langt du er med studiet, men vi håber at kunne drage nytte af dine kompetencer over flere semestre.\nHvis du synes at det kunne være spændende at være en del af teamet omkring SustainScapes, så modtager vi meget gerne din ansøgning på max 1 side samt medfølgende CV og op til max to anbefalinger.\nAnsøgningsfristen er den 29. marts 2026 med opstart 1. maj 2026.\nArbejdsstedet er Ny Munkegade 116, 8000 Aarhus C.\nKontakt information\nFor yderligere information er du velkommen til at kontakte Malene Siri Berg Jacobsen, centerkoordinator ved SustainScapes:\nMail:\n[email protected]\n, tlf: 20718096.\nFormalia\nLøn- og ansættelsesvilkår sker i henhold til organisationsaftalens § 35 indgået mellem Skatteministeriet og HK/Stat for kontorfunktionærer, laboranter og it-medarbejdere og fællesoverenskomsten mellem Skatteministeriet og Offentligt Ansattes Organisationer – Det Statslige Område (OAO-S-fællesoverenskomsten).\nDu skal være aktiv studerende og dokumentere at være indskrevet ved en højere læreanstalt.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-04T00:00:00+01:00",
+      "applicationDeadline": "2026-03-29T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=cb2f7b57-20d3-4e97-8562-7135cb04a3a8&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-04T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 8,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2847,
+      "departmentNameDa": "Biologi, Institut for",
+      "departmentNameEn": "Biology, Department of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

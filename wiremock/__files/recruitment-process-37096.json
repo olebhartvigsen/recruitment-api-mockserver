@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37096,
+    "jobPosting": {
+      "jobPostingId": "02383d1a-30b0-5acc-ba4f-8e834afb2499",
+      "titleDa": "Kandidat-studiestarts koordinator til Psykologisk Institut (genopslag)",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Psykologisk Institut, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Psykologisk Institut søger koordinator til studiestartsarrangementet for nye kandidatstuderende 2026 med start 15. april 2026.\nArbejdsmængden vil primært ligge i maj og i sidste halvdel af august.\nDer søges koordinator til at varetage introdagen for nye kandidatstuderende.\nArbejdsopgaver vil primært bestå af:\nPlanlægning af studiestartsprogrammet (1 hel eller to halve dages) i semesterets første uge\nKoordinering og afvikling af studiestartsarrangementet\nRekruttering og kontakt til medhjælpere til arrangementet\nKunne du tænke dig at koordinere studiestartsarrangementet for de nye kandidatstuderende, der starter til sommer? Placeringen af dagen besluttes i samarbejde med Psykologisk Institut.\nArbejdsmængden er berammet til maks. 60 timer, og der aflønnes efter gældende overenskomst. Stillingen kan også deles mellem to personer, som så aflønnes med 30 timer pr. person.\nHvis du er interesseret i at varetage denne opgave, skal du skrive en motiveret ansøgning, der også skal indeholde en kort beskrive af dit hidtidige studieforløb, samt andre aktiviteter du ønsker taget i betragtning.\nDer vil blive afholdt ansættelsessamtaler i uge 10\nØnsker du yderligere oplysninger, er du velkommen til at henvende dig til Studieleder Mimi Mehlsen,\n[email protected]\n.\nAnsøgningsfrist: 24. februar 2026\nArbejdssted: Bartholins Alle 11, 8000 Aarhus C\nKrav og vilkår\nLøn- og ansættelsesvilkår i henhold til overenskomst mellem Finansministeriet og HK/stat.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge\n.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-02-25T00:00:00+01:00",
+      "applicationDeadline": "2026-04-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=14e15f33-cf33-4967-bc10-65ac128321b9&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-02-25T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 7,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 3500,
+      "departmentNameDa": "Psykologisk Institut",
+      "departmentNameEn": "Psychology and Behavioural Sciences, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

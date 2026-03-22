@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37256,
+    "jobPosting": {
+      "jobPostingId": "a2e12bad-742f-5eb6-898e-a289eaf4c1b3",
+      "titleDa": "Postdoc positions in Nuclear RNA Biology",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Institut for Molekylærbiologi og Genetik - RNA-biologi og -innovation, Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "We are seeking applicants for postdoc positions in ‘Mammalian Nuclear RNA Production and Turnover Systems’ to join us at the Department of Molecular Biology and Genetics in the research team of Torben Heick Jensen.\nExpected start date and duration of employment\nPositions are available from 1 September 2026 or as soon as possible hereafter. Duration of employment is two years with a possibility of extension.\nJob description\nWe are looking for applicants with interests in the biogenesis and turnover of nuclear RNA and its relationship to gene expression regulation in mammalian cells. Applied methods range from cell biological over biochemical to molecular biology and bioinformatics approaches. Collaborations with structural biologists are possible.\nYour profile\nApplicants should hold a PhD in Molecular Biology, Biochemistry, Cell Biology, Genomics, Bioinformatics or related fields.\nApplicants should be self-driven, motivated and capable of planning and conducting independent research while being willing to collaborate in an international and interdisciplinary team. Good communication skills in written and spoken English language are essential, and applicants should have a strong publication record with clear contributions as first author.\nWho we are\nIn the Jensen team, projects are carried out independently or in interdisciplinary collaboration with leading structural- and/or mass spectrometry-biologists. The team consists of a dynamic mix of experimental and computational biologists aiming to examine the factors and complexes governing the production and turnover of eukaryotic transcriptomes.\nWhat we offer\nThe successful applicant is offered:\nAccess to a well-equipped research infrastructure.\nA research climate inviting lively, open and critical discussion within and across different fields of research.\nA working environment with teamwork, close working relations, network activities among young scientists and social activities.\nA workplace characterized by professionalism, equality and a healthy work-life balance.\nPlace of work and area of employment\nThe place of work is Universitetsbyen 81, 8000 Aarhus C, and the area of employment is Aarhus University with related departments.\nContact information\nFor further information, please contact:\nProfessor Torben Heick Jensen,\n[email protected]\n, phone +45 60202705\nApplication procedure\nShortlisting is used. This means that after the deadline for applications – and with the assistance from the assessment committee chairman, and the appointment committee if necessary, – the head of department selects the candidates to be evaluated. All applicants will be notified whether or not their applications have been sent to an expert assessment committee for evaluation. The selected applicants will be informed about the composition of the committee, and each applicant is given the opportunity to comment on the part of the assessment that concerns him/her self.\nLetter of reference\nIf you want a referee to upload a letter of reference on your behalf, please state the referee’s contact information when you submit your application. We strongly recommend that you make an agreement with the person in question before you enter the referee’s contact information, and that you ensure that the referee has enough time to write the letter of reference before the application deadline. Unfortunately, it is not possible to ensure that letters of reference received after the application deadline will be taken into consideration.\nIf you wish to add a referee\nafter\nyou have submitted your application, you must send this person’s details (name, job title, place of work, and email address) as well as the name of the position you have applied for to:\n[email protected]\nFormalities and salary range\nNatural Sciences refers to the\nMinisterial Order on the Appointment of Academic Staff at Danish Universities under the Danish Ministry of Science, Technology and Innovation\n.\nThe application must be in English and include a curriculum vitae, degree certificate, a complete list of publications, a statement of future research plans and information about research activities, teaching portfolio and verified information on previous teaching experience (if any). Guidelines for applicants can be found\nhere.\nAppointment shall be in accordance with the collective labour agreement between the Danish Ministry of Taxation and the Danish Confederation of Professional Associations. Further information on qualification requirements and job content may be found in the\nMemorandum on Job Structure for Academic Staff at Danish Universities\n.\nSalary depends on seniority as agreed between the Danish Ministry of Taxation and the Confederation of Professional Associations.\nAarhus University’s ambition is to be an attractive and inspiring workplace for all and to foster a culture in which each individual has opportunities to thrive, achieve and develop. We view equality and diversity as assets, and we welcome all applicants.\nResearch activities will be evaluated in relation to actual research time. Thus, we encourage applicants to specify periods of leave without research activities, in order to be able to subtract these periods from the span of the scientific career during the evaluation of scientific productivity.\nAarhus University offers a broad variety of services for international researchers and accompanying families, including relocation service and career counselling to expat partners. Read more\nhere\n. Please find more information about entering and working in Denmark\nhere\n.\nAarhus University also offers a Junior Researcher Development Programme targeted at career development for postdocs at AU. You can read more about it\nhere\n.\nAt the Faculty of Natural Science at Aarhus University, we strive to support our scientific staff in their career development. We focus on competency development and career clarification and want to make your opportunities transparent. On\nour website\n, you can find information on all types of scientific positions, as well as the entry criteria we use when assessing candidates. You can also read more about how we can assist you in your career planning and development.\nThe application must be submitted via Aarhus University’s recruitment system, which can be accessed under the job advertisement on Aarhus University's website.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-05T00:00:00+01:00",
+      "applicationDeadline": "2026-05-01T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=0963dbad-154f-43fe-b2e2-273098143ed4&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-05T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 5400,
+      "departmentNameDa": "Molekylærbiologi og Genetik, Inst.",
+      "departmentNameEn": "Molecular Biology and Genetics, Dept. of"
+    },
+    "position": {
+      "positionTypeCode": "137",
+      "positionTypeDa": "Post doc.",
+      "positionTypeEn": "Postdoc"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

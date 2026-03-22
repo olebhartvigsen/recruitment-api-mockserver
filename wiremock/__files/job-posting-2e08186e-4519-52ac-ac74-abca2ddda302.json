@@ -1,0 +1,51 @@
+{
+  "recruitment": {
+    "recruitmentId": 37444,
+    "jobPosting": {
+      "jobPostingId": "2e08186e-4519-52ac-ac74-abca2ddda302",
+      "titleDa": "1 programmør søges til Kontraktgeneratoren, Nat-Tech Uddannelse",
+      "titleEn": null,
+      "shortTextDa": "Ledig stilling ved Administrationscenter Nat-Tech - Nat-Tech Undervisning og Eksamen-Kontakt (UVAEKA-K), Aarhus Universitet",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Du vil blive ansat i Nat-Tech Uddannelse, under Administrationscenter Nat-Tech på Aarhus Universitet. Her bliver du tilknyttet udvikling, support og drift af IT-systemer i Nat-Tech Uddannelse, fx Kontraktgeneratoren.\nOm projektet\nDu kommer blandt andet til at arbejde med udvikling af Kontraktgeneratoren, der er Nat-Tech fakulteternes digitale kontraktplatform. Systemet understøtter forskellige godkendelsesprocesser på alle uddannelser, og bruges flittigt af både studerende, vejledere, uddannelsesansvarlige og studieadministrationen. Som led i en ambition om optimering af den digitale understøttelse af uddannelserne på Nat-Tech, går projektet ud på at ombygge og opdatere kontraktgeneratorens projektkontraktsystem, og dermed fremtidssikre systemet så det kan understøtte forandringer og nye behov på tværs af systemets brugere og interessenter.\nDu kommer til at arbejde i et team med 2 projektledere og 1 anden programmør.\nDet er en fordel, hvis du har kendskab til begreber indenfor webudvikling og Java, men det er ikke et krav. Det vigtigste er, at du har interesse for at lære nyt.\nOpgaver\nDrift og vedligehold af systemet\nLøsning af supportsager og fejlrettelser\nUdvikling af en ny platform til Kontrakgeneratorens projekt-kontrakt funktioner\nKvalifikationer\nVi forventer at du,\nKan arbejde selvstændigt. Du kan fx uden problemer planlægge arbejdstid, uden faste mødetider.\nDu tager ansvar for dine opgaver.\nDu har gode samarbejdsevner. Du kommer til at arbejde tæt sammen med 1-2 andre programmører på projektet.\nEr systemstærk og nysgerrig på dine opgaver.\nEr løsningsorienteret og følger en opgave til dørs.\nVi tilbyder\nEn stilling med stor fleksibilitet ift. arbejdstid\nMulighed for at få praktisk erfaring med IT-systemer, både ift. udvikling og drift\nStor mulighed for indflydelse på projektets udvikling og design\nIndsigt i at arbejde med digital udvikling i en stor offentlig organisation\nArbejdstiden vil i gennemsnit være 9 timer om ugen fordelt i tidsrummet 8.00-17.00. Du arbejder som udgangspunkt hjemmefra. Du styrer dine timer selv, og forventes at planlægge dem ca. 2-3 uger i forvejen. Vi holder et ugentligt projektmøde af 1 time. Herudover sparrer vi løbende, efter behov.\nVi søger 1 stilling besat med opstart 1. maj 2026 eller hurtigst muligt derefter. Vi forventer at holde samtaler i uge 15.\nArbejdsstedet er Ny Munkegade 120, 8000 Aarhus C.\nKontakt information\nNærmere oplysninger om stillingen kan fås ved at kontakte Andrea Brønniche,\n[email protected]\n/ 93 50 84 95, eller Astrid Marie Hvorslev Nørholt\n[email protected]\n/  41 89 33 48.\nAnsøgningsfrist\nAlle ansøgninger skal være modtaget senest den 5. april 2026.\nFormalia\nLøn- og ansættelsesvilkår sker i henhold til Fællesoverenskomst mellem Skatteministeriet og Lærernes Centralorganisation og CO10 – Centralorganisationen af 2010 (LC/CO10-fællesoverenskomsten) og organisationsaftale for it-medarbejdere (PROSA) i statens tjeneste.\nAarhus Universitet vil være en attraktiv og inspirerende arbejdsplads for alle og ønsker en kultur, hvor hver enkelt kan udfolde og udvikle sig. Vi ser ligestilling og diversitet som en ressource og opfordrer derfor alle interesserede til at ansøge.\nAnsøgning sendes via Aarhus Universitets rekrutteringssystem, som kan tilgås under stillingsopslaget på Aarhus Universitets hjemmeside.",
+        "hrText": null,
+        "auText": null
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-13T00:00:00+01:00",
+      "applicationDeadline": "2026-04-05T23:59:00+01:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=3914d28e-65dc-4299-a533-eaf3a4177847&languageKey=da-DK",
+      "languages": [
+        "da"
+      ],
+      "lastUpdated": "2026-03-13T00:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": null,
+        "endDate": null
+      },
+      "hoursPerWeek": 9,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 1986,
+      "departmentNameDa": "Administrationscenter Arts",
+      "departmentNameEn": "Arts Administrative Centre"
+    },
+    "position": {
+      "positionTypeCode": "512",
+      "positionTypeDa": "Studentermedhjælp, SUL",
+      "positionTypeEn": "Student Assistant"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8000,
+      "city": "Aarhus C"
+    }
+  }
+}

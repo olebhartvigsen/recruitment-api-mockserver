@@ -9,18 +9,23 @@
       "shortTextEn": null,
       "descriptionDa": {
         "technicalText": "Dine primære arbejdsopgaver vil i tæt samarbejde med ledelsen og instituttets forskningsudvalg bl.a. være: identificere fundingmuligheder for potentielle forsknings- og udviklingsprojekter, skabe kontakter mellem undervisere og forskere og potentielle partnere i erhvervsliv, bidrage til udvikling og implementering af instituttets fundingstrategi, samt bidrage til formulering af samfundsrelevant impact i forskningsansøgninger (fx EU og Innovationsfondsansøgninger).",
-        "hrText": "Du har en relevant akademisk uddannelse på minimum kandidatniveau, gerne teknisk/naturvidenskabelig. Det er en fordel at have erfaring fra en lignende stilling med kendskab til det danske og internationale forskningsfinansieringssystem. Du skal kunne skrive, tale og forstå dansk og engelsk. Deadline: 31. marts 2026.",
-        "auText": "Institut for Mekanik og Produktion beskæftiger ca. 130 medarbejdere fordelt på 25 nationaliteter og arbejder med forskning og uddannelse af civilingeniører inden for instituttets faglige områder. Instituttet er organiseret i fire sektioner med fokus på den grønne omstilling, digitalisering og biomekanik."
+        "hrText": null,
+        "auText": null
       },
       "descriptionEn": null,
       "publicationDate": "2026-03-03T08:00:00+01:00",
       "applicationDeadline": "2026-03-31T23:59:00+02:00",
       "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0007-4007-8007-700000000007",
-      "languages": ["da"],
+      "languages": [
+        "da"
+      ],
       "lastUpdated": "2026-03-03T08:00:00+01:00"
     },
     "employment": {
-      "period": { "startDate": "2026-06-01", "endDate": null },
+      "period": {
+        "startDate": "2026-06-01",
+        "endDate": null
+      },
       "hoursPerWeek": 37,
       "fixedSalary": null
     },
@@ -30,11 +35,17 @@
       "departmentNameEn": "Department of Mechanical and Production Engineering"
     },
     "position": {
-      "positionTypeCode": "330",
-      "positionTypeDa": "Specialkonsulent",
-      "positionTypeEn": "Special Consultant"
+      "positionTypeCode": "451",
+      "positionTypeDa": "AC-personale m.fl.",
+      "positionTypeEn": "Administrator/Journalist"
     },
-    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
-    "address": { "postalCode": "8200", "city": "Aarhus N" }
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": 8200,
+      "city": "Aarhus N"
+    }
   }
 }
