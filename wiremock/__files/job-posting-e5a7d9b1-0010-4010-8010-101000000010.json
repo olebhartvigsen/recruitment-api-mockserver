@@ -1,0 +1,40 @@
+{
+  "recruitment": {
+    "recruitmentId": 20254,
+    "jobPosting": {
+      "jobPostingId": "e5a7d9b1-0010-4010-8010-101000000010",
+      "titleDa": null,
+      "titleEn": "Associate Professor of Foreign Language Education (French, German or Spanish)",
+      "shortTextDa": null,
+      "shortTextEn": "The School of Communication and Culture at Aarhus University invites applications for the position of Associate Professor of Foreign-Language Education at the Department of German and Romance Languages. Full-time permanent position beginning 1 October 2026.",
+      "descriptionDa": null,
+      "descriptionEn": {
+        "technicalText": "The successful applicant will strengthen the department's focus on foreign-language teaching and learning at upper-secondary and university levels, with particular attention to language pedagogy, curriculum development and teacher education. Research areas include second-language acquisition and pedagogy, language teacher education, curriculum design and assessment, the role of grammar and intercultural communication, and digital and technological innovation in foreign-language teaching.",
+        "hrText": "Applicants must hold a PhD in a relevant field and demonstrate research and teaching experience commensurate with associate professor level. Native or near-native proficiency in at least one of French, German or Spanish is required. The successful applicant must be able to teach in English and the relevant target language(s).",
+        "auText": "The Department of German and Romance Languages at Aarhus University has a strong international research and teaching profile in the study of language, culture and communication. The School of Communication and Culture is committed to diversity and encourages all qualified applicants to apply."
+      },
+      "publicationDate": "2026-03-05T08:00:00+01:00",
+      "applicationDeadline": "2026-05-15T23:59:00+02:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0010-4010-8010-101000000010",
+      "languages": ["en"],
+      "lastUpdated": "2026-03-05T08:00:00+01:00"
+    },
+    "employment": {
+      "period": { "startDate": "2026-10-01", "endDate": null },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 13001,
+      "departmentNameDa": "Institut for Tysk og Romanske Sprog",
+      "departmentNameEn": "Department of German and Romance Languages"
+    },
+    "position": {
+      "positionTypeCode": "120",
+      "positionTypeDa": "Lektor",
+      "positionTypeEn": "Associate Professor"
+    },
+    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
+    "address": { "postalCode": "8000", "city": "Aarhus C" }
+  }
+}

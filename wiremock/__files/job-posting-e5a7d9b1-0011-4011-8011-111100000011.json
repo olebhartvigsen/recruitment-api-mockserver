@@ -1,0 +1,40 @@
+{
+  "recruitment": {
+    "recruitmentId": 20255,
+    "jobPosting": {
+      "jobPostingId": "e5a7d9b1-0011-4011-8011-111100000011",
+      "titleDa": "Landbrugsteknisk medarbejder til Institut for Bio- og Kemiteknologi på AU Viborg",
+      "titleEn": null,
+      "shortTextDa": "Institut for Bio- og Kemiteknologi søger en landbrugsteknisk medarbejder i en fast fuldtidsstilling til at understøtte forskningsaktiviteter med måling af gasemissioner fra stalde, lagre og udbringning af husdyrgødning på AU Viborg.",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Du vil arbejde med emissionsmålinger og udvikling af miljøteknologier inden for stalde, lagre og udbringning af husdyrgødning. En stor del af arbejdet foregår på AU Viborg og ude hos landmænd, hvor der gennemføres forsøg i pilot- og fuldskala. Du involveres i gennemførelse af forsøg, herunder udvikling af forsøgsopstillinger, opstilling af forsøgsudstyr, indsamling af data og koordinering af forsøgsaktiviteter. I højsæsonen (marts-oktober) kan længere arbejdsdage forventes.",
+        "hrText": "Vi søger en landbrugstekniker, landbrugsuddannet med teknisk indsigt eller lignende med kendskab til husdyrproduktion og/eller markdrift. Teknisk flair for mekanik er en fordel. Kørekort (minimum B, gerne til trailer) er påkrævet. Deadline: 1. april 2026.",
+        "auText": "På Institut for Bio- og Kemiteknologi skaber vi bæredygtige, teknologiske løsninger på erhvervslivets og samfundets største udfordringer. Vi stræber efter at bidrage til en bæredygtig udvikling og til at skabe grønne løsninger inden for klima, miljø, biologiske processer, materialer og medicin."
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-05T08:00:00+01:00",
+      "applicationDeadline": "2026-04-01T23:59:00+02:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0011-4011-8011-111100000011",
+      "languages": ["da"],
+      "lastUpdated": "2026-03-05T08:00:00+01:00"
+    },
+    "employment": {
+      "period": { "startDate": "2026-05-01", "endDate": null },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 14001,
+      "departmentNameDa": "Institut for Bio- og Kemiteknologi",
+      "departmentNameEn": "Department of Biological and Chemical Engineering"
+    },
+    "position": {
+      "positionTypeCode": "610",
+      "positionTypeDa": "Teknisk medarbejder",
+      "positionTypeEn": "Technical Staff"
+    },
+    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
+    "address": { "postalCode": "8830", "city": "Tjele" }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "recruitment": {
+    "recruitmentId": 20251,
+    "jobPosting": {
+      "jobPostingId": "e5a7d9b1-0006-4006-8006-600000000006",
+      "titleDa": null,
+      "titleEn": "Associate Professor in Experimental CERN-Related Physics",
+      "shortTextDa": null,
+      "shortTextEn": "The Department of Physics and Astronomy, Aarhus University, invites applications for a permanent position as Associate Professor in experimental CERN-related physics, open from July 1st 2026.",
+      "descriptionDa": null,
+      "descriptionEn": {
+        "technicalText": "The department seeks to strengthen its existing activities in experimental physics in relation to CERN. The group currently participates in experiments at CERN with focus on anti-hydrogen physics, low-energy nuclear physics and strong-field quantum electrodynamics. The ideal candidate has a strong background in particle and/or nuclear physics, substantial experience with the operation of detectors, and a strong publication record. The successful candidate must demonstrate achieved and ongoing funding at the level of minimum an ERC Starting Grant equivalent.",
+        "hrText": "The successful candidate must hold a PhD in physics or equivalent and document the ability to teach physics at all levels. The candidate must be able to communicate in English. The successful candidate must be able to speak, read and write Danish within 3 years. Application deadline: March 31st, 2026.",
+        "auText": "The Department of Physics and Astronomy at Aarhus University offers talented scientists attractive career perspectives with access to state-of-the-art research infrastructure, support for scientific networks, capability development and a broad variety of services for international researchers and accompanying families."
+      },
+      "publicationDate": "2026-02-20T08:00:00+01:00",
+      "applicationDeadline": "2026-03-31T23:59:00+02:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0006-4006-8006-600000000006",
+      "languages": ["en"],
+      "lastUpdated": "2026-02-20T08:00:00+01:00"
+    },
+    "employment": {
+      "period": { "startDate": "2026-07-01", "endDate": null },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 9001,
+      "departmentNameDa": "Institut for Fysik og Astronomi",
+      "departmentNameEn": "Department of Physics and Astronomy"
+    },
+    "position": {
+      "positionTypeCode": "120",
+      "positionTypeDa": "Lektor",
+      "positionTypeEn": "Associate Professor"
+    },
+    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
+    "address": { "postalCode": "8000", "city": "Aarhus C" }
+  }
+}

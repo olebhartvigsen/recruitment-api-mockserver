@@ -1,0 +1,40 @@
+{
+  "recruitment": {
+    "recruitmentId": 20253,
+    "jobPosting": {
+      "jobPostingId": "e5a7d9b1-0009-4009-8009-900000000009",
+      "titleDa": "LMS Productmanager og pædagogisk konsulent",
+      "titleEn": null,
+      "shortTextDa": "Centre for Educational Development (CED) søger en LMS productmanager og pædagogisk konsulent til at styrke koblingen mellem didaktik og teknologi i AU's Learning Management System Brightspace.",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Stillingen kombinerer to ligeværdige roller: Productmanager for Brightspace (ca. 50%) og pædagogisk konsulent (ca. 50%). Som productmanager har du ansvar for stabil drift, klar udviklingsretning og god brugeroplevelse af Brightspace, herunder at oversætte visioner til product roadmaps, opdatere systemdokumentation, systematisere brugerinddragelse, og sikre god dialog med leverandøren. Som pædagogisk konsulent deltager du i kompetenceudvikling af undervisere inden for pædagogisk brug af Brightspace, GenAI og andre læringsteknologier.",
+        "hrText": "Vi forestiller os at du har en relevant akademisk uddannelse inden for IT-didaktik, UX/UI, systemforvaltning eller informationsvidenskab, erfaring med product management og IT-arkitektur i en kompleks organisation, samt praktisk erfaring med GenAI i undervisnings- og læringssammenhænge.",
+        "auText": "CED er et tværdisciplinært center med kerneopgaver på tværs af hele universitetet. Vi er omkring 60 kolleger, herunder internationale kolleger, organiseret i tre afdelinger fokuseret på digital udvikling, undervisningsudvikling og uddannelsesudvikling."
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-08T08:00:00+01:00",
+      "applicationDeadline": "2026-04-15T23:59:00+02:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0009-4009-8009-900000000009",
+      "languages": ["da"],
+      "lastUpdated": "2026-03-08T08:00:00+01:00"
+    },
+    "employment": {
+      "period": { "startDate": "2026-06-01", "endDate": null },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 12001,
+      "departmentNameDa": "Centre for Educational Development",
+      "departmentNameEn": "Centre for Educational Development"
+    },
+    "position": {
+      "positionTypeCode": "330",
+      "positionTypeDa": "Specialkonsulent",
+      "positionTypeEn": "Special Consultant"
+    },
+    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
+    "address": { "postalCode": "8000", "city": "Aarhus C" }
+  }
+}

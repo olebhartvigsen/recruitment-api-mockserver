@@ -1,0 +1,49 @@
+{
+  "recruitment": {
+    "recruitmentId": 20239,
+    "jobPosting": {
+      "jobPostingId": "c2e4a6b8-0002-4002-8002-222222222222",
+      "titleDa": null,
+      "titleEn": "Postdoc in Marine Ecosystem and Food Web Network Modelling",
+      "shortTextDa": null,
+      "shortTextEn": "The Department of Ecoscience, Aarhus University, invites applications for a full-time postdoc for a period of 1.5 years.",
+      "descriptionDa": null,
+      "descriptionEn": {
+        "technicalText": "You will contribute to research on a project aimed at assessing cumulative impact of offshore windfarms on marine ecosystem productivity and food web. The work will consider the impacts of stressors to marine systems, especially related to offshore wind farms, and how they propagate through and disrupt the food web. You will be involved in the further development and application of cumulative impact assessment model using food webs, which is intended to assess impact of multi-stressors on trophic and non-trophic interactions networks.",
+        "hrText": "Applicants should hold a PhD in oceanography, marine ecology, computer sciences, data sciences or similar. Expert knowledge on network modelling, strong interest in marine ecology, and very good skills in scientific programming (e.g., R, Python, MatLab) are required.",
+        "auText": "The Department of Ecoscience is engaged in research programs and advisory work covering the major biological subdisciplines. We conduct world-class research in the areas of aquatic biology and ecology, Arctic environment and ecosystems, biodiversity, conservation biology and wildlife management. The department currently employs approximately 275 academic and technical staff."
+      },
+      "publicationDate": "2026-03-05T08:00:00+01:00",
+      "applicationDeadline": "2026-04-15T23:59:00+02:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0002-4002-8002-222222222222",
+      "languages": ["en"],
+      "lastUpdated": "2026-03-05T08:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": "2026-07-01",
+        "endDate": "2027-12-31"
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2001,
+      "departmentNameDa": "Institut for Ecoscience",
+      "departmentNameEn": "Department of Ecoscience"
+    },
+    "position": {
+      "positionTypeCode": "220",
+      "positionTypeDa": "Postdoc",
+      "positionTypeEn": "Postdoc"
+    },
+    "contacts": {
+      "technicalContactAuid": null,
+      "hrContactAuid": null
+    },
+    "address": {
+      "postalCode": "4000",
+      "city": "Roskilde"
+    }
+  }
+}

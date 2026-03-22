@@ -1,0 +1,677 @@
+openapi: 3.0.3
+info:
+  title: AuBusinessLogicRecruitmentDomain
+  version: "1.0"
+  description: |
+    Businesslogic service wrapping the external recruitment supplier system.
+    Exposes job postings and recruitment process data so that the external
+    recruitment vendor can synchronise open positions, application deadlines,
+    and recruitment status with AU's internal systems.
+  contact:
+    name: AU IT Development Support
+    email: support.development.it@au.dk
+servers:
+  - url: https://api.au.dk
+    description: Production (example)
+  - url: https://api-test.au.dk
+    description: Test (example)
+  - url: https://api-dev.au.dk
+    description: Development (example)
+
+tags:
+  - name: JobPostings
+    description: a posting made in connection with a recruitment
+  - name: RecruitmentProcesses
+    description: An AU recruitment process
+  - name: Ping
+    description: Service health endpoint
+
+security:
+  - bearerAuth:
+      - Recruitment.Read
+
+paths:
+  /v1/job-postings:
+    get:
+      tags: [JobPostings]
+      operationId: list-job-postings
+      summary: List job postings for synchronization.
+      description: a posting made in connection with a recruitment
+      parameters:
+        - name: updatedSince
+          in: query
+          required: false
+          description: lastUpdated attribute of JobPosting, filter from timestamp (ISO8601).
+          schema:
+            type: string
+            format: date-time
+        - name: limit
+          in: query
+          required: false
+          description: Max number of items to return.
+          schema:
+            type: integer
+            minimum: 1
+            maximum: 5000
+            default: 1000
+        - name: offset
+          in: query
+          required: false
+          description: Item offset for pagination.
+          schema:
+            type: integer
+            minimum: 0
+            default: 0
+      responses:
+        '200':
+          description: Job posting list returned
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/JobPostingListResponse'
+              examples:
+                sample:
+                  value:
+                    jobPostings:
+                      - jobPostingId: 4b1c2551-9de3-4d18-9ae1-b963298d0bb9
+                        recruitmentId: 20237
+                        titleDa: null
+                        titleEn: Tenure-track Assistant/Associate Professor/Professor in Ecophysiology and Ecology Department of Biology, Faculty of Natural Sciences, Aarhus University, Denmark
+                        shortTextDa: ''
+                        shortTextEn: ''
+                        publicationDate: '2026-02-16T10:54:00+02:00'
+                        applicationDeadline: '2026-06-01T23:59:00+02:00'
+                        applicationLink: https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=8cc6813b-3e14-4909-bb09-1df43463af40
+                        languages: [en]
+                        recruitmentStatus: 1
+                        departmentCode: 2847
+                        lastUpdated: '2026-02-16T10:54:00+02:00'
+                    paging:
+                      limit: 1000
+                      offset: 0
+                      returned: 1
+                      hasMore: false
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '403':
+          $ref: '#/components/responses/Forbidden'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+      security:
+        - bearerAuth:
+            - Recruitment.Read
+
+  /v1/recruitment-processes/{recruitmentId}:
+    get:
+      tags: [RecruitmentProcesses]
+      operationId: get-recruitment-process-by-id
+      summary: Get recruitment process by recruitmentId.
+      description: An AU recruitment requests a person to enter into a forthcoming AU Employment Relation. The recruitment, to some extent, defines the terms and conditions that will apply to the employment relation.
+      parameters:
+        - name: recruitmentId
+          in: path
+          required: true
+          description: recruitmentId attribute of Recruitmentprocess.
+          schema:
+            type: integer
+            format: int64
+            minimum: 1
+      responses:
+        '200':
+          description: Recruitment found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/JobRecruitmentResponse'
+              examples:
+                sample:
+                  value:
+                    recruitment:
+                      recruitmentId: 20237
+                      jobPosting:
+                        jobPostingId: 4b1c2551-9de3-4d18-9ae1-b963298d0bb9
+                        titleDa: null
+                        titleEn: Tenure-track Assistant/Associate Professor/Professor in Ecophysiology and Ecology Department of Biology, Faculty of Natural Sciences, Aarhus University, Denmark
+                        shortTextDa: ''
+                        shortTextEn: ''
+                        descriptionDa: null
+                        descriptionEn:
+                          technicalText: 'The Department of Biology at Aarhus University aims to advance and strengthen the Departments research and education program in ecophysiology and ecology.'
+                          hrText: 'Applications must be submitted online and received by: 1 June, 2026.'
+                          auText: 'Aarhus University is an academically diverse and research-intensive university with a strong commitment to high-quality research and education.'
+                        publicationDate: '2026-02-16T10:54:00+02:00'
+                        applicationDeadline: '2026-06-01T23:59:00+02:00'
+                        applicationLink: https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=8cc6813b-3e14-4909-bb09-1df43463af40
+                        languages: [en]
+                        lastUpdated: '2026-02-16T10:54:00+02:00'
+                      employment:
+                        period:
+                          startDate: '2026-10-01'
+                          endDate: null
+                        hoursPerWeek: 37
+                        fixedSalary: null
+                      organization:
+                        departmentCode: 2847
+                        departmentNameDa: Institut for Biologi
+                        departmentNameEn: Department of Biology
+                      position:
+                        positionTypeCode: '132'
+                        positionTypeDa: Tenure Track
+                        positionTypeEn: Tenure Track
+                      contacts:
+                        technicalContactAuid: '539754'
+                        hrContactAuid: '539754'
+                      address:
+                        postalCode: '8000'
+                        city: Aarhus C
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '403':
+          $ref: '#/components/responses/Forbidden'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+      security:
+        - bearerAuth:
+            - Recruitment.Read
+
+  /v1/job-postings/{jobPostingId}:
+    get:
+      tags: [JobPostings]
+      operationId: get-job-posting-by-id
+      summary: Get job posting by jobPostingId.
+      description: a posting made in connection with a recruitment
+      parameters:
+        - name: jobPostingId
+          in: path
+          required: true
+          description: jobPostingId attribute of JobPosting.
+          schema:
+            type: string
+            format: uuid
+      responses:
+        '200':
+          description: Job posting found
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/JobRecruitmentResponse'
+              examples:
+                sample:
+                  value:
+                    recruitment:
+                      recruitmentId: 20237
+                      jobPosting:
+                        jobPostingId: 4b1c2551-9de3-4d18-9ae1-b963298d0bb9
+                        titleDa: null
+                        titleEn: Tenure-track Assistant/Associate Professor/Professor in Ecophysiology and Ecology Department of Biology, Faculty of Natural Sciences, Aarhus University, Denmark
+                        shortTextDa: ''
+                        shortTextEn: ''
+                        descriptionDa: null
+                        descriptionEn:
+                          technicalText: 'The Department of Biology at Aarhus University aims to advance and strengthen the Departments research and education program in ecophysiology and ecology.'
+                          hrText: 'Applications must be submitted online and received by: 1 June, 2026.'
+                          auText: 'Aarhus University is an academically diverse and research-intensive university with a strong commitment to high-quality research and education.'
+                        publicationDate: '2026-02-16T10:54:00+02:00'
+                        applicationDeadline: '2026-06-01T23:59:00+02:00'
+                        applicationLink: https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=8cc6813b-3e14-4909-bb09-1df43463af40
+                        languages: [en]
+                        lastUpdated: '2026-02-16T10:54:00+02:00'
+                      employment:
+                        period:
+                          startDate: '2026-10-01'
+                          endDate: null
+                        hoursPerWeek: 37
+                        fixedSalary: null
+                      organization:
+                        departmentCode: 2847
+                        departmentNameDa: Institut for Biologi
+                        departmentNameEn: Department of Biology
+                      position:
+                        positionTypeCode: '132'
+                        positionTypeDa: Tenure Track
+                        positionTypeEn: Tenure Track
+                      contacts:
+                        technicalContactAuid: '539754'
+                        hrContactAuid: '539754'
+                      address:
+                        postalCode: '8000'
+                        city: Aarhus C
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '403':
+          $ref: '#/components/responses/Forbidden'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+      security:
+        - bearerAuth:
+            - Recruitment.Read
+
+  /v1/ping:
+    get:
+      tags: [Ping]
+      operationId: get-ping
+      summary: Validate the state of the service main dependencies.
+      description: Technical monitoring endpoint for BusinessLogicService runtime health.
+      security: []
+      responses:
+        '200':
+          description: Service is healthy
+        '424':
+          description: Failed Dependency
+          content:
+            application/problem+json:
+              schema:
+                $ref: '#/components/schemas/AuProblemDetails'
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AuProblemDetails'
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      description: "Enter your bearer token value in the text box below and click 'Authorize'. After closing this window you should be able to call the restricted operations to which your token provides access."
+      scheme: bearer
+
+  schemas:
+    JobPostingListResponse:
+      type: object
+      description: a posting made in connection with a recruitment
+      required: [jobPostings, paging]
+      properties:
+        jobPostings:
+          type: array
+          items:
+            $ref: '#/components/schemas/JobPostingListItem'
+        paging:
+          $ref: '#/components/schemas/Paging'
+
+    Paging:
+      type: object
+      description: Pagination metadata for list responses.
+      required: [limit, offset, returned, hasMore]
+      properties:
+        limit:
+          type: integer
+          minimum: 1
+        offset:
+          type: integer
+          minimum: 0
+        returned:
+          type: integer
+          minimum: 0
+        hasMore:
+          type: boolean
+
+    JobPostingListItem:
+      type: object
+      description: a posting made in connection with a recruitment
+      required:
+        - jobPostingId
+        - recruitmentId
+        - publicationDate
+        - applicationDeadline
+        - applicationLink
+        - languages
+        - recruitmentStatus
+        - departmentCode
+        - lastUpdated
+      properties:
+        jobPostingId:
+          type: string
+          format: uuid
+        recruitmentId:
+          type: integer
+          format: int64
+        titleDa:
+          type: string
+          nullable: true
+        titleEn:
+          type: string
+          nullable: true
+        shortTextDa:
+          type: string
+          nullable: true
+        shortTextEn:
+          type: string
+          nullable: true
+        publicationDate:
+          type: string
+          format: date-time
+        applicationDeadline:
+          type: string
+          format: date-time
+        applicationLink:
+          type: string
+          format: uri
+        languages:
+          type: array
+          minItems: 1
+          items:
+            type: string
+            enum: [da, en]
+        recruitmentStatus:
+          type: integer
+          description: "Status of the recruitment. 1 = Active, 2 = Closed."
+        departmentCode:
+          type: integer
+        lastUpdated:
+          type: string
+          format: date-time
+
+    JobRecruitmentResponse:
+      type: object
+      description: An AU recruitment requests a person to enter into a forthcoming AU Employment Relation. The recruitment, to some extent, defines the terms and conditions that will apply to the employment relation.
+      required: [recruitment]
+      properties:
+        recruitment:
+          $ref: '#/components/schemas/RecruitmentDetails'
+
+    RecruitmentDetails:
+      type: object
+      description: An AU recruitment requests a person to enter into a forthcoming AU Employment Relation. The recruitment, to some extent, defines the terms and conditions that will apply to the employment relation.
+      required:
+        - recruitmentId
+        - jobPosting
+        - organization
+      properties:
+        recruitmentId:
+          type: integer
+          format: int64
+        jobPosting:
+          $ref: '#/components/schemas/JobPostingDetails'
+        employment:
+          $ref: '#/components/schemas/Employment'
+        organization:
+          $ref: '#/components/schemas/Organization'
+        position:
+          $ref: '#/components/schemas/Position'
+        contacts:
+          $ref: '#/components/schemas/Contacts'
+        address:
+          $ref: '#/components/schemas/Address'
+
+    JobPostingDetails:
+      type: object
+      description: a posting made in connection with a recruitment
+      required:
+        - jobPostingId
+        - publicationDate
+        - applicationDeadline
+        - applicationLink
+        - languages
+        - lastUpdated
+      properties:
+        jobPostingId:
+          type: string
+          format: uuid
+        titleDa:
+          type: string
+          nullable: true
+        titleEn:
+          type: string
+          nullable: true
+        shortTextDa:
+          type: string
+          nullable: true
+        shortTextEn:
+          type: string
+          nullable: true
+        descriptionDa:
+          allOf:
+            - $ref: '#/components/schemas/LocalizedDescription'
+          nullable: true
+        descriptionEn:
+          allOf:
+            - $ref: '#/components/schemas/LocalizedDescription'
+          nullable: true
+        publicationDate:
+          type: string
+          format: date-time
+        applicationDeadline:
+          type: string
+          format: date-time
+        applicationLink:
+          type: string
+          format: uri
+        languages:
+          type: array
+          minItems: 1
+          items:
+            type: string
+            enum: [da, en]
+        lastUpdated:
+          type: string
+          format: date-time
+
+    LocalizedDescription:
+      type: object
+      description: Structured description texts for a job posting in a single language.
+      properties:
+        technicalText:
+          type: string
+          nullable: true
+        hrText:
+          type: string
+          nullable: true
+        auText:
+          type: string
+          nullable: true
+
+    Employment:
+      type: object
+      description: An AU recruitment requests a person to enter into a forthcoming AU Employment Relation. The recruitment, to some extent, defines the terms and conditions that will apply to the employment relation.
+      properties:
+        period:
+          allOf:
+            - $ref: '#/components/schemas/DatePeriodInclStart'
+          nullable: true
+        hoursPerWeek:
+          type: number
+          format: float
+          nullable: true
+        fixedSalary:
+          type: boolean
+          nullable: true
+
+    DatePeriodInclStart:
+      type: object
+      description: An inclusive-start date period with optional end date.
+      required: [startDate]
+      properties:
+        startDate:
+          type: string
+          format: date
+        endDate:
+          type: string
+          format: date
+          nullable: true
+      additionalProperties: false
+
+    Organization:
+      type: object
+      description: A unit that is part of one or more formal or informal hierarchical structures used for organising the tasks performed at AU, or for organising the persons carrying out these tasks. A unit has certain identifiable characteristics and forms an identifiable relation to or within AU.
+      required: [departmentCode]
+      properties:
+        departmentCode:
+          type: integer
+        departmentNameDa:
+          type: string
+          nullable: true
+        departmentNameEn:
+          type: string
+          nullable: true
+        mainAreaCode:
+          type: integer
+          nullable: true
+        mainArea:
+          $ref: '#/components/schemas/MainArea'
+        parentUnits:
+          type: array
+          items:
+            $ref: '#/components/schemas/ParentUnit'
+
+    MainArea:
+      type: object
+      description: A unit that is part of one or more formal or informal hierarchical structures used for organising the tasks performed at AU, or for organising the persons carrying out these tasks. A unit has certain identifiable characteristics and forms an identifiable relation to or within AU.
+      properties:
+        code:
+          type: integer
+        nameDa:
+          type: string
+          nullable: true
+        nameEn:
+          type: string
+          nullable: true
+
+    ParentUnit:
+      type: object
+      description: A unit that is part of one or more formal or informal hierarchical structures used for organising the tasks performed at AU, or for organising the persons carrying out these tasks. A unit has certain identifiable characteristics and forms an identifiable relation to or within AU.
+      properties:
+        code:
+          type: integer
+          nullable: true
+        nameDa:
+          type: string
+          nullable: true
+        nameEn:
+          type: string
+          nullable: true
+
+    Position:
+      type: object
+      description: An expression of the type of employment
+      properties:
+        positionTypeCode:
+          type: string
+          nullable: true
+        positionTypeDa:
+          type: string
+          nullable: true
+        positionTypeEn:
+          type: string
+          nullable: true
+
+    Contacts:
+      type: object
+      description: an AU Person who participates in a recruitment process in a recruitment role
+      properties:
+        technicalContactAuid:
+          type: string
+          nullable: true
+        hrContactAuid:
+          type: string
+          nullable: true
+
+    Address:
+      type: object
+      description: standardised print of address information on forms and letter mailings etc., based on the CPR standards
+      properties:
+        postalCode:
+          type: string
+          nullable: true
+        city:
+          type: string
+          nullable: true
+
+    AuProblemDetails:
+      type: object
+      properties:
+        type:
+          type: string
+          nullable: true
+        title:
+          type: string
+          nullable: true
+        status:
+          type: integer
+          format: int32
+          nullable: true
+        detail:
+          type: string
+          nullable: true
+        instance:
+          type: string
+          nullable: true
+        traceId:
+          type: string
+          nullable: true
+        externalTraceId:
+          type: string
+          nullable: true
+        errorCode:
+          type: integer
+          format: int32
+          nullable: true
+        errorLogged:
+          type: boolean
+          nullable: true
+        validationErrors:
+          type: array
+          items:
+            $ref: '#/components/schemas/AuValidationError'
+          nullable: true
+      additionalProperties: false
+
+    AuValidationError:
+      type: object
+      properties:
+        errorCode:
+          type: integer
+          format: int32
+          nullable: true
+        errorDescription:
+          type: string
+          nullable: true
+        memberNames:
+          type: array
+          items:
+            type: string
+      additionalProperties: false
+
+  responses:
+    BadRequest:
+      description: Bad Request
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/AuProblemDetails'
+        application/json:
+          schema:
+            $ref: '#/components/schemas/AuProblemDetails'
+
+    Unauthorized:
+      description: Unauthorized
+
+    Forbidden:
+      description: Forbidden
+
+    NotFound:
+      description: Not Found
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/AuProblemDetails'
+        application/json:
+          schema:
+            $ref: '#/components/schemas/AuProblemDetails'
+
+    InternalServerError:
+      description: Server Error
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/AuProblemDetails'
+        application/json:
+          schema:
+            $ref: '#/components/schemas/AuProblemDetails'

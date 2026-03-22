@@ -1,0 +1,49 @@
+{
+  "recruitment": {
+    "recruitmentId": 20237,
+    "jobPosting": {
+      "jobPostingId": "4b1c2551-9de3-4d18-9ae1-b963298d0bb9",
+      "titleDa": null,
+      "titleEn": "Tenure-track Assistant/Associate Professor/Professor in Ecophysiology and Ecology Department of Biology, Faculty of Natural Sciences, Aarhus University, Denmark",
+      "shortTextDa": "",
+      "shortTextEn": "",
+      "descriptionDa": null,
+      "descriptionEn": {
+        "technicalText": "The Department of Biology at Aarhus University aims to advance and strengthen the Departments research and education program in ecophysiology and ecology.",
+        "hrText": "Applications must be submitted online and received by: 1 June, 2026.",
+        "auText": "Aarhus University is an academically diverse and research-intensive university with a strong commitment to high-quality research and education."
+      },
+      "publicationDate": "2026-02-16T10:54:00+02:00",
+      "applicationDeadline": "2026-06-01T23:59:00+02:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=8cc6813b-3e14-4909-bb09-1df43463af40",
+      "languages": ["en"],
+      "lastUpdated": "2026-02-16T10:54:00+02:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": "2026-10-01",
+        "endDate": null
+      },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 2847,
+      "departmentNameDa": "Institut for Biologi",
+      "departmentNameEn": "Department of Biology"
+    },
+    "position": {
+      "positionTypeCode": "132",
+      "positionTypeDa": "Tenure Track",
+      "positionTypeEn": "Tenure Track"
+    },
+    "contacts": {
+      "technicalContactAuid": "539754",
+      "hrContactAuid": "539754"
+    },
+    "address": {
+      "postalCode": "8000",
+      "city": "Aarhus C"
+    }
+  }
+}

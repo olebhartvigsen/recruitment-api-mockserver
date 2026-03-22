@@ -1,0 +1,40 @@
+{
+  "recruitment": {
+    "recruitmentId": 20310,
+    "jobPosting": {
+      "jobPostingId": "7859ad5b-b846-4622-8080-4604e3881033",
+      "titleDa": null,
+      "titleEn": "Environmental HPLC-MS/MS Specialist - Academic Employee",
+      "shortTextDa": null,
+      "shortTextEn": "The Department of Environmental Science at Aarhus University is looking for a highly motivated and skilled HPLC-MS/MS specialist to contribute to research and monitoring projects on environmental pollutants, especially compounds of emerging concern.",
+      "descriptionDa": null,
+      "descriptionEn": {
+        "technicalText": "You will be contributing to establishing and developing new projects on removing environmental contaminants from contaminated water and soil. You will work primarily with HPLC-MS/MS and HPLC-HRMS as well as with bioreactors and other means of decontamination. The position will also support method development for compounds not yet covered by AU-ENVS, for both research projects and monitoring tasks.",
+        "hrText": "Experience in quantifying compounds by HPLC-MS/MS, identifying metabolites by high resolution mass spectrometry, and conducting larger projects (EU projects) is advantageous. Work experience with compounds of emerging concern, pesticides, bactericides, and food compounds is valued. This is a four-year fixed-term position from 1 June 2026 to 31 May 2030.",
+        "auText": "The Department of Environmental Science at Aarhus University is an interdisciplinary department in the Faculty of Technical Science, physically placed in Roskilde. The department ranges from environmental chemistry, air pollution and microbiology to social science. The Center for Advanced Water Purification focuses on the fate and removal of organic micropollutants from contaminated water."
+      },
+      "publicationDate": "2026-03-01T08:00:00+01:00",
+      "applicationDeadline": "2026-03-31T23:59:00+02:00",
+      "applicationLink": "https://AU.emply.net/recruitment/vacancyApply.aspx?publishingId=7859ad5b-b846-4622-8080-4604e3881033",
+      "languages": ["en"],
+      "lastUpdated": "2026-03-01T08:00:00+01:00"
+    },
+    "employment": {
+      "period": { "startDate": "2026-06-01", "endDate": "2030-05-31" },
+      "hoursPerWeek": 37,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 11001,
+      "departmentNameDa": "Institut for Miljøvidenskab",
+      "departmentNameEn": "Department of Environmental Science"
+    },
+    "position": {
+      "positionTypeCode": "440",
+      "positionTypeDa": "Videnskabelig assistent",
+      "positionTypeEn": "Research Assistant"
+    },
+    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
+    "address": { "postalCode": "4000", "city": "Roskilde" }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "recruitment": {
+    "recruitmentId": 20240,
+    "jobPosting": {
+      "jobPostingId": "c2e4a6b8-0003-4003-8003-333333333333",
+      "titleDa": "Innovativ studielivskoordinator søges til Arts - vikariat",
+      "titleEn": null,
+      "shortTextDa": "Er du fyldt med idéer til hvordan man bæredygtigt udvikler studielivet og studiemiljøet på Arts? Vi søger en studielivskoordinator til et 1-årigt vikariat på 30 timer ugentligt.",
+      "shortTextEn": null,
+      "descriptionDa": {
+        "technicalText": "Du bliver en del af teamet Vejledning og Studieinformation hvor du sammen med ni dygtige, dedikerede og hjælpsomme kolleger varetager opgaver inden for studie- og trivselsvejledning, rekruttering, kommunikation og supervision af 30 studenterstudie-vejledere. Dit særlige fokus kommer til at være centreret om trivsel og studieliv, herunder at skabe bæredygtige aktiviteter mod ensomhed, udvikle aktiviteter der højner studerendes tilhørsforhold og bidrage til studiestartsaktiviteter.",
+        "hrText": "Vi ønsker os en erfaren projektleder med evne til at arbejde selvstændigt og strategisk i en politisk styret organisation. Du skal kunne forhandle kontrakter og begå dig i komplekse samarbejdsstrukturer. Ansøgningsfrist: 23. marts 2026. Samtaler afholdes den 30. marts 2026.",
+        "auText": "Faculty of Arts er et af Nordeuropas væsentligste fakulteter for forskning og videregående uddannelse inden for humaniora, teologi og pædagogik. Inden for denne faglige bredde huser fakultetet omkring 700 forskere, 200 ph.d.-studerende og 9.000 bachelor- og kandidatstuderende."
+      },
+      "descriptionEn": null,
+      "publicationDate": "2026-03-03T08:00:00+01:00",
+      "applicationDeadline": "2026-03-23T23:59:00+01:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=c2e4a6b8-0003-4003-8003-333333333333",
+      "languages": ["da"],
+      "lastUpdated": "2026-03-03T08:00:00+01:00"
+    },
+    "employment": {
+      "period": {
+        "startDate": "2026-05-15",
+        "endDate": "2027-05-14"
+      },
+      "hoursPerWeek": 30,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 3001,
+      "departmentNameDa": "Arts Studier",
+      "departmentNameEn": "Arts Student Services"
+    },
+    "position": {
+      "positionTypeCode": "330",
+      "positionTypeDa": "Specialkonsulent",
+      "positionTypeEn": "Special Consultant"
+    },
+    "contacts": {
+      "technicalContactAuid": null,
+      "hrContactAuid": null
+    },
+    "address": {
+      "postalCode": "8000",
+      "city": "Aarhus C"
+    }
+  }
+}

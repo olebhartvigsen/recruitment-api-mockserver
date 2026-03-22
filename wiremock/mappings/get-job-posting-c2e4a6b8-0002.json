@@ -1,0 +1,17 @@
+{
+  "priority": 1,
+  "request": {
+    "method": "GET",
+    "url": "/v1/job-postings/c2e4a6b8-0002-4002-8002-222222222222"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json",
+      "Access-Control-Allow-Origin": "*",
+      "Access-Control-Allow-Methods": "GET, OPTIONS",
+      "Access-Control-Allow-Headers": "Authorization, Content-Type"
+    },
+    "bodyFileName": "job-posting-c2e4a6b8-0002-4002-8002-222222222222.json"
+  }
+}

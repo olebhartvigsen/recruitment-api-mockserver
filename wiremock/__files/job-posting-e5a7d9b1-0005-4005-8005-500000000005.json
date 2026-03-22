@@ -1,0 +1,40 @@
+{
+  "recruitment": {
+    "recruitmentId": 20250,
+    "jobPosting": {
+      "jobPostingId": "e5a7d9b1-0005-4005-8005-500000000005",
+      "titleDa": null,
+      "titleEn": "Student Instructor for Hacky Hours Study Café",
+      "shortTextDa": null,
+      "shortTextEn": "We are looking for a dedicated and academically strong student instructor to support fellow history students working independently on digital projects through a hacky hour study café in the library, two hours a week (22 hours in total).",
+      "descriptionDa": null,
+      "descriptionEn": {
+        "technicalText": "As a student instructor you will help students contextualize and apply the tools introduced in DAM to new projects, assist with troubleshooting, guide students in working on their own projects, and demonstrate best practices for computational thinking. The employment period is 1 September – 31 December 2026.",
+        "hrText": "We expect that you have completed the DAM course or a related subject with good results, are interested in teaching and motivated to help others understand complex topics, and are patient, approachable and able to communicate technical material accessibly. Employment is in accordance with the Ministry of Finance and SUL (student instructors).",
+        "auText": "The Faculty of Arts is one of Northern Europe's most significant faculties for research and higher education in the humanities, theology and education, comprising approximately 700 researchers, 200 PhD students and 9,000 Bachelor's and Master's degree students."
+      },
+      "publicationDate": "2026-03-12T08:00:00+01:00",
+      "applicationDeadline": "2026-04-20T23:59:00+02:00",
+      "applicationLink": "https://au.srl.dk/recruitment/apply?publishingId=e5a7d9b1-0005-4005-8005-500000000005",
+      "languages": ["en"],
+      "lastUpdated": "2026-03-12T08:00:00+01:00"
+    },
+    "employment": {
+      "period": { "startDate": "2026-09-01", "endDate": "2026-12-31" },
+      "hoursPerWeek": null,
+      "fixedSalary": null
+    },
+    "organization": {
+      "departmentCode": 8001,
+      "departmentNameDa": "Institut for Kultur og Samfund - Afdeling for Historie",
+      "departmentNameEn": "Department of Culture and Society - History"
+    },
+    "position": {
+      "positionTypeCode": "560",
+      "positionTypeDa": "Studenterunderviser",
+      "positionTypeEn": "Student Instructor"
+    },
+    "contacts": { "technicalContactAuid": null, "hrContactAuid": null },
+    "address": { "postalCode": "8000", "city": "Aarhus C" }
+  }
+}
